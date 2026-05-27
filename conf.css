@@ -1,0 +1,355 @@
+#popup {
+    /* width: 100%; */
+    padding: 50px 0;
+    text-align: center;
+    background-color: #eaf3da;
+    /* background-color: #ffff99; */
+    /* background-color: lightblue; */
+    margin-top: 20px;
+}
+body {
+    background-color: white;
+    font-size: 100%;
+}
+#intern {
+    background-color: #eaf3da;
+    margin-left: auto;
+    margin-right: auto;
+    width: 93%;
+    /* width: 75em; */
+    border: 1px dotted gray;
+    padding: 10px 10px 10px 10px;
+    font-weight: normal;
+    font-size:100%;
+    font-family: Verdana, Geneva, Arial Black, sans-serif;
+}
+h1 {
+    font-weight: bold;
+    font-size: 2.25em;
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    font-size: 1.6875em;
+    text-align: center;
+}
+h3 {
+    font-weight: bold;
+    font-size: 1.125em;
+    text-align: center;
+}
+h4 {
+    font-weight: bold;
+    font-size: 1.0em;
+    text-align: center;
+}
+nav.navlist {
+    /* font: bold 1.125em Verdana, Geneva, Arial Black, sans-serif; */
+    text-align: center;
+    width: 90%;
+    margin-left:  auto;
+    margin-right: auto;
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    padding: 0;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    /* background-color: lightgray; */
+}
+ul.navlist {
+    font: bold 1.125em Verdana, Geneva, Arial Black, sans-serif;
+    list-style-type: none;
+    /* margin: 0; */
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-left: 20%; */
+    /* margin-right: 20%; */
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+}
+li.navlist {
+    /* font: normal 1.125em helvetica, sans-serif; */
+    /* display: inline; */
+    float: left;
+    border-right: 1px solid red;
+}
+li.navlist:last-child {
+    border-right: none;
+}
+a:link, a:visited
+{
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+li.navlist a {
+    display: block;
+    background-color: #dddddd;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    /* padding: 14px 16px; */
+    text-decoration: none;
+}
+li.navlist a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+li.navlist a:hover {
+    background-color: red;
+    color: white;
+}
+b {
+    color: red;
+}
+hr {
+    color: red;
+}
+table {
+    border-width: 0px;
+}
+table.central {
+    margin-left:auto;
+    margin-right:auto;
+}
+/* Conference tables */
+table.conference thead,tfoot {
+    background-color:lime;
+    color:black;
+    font-weight: bold;
+    /* cursor: default; */
+}
+th {
+    text-align: left;
+    border-width: 2px;
+    padding: 5px;
+}
+td.confname {
+    position: relative;
+    text-align: left;
+    border-width: 0px;
+    padding: 0px;
+    background-color:pink;
+}
+
+/* Tooltip text */
+td.confname .tooltiptext {
+    display: none;
+    width: intrinsic;           /* Safari/WebKit uses a non-standard name */
+    width: -moz-max-content;    /* Firefox/Gecko */
+    width: -webkit-max-content; /* Chrome */
+    width: max-content;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 6px;
+    
+    /* Position the tooltip text - */
+    position: absolute;
+    top: -110%;
+    left: 105%;
+}
+
+td:not(.confname) {
+    text-align: left;
+    border-width: 2px;
+    padding: 5px;
+}
+td.confname:hover {
+    /* background-color:#ffff99; */
+    color: white;
+    background-color:black;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+td.confname:hover .tooltiptext {
+    display: block;
+}
+
+/* td:not(.confname):hover { */
+/*     background-color: #ffff99; */
+/* } */
+td.confname a {
+    display: block;
+    border-width: 2px;
+    padding: 5px;
+    text-decoration: none;
+}
+td.confname a:hover {
+    /* background-color:#ffff99; */
+    color: white;
+    background-color: black;
+}
+td.location:hover {
+    background-color:#ffff99;
+}
+td.deadline {
+    background-color:bisque;
+}
+td.deadline:hover {
+    background-color:#ffff99;
+}
+td.now-deadline {
+    background-color:bisque;
+    color:red;
+    font-weight: bold;
+}
+td.now-deadline:hover {
+    background-color:#ffff99;
+    color:red;
+    font-weight: bold;
+}
+td.date {
+    background-color:powderblue;
+}
+td.date:hover {
+    background-color:#ffff99;
+}
+td.year {
+    background-color:bisque;
+}
+td.year:hover {
+    background-color:#ffff99;
+}
+td.starting-date {
+    background-color:green;
+    color:white;
+}
+td.starting-date:hover {
+    background-color:#ffff99;
+    color:black;
+}
+td.ending-date {
+    background-color:red;
+    color:white;
+}
+td.ending-date:hover {
+    background-color:#ffff99;
+    color:black;
+}
+td.remark {
+    background-color:azure;
+}
+td.remark:hover {
+    background-color:#ffff99;
+}
+/* .remark { */
+/*     background-color:khaki; */
+/*     display: block; */
+/* } */
+/* .remark:hover { */
+/*     background-color:#ffff99; */
+/*     display: block; */
+/* } */
+td.remark-warning {
+    background-color:red;
+    color:white;
+    /* display: block; */
+}
+td.remark-warning:hover {
+    background-color:#ffff99;
+    color:black;
+    /* display: block; */
+}
+td.remark-no-warning {
+    background-color:green;
+    color:white;
+    /* display: block; */
+}
+td.remark-no-warning:hover {
+    background-color:#ffff99;
+    color:black;
+    /* display: block; */
+}
+td.running-date {
+    background-color:powderblue;
+    color:red;
+    font-weight: bold;
+}
+td.running-date:hover {
+    background-color:#ffff99;
+    color:red;
+    font-weight: bold;
+}
+td.notification {
+    background-color:thistle;
+}
+td.notification:hover {
+    background-color:#ffff99;
+}
+td.final {
+    background-color:bisque;
+}
+td.final:hover {
+    background-color:#ffff99;
+}
+td.registration {
+    background-color:khaki;
+}
+td.registration:hover {
+    background-color:#ffff99;
+}
+td.subformat:hover {
+    background-color:#ffff99;
+}
+.strike {
+    text-decoration: line-through;
+}
+
+/* Tooltip text */
+.part .tooltiptext {
+    display: none;
+    /* visibility: hidden; */
+    width: intrinsic;           /* Safari/WebKit uses a non-standard name */
+    width: -moz-max-content;    /* Firefox/Gecko */
+    width: -webkit-max-content; /* Chrome */
+    width: max-content;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 6px;
+    
+    /* Position the tooltip text - */
+    position: absolute;
+    top: -110%;
+    right: 105%;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.part:hover .tooltiptext {
+    display: block;
+    /* visibility: visible; */
+}
+
+/* a:link, a:visited { */
+/*     text-decoration: none; */
+/*     color: darkblue; */
+/*     font-weight: bold; */
+/* } */
+/* a:visited { */
+/*     text-decoration: none; */
+/*     font-weight: bold; */
+/*     color: purple; */
+/* } */
+a[href]:hover, a[href]:active {
+    text-decoration: none;
+    color: white;
+    background: black;
+}
+img { border: 0; }
+p.central, div.central {
+    text-align: center;
+}
+p.justified {
+    text-align: justify;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}

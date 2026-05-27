@@ -1,0 +1,75 @@
+AISC Australasian Information Security Conference
+ALT Algorithmic Learning Theory
+ANALCO Analytic Algorithmics and Combinatorics
+APOCS Algorithmic Principles of Computer Systems
+AlCoB Algorithms for Computational Biology
+BICOB Bioinformatics and Computational Biology
+BLAST <b>B</b>oolean Algebras; <b>L</b>attices, Algebraic Logic and Quantum Logic; Universal <b>A</b>lgebra; <b>S</b>et Theory;  Set-theoretic and Point-free <b>T</b>opology
+CADE Conference on Automated Deduction
+CALDAM Conference on Algorithms and Discrete Applied Mathematics
+CELT Connections between Epistemic Logic and Topology
+CIAC International Conference on Algorithms and Complexity
+CLAS Computational Logic Autumn Summit
+COCOA Conference on Combinatorial Optimization and Applications
+CPP Certified Programs and Proofs
+CSCML Cyber Security, Cryptology and Machine Learning
+CSR Computer Science Symposium in Russia
+CTW Cologne-Twente Workshop on Graphs and Combinatorial Optimization
+CooPMAS Cooperative Games and Multiagent Systems
+DaL&iacute; Dynamic Logic: new trends and applications
+Datalog 2.0 Datalog 2.0
+ECAI European Conference on Artificial Intelligence
+EISA Emerging Information Security and Applications
+EURO EURO
+EuroGP European Conference on Genetic Programming
+Eurocomb European Conference on Combinatorics, Graph Theory and Applications
+EvoAPPS Applications of Evolutionary Computation
+EvoCOP Evolutionary Computation in Combinatorial Optimisation
+EvoMUSART Artificial Intelligence in Music, Sound, Art and Design
+EvoStar Evo*
+FACS Formal Aspects of Component Software
+FASE Fundamental Approaches to Software Engineering
+FCRC Federated Computing Research Conference
+FCT Fundamentals of Computation Theory
+FROM Working Formal Methods Symposium
+FTSCS Formal Techniques for Safety-Critical Systems
+FoIKS Foundations of Information and Knowledge Systems
+GETCO Geometric and Topological Methods in Computer Science
+ICFCA International Conference on Formal Concept Analysis
+ICGraThe International Conference on Graph Theory
+ICICS International Conference on Information and Communications Security
+IDA Intelligent Data Analysis
+ILP Inductive Logic Programming
+ISCO International Symposium on Combinatorial Optimization
+ISPDC International Symposium on Parallel and Distributed Computing
+ITCS Innovations in Theoretical Computer Science
+JELIA European Conference on Logics in Artificial Intelligence
+KI German Conference on Artificial Intelligence
+LAGOS Latin-American Algorithms, Graphs and Optimization Symposium
+LATA Language and Automata Theory and Applications
+LATIN Latin American Theoretical Informatics Symposium
+LearnAut Learning and Automata
+MLN Machine Learning for Networking
+MPC Mathematics of Program Construction
+NFM NASA Formal Methods
+OLA Optimization and Learning
+PADL Practical Aspects of Declarative Languages
+PC Proof Complexity
+PLP Probabilistic Logic Programming
+PRIMA Principles and Practice of Multi-Agent Systems
+PaCT Parallel Architectures and Compilation Techniques
+RAMiCS Relational and Algebraic Methods in Computer Science
+SAGT Symposium on Algorithmic Game Theory
+SLSS Scandinavian Logic Symposium
+STAF Software Technologies: Applications and Foundations
+TABLEAUX Automated Reasoning with Analytic Tableaux and Related Methods
+TAMC Theory and Applications of Models of Computation
+TAP Tests and Proofs
+TPNC Theory and Practice of Natural Computing
+WABCT Workshop on Algorithms, Bioinformatics, and Computation Theory
+WADS Algorithms and Data Structures
+WALCOM International Conference and Workshops on Algorithms and Computation
+WFLP Workshop on Functional and Logic Programming
+WRLA Workshop on Rewriting Logic and its Applications
+iPRA Interpolation: From Proofs to Applications
+onto4FAIR Ontologies for FAIR and FAIR Ontologies
