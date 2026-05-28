@@ -1,26 +1,48 @@
+ACDA Applied and Computational Discrete Algorithms
+ADG Automated Deduction in Geometry
 AISC Australasian Information Security Conference
 ALT Algorithmic Learning Theory
 ANALCO Analytic Algorithmics and Combinatorics
 APOCS Algorithmic Principles of Computer Systems
+ASE Automated Software Engineering
+AUTOMATA Cellular Automata and Discrete Complex Systems
 AlCoB Algorithms for Computational Biology
 BICOB Bioinformatics and Computational Biology
 BLAST <b>B</b>oolean Algebras; <b>L</b>attices, Algebraic Logic and Quantum Logic; Universal <b>A</b>lgebra; <b>S</b>et Theory;  Set-theoretic and Point-free <b>T</b>opology
 CADE Conference on Automated Deduction
+CALCO Conference on Algebra and Coalgebra in Computer Science
 CALDAM Conference on Algorithms and Discrete Applied Mathematics
+CCS Computer and Communication Security
 CELT Connections between Epistemic Logic and Topology
 CIAC International Conference on Algorithms and Complexity
+CILC Italian Conference on Computational Logic
+CLAR International Conference on Logic and Argumentation
 CLAS Computational Logic Autumn Summit
 COCOA Conference on Combinatorial Optimization and Applications
+CPML Bridge on Constraint Programming and Machine Learning
 CPP Certified Programs and Proofs
 CSCML Cyber Security, Cryptology and Machine Learning
 CSR Computer Science Symposium in Russia
 CTW Cologne-Twente Workshop on Graphs and Combinatorial Optimization
+CanaDAM Canadian Discrete and Algorithmic Mathematics Conference
 CooPMAS Cooperative Games and Multiagent Systems
+DCC Data Compression Conference
+DCM Developments in Computational Models
+DECLARE Declarative Programming
+DEON Deontic Logic and Normative Systems
+DSAA Data Science and Advanced Analytics
 DaL&iacute; Dynamic Logic: new trends and applications
 Datalog 2.0 Datalog 2.0
 ECAI European Conference on Artificial Intelligence
+ECCO European Chapter on Combinatorial Optimization
+ECSQARU European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
 EISA Emerging Information Security and Applications
+EMAS Engineering Multi-Agent Systems
+EML Evolutionary Machine Learning
+EPIA Portuguese Conference on Artificial Intelligence
 EURO EURO
+EUROCRYPT Theory and Applications of Cryptographic Techniques
+EXTRAAMAS EXplainable, Trustworthy, and Responsible AI and Multi-Agent Systems
 EuroGP European Conference on Genetic Programming
 Eurocomb European Conference on Combinatorics, Graph Theory and Applications
 EvoAPPS Applications of Evolutionary Computation
@@ -29,47 +51,98 @@ EvoMUSART Artificial Intelligence in Music, Sound, Art and Design
 EvoStar Evo*
 FACS Formal Aspects of Component Software
 FASE Fundamental Approaches to Software Engineering
+FCAI Foundations and Future of Change in Artificial Intelligence
+FCDS Financial Cryptography and Data Security
 FCRC Federated Computing Research Conference
 FCT Fundamentals of Computation Theory
+FICS Fixed Points in Computer Science
+FLAIRS FLorida Artificial Intelligence Research Society Conference
+FM Formal Methods
+FOIS Formal Ontology in Information Systems
 FROM Working Formal Methods Symposium
 FTSCS Formal Techniques for Safety-Critical Systems
+FUN Fun With Algorithms
 FoIKS Foundations of Information and Knowledge Systems
+FroCoS Frontiers of Combining Systems
 GETCO Geometric and Topological Methods in Computer Science
+HCVS Horn Clauses for Verification and Synthesis
+HOR Higher-Order Rewriting
+ICAA International Conference on Applied Algorithms
+ICCS International Conference on Conceptual Structures
+ICDCN International Conference on Distributed Computing and Networking
 ICFCA International Conference on Formal Concept Analysis
 ICGraThe International Conference on Graph Theory
 ICICS International Conference on Information and Communications Security
+ICLA Indian Conference on Logic and its Applications
 IDA Intelligent Data Analysis
+IJCKG International Joint Conference on Knowledge Graphs
 ILP Inductive Logic Programming
+IOTSMS Internet of Things: Systems, Management and Security
 ISCO International Symposium on Combinatorial Optimization
 ISPDC International Symposium on Parallel and Distributed Computing
+ISPEC Information Security Practice and Experience
 ITCS Innovations in Theoretical Computer Science
+IWAE International Workshop on Algorithms in Engineering
+IWIL International Workshop on the Implementation of Logics
 JELIA European Conference on Logics in Artificial Intelligence
+K-CAP International Conference on Knowledge Capture
 KI German Conference on Artificial Intelligence
 LAGOS Latin-American Algorithms, Graphs and Optimization Symposium
 LATA Language and Automata Theory and Applications
 LATIN Latin American Theoretical Informatics Symposium
+LOD Machine <b>L</b>earning, <b>O</b>ptimization, <b>D</b>ata Science
+LORI Logic, Rationality and Interaction
 LearnAut Learning and Automata
+MFPS Mathematical Foundations of Programming Semantics
+MLCS Machine Learning for Cybersecurity
 MLN Machine Learning for Networking
 MPC Mathematics of Program Construction
 NFM NASA Formal Methods
 OLA Optimization and Learning
 PADL Practical Aspects of Declarative Languages
 PC Proof Complexity
+PKC Public Key Cryptography
 PLP Probabilistic Logic Programming
+PRICAI Pacific Rim International Conference on Artificial Intelligence
 PRIMA Principles and Practice of Multi-Agent Systems
+PST Privacy, Security &amp; Trust
 PaCT Parallel Architectures and Compilation Techniques
+PetriNets Petri Nets
+PoS Pragmatics of SAT
+ProofComplexity Workshop on Proof Complexity
+QUANTIFY Workshop on Quantification
 RAMiCS Relational and Algebraic Methods in Computer Science
+ReacTS Reconfigurable Transition Systems
+SAC Symposium On Applied Computing
 SAGT Symposium on Algorithmic Game Theory
+SCAI Scandinavian Conference on AI
+SCSS Symbolic Computation in Software Science
+SEFM Software Engineering and Formal Methods
+SEMANTICS Semantic Systems
+SISAP Similarity Search and Applications
 SLSS Scandinavian Logic Symposium
+SMT Satisfiability Modulo Theories
+SPIN International Symposium on Model Checking Software
 STAF Software Technologies: Applications and Foundations
+SmartData Smart Data
 TABLEAUX Automated Reasoning with Analytic Tableaux and Related Methods
 TAMC Theory and Applications of Models of Computation
 TAP Tests and Proofs
+TLLA Trends in Linear Logic and Applications
 TPNC Theory and Practice of Natural Computing
+TYPES Types for Proofs and Programs
+TbiLLC Tbilisi Symposium on Logic, Language and Computation
+VMCAI Verification, Model Checking, and Abstract Interpretation
 WABCT Workshop on Algorithms, Bioinformatics, and Computation Theory
 WADS Algorithms and Data Structures
+WAIT Workshop on Automated (Co)Inductive Theorem Proving
 WALCOM International Conference and Workshops on Algorithms and Computation
 WFLP Workshop on Functional and Logic Programming
+WISE Web Information Systems Engineering
+WORDS Combinatorics on Words
 WRLA Workshop on Rewriting Logic and its Applications
+WTSC Workshop on Trusted Smart Contracts
+XLoKR Explainable Logic-Based Knowledge Representation
+iFM Integrated Formal Methods
 iPRA Interpolation: From Proofs to Applications
 onto4FAIR Ontologies for FAIR and FAIR Ontologies

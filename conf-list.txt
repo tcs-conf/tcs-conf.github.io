@@ -2,7 +2,6 @@ AAAI=>Artificial Intelligence
 AAIM=>Algorithmic Aspects in Information and Management
 AAMAS=>Autonomous Agents and Multiagent Systems
 ACDA=>Applied and Computational Discrete Algorithms
-ADEMAL=>Automated Deduction for Machine Learning
 ADG=>Automated Deduction in Geometry
 ADT=>Algorithmic Decision Theory
 AISC=>Australasian Information Security Conference
