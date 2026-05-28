@@ -75,7 +75,6 @@ DISC=>Distributed Computing
 DL=>Description Logics
 DLT=>Developments in Language Theory
 DSAA=>Data Science and Advanced Analytics
-DUMMY=>conference for dummies
 DaL&iacute;=>Dynamic Logic: new trends and applications
 Datalog 2.0=>Datalog 2.0
 DisCoTec=>Distributed Computing Techniques
