@@ -364,10 +364,10 @@
       <h1>Conferences in Theoretical Computer Science</h1>
 
       <nav class="navlist">
-	<ul class="navlist">
-      	  <li class="navlist"><a href="http://www.lix.polytechnique.fr/~hermann/conf.php">Main page</a></li>
-	  <li class="navlist"><a href="http://www.nicolas-hermann.net/conf.php">Mirror</a></li>
-	</ul>
+        <ul class="navlist">
+	  <li class="navlist"><a href="http://www.lix.polytechnique.fr/~hermann/conf.php">Main page</a></li>
+          <li class="navlist"><a href="http://www.nicolas-hermann.net/conf.php">Mirror</a></li>
+        </ul>
       </nav>
 
       <p></p>
@@ -2408,31 +2408,7 @@
       </p>
 
       <p class="central">
-	<a href=<?php
-                 $raw_plan = <<< EOF0
-                 mailto:hermann_at_lix_dot_polytechnique_dot_fr?Subject=[conf] New planned conference with tentative schedule&body=Please, include the following conference with the tentative dates into your planning.%0A
-                 %0A
-                 %09<tr>%0A
-           %09%09<td class="confname"><a href="http://my-url" target="_blank">My Conference</a></td>%0A
-           %09%09<td class="year">Planning year</td>%0A
-           %09%09<td class="location">My city, My country</td>%0A
-           %09%09<td class="starting-date">DD1 MONTH YYYY starting date</td>%0A
-           %09%09<td class="ending-date">DD2 MONTH YYYY ending date</td>%0A
-           %09%09<td class="remark"></td>%0A
-           %09</tr>%0A
-           %0A
-           Thanks in advance.%0A
-           Best regards,%0A
-           %0A
-           John Doe
-           EOF0;
-           $mail_plan = htmlentities($raw_plan, ENT_QUOTES);
-	   echo "\"$mail_plan\"\n";
-
-           ?>
-	target="_top">
-	E-mail with a template for a <b>planned conference</b>
-</a>
+        <a href="mailto:hermann_at_lix_dot_polytechnique_dot_fr?cc=martin_dot_krejca_at_polytechnique_dot_edu&subject=%5Bconf%5D%20New%20planned%20conference%20with%20tentative%20schedule&body=Please%2C%20include%20the%20following%20conference%20with%20the%20tentative%20dates%20into%20your%20planning.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%3Etarget%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22year%22%3EPlanning%20year%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22starting-date%22%3EDD1%20MONTH%20YYYY%20starting%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22ending-date%22%3EDD2%20MONTH%20YYYY%20ending%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22remark%22%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail with a template for a <b>planned conference</b></a>
 </p>
 
 <table class="conference">
@@ -2641,59 +2617,13 @@
   with one of the following templates:
 </p>
 
-<p class="central">
-  <a href=<?php
-           $raw_ahead = <<< EOF1
-           mailto:hermann_at_lix_dot_polytechnique_dot_fr?Subject=[conf] New conference with deadline ahead&body=Please, include the following conference in your list.%0A
-           %0A
-           %09<tr>%0A
-     %09%09<td class="confname"><a href="http://my-url" target="_blank">My Conference</a></td>%0A
-     %09%09<td class="location">My city, My country</td>%0A
-     %09%09<td class="deadline">DD MONTH YYYY deadline</td>%0A
-     %09%09<td class="date">DD1-DD2 MONTH YYYY date</td>%0A
-     %09%09<td class="notification">DD MONTH YYYY notification of acceptance</td>%0A
-     %09%09<td class="subformat">Submission format</td>%0A
-     %09</tr>%0A
-     %0A
-     Thanks in advance.%0A
-     Best regards,%0A
-     %0A
-     John Doe
-     EOF1;
-     $mail_ahead = htmlentities($raw_ahead, ENT_QUOTES);
-     echo "\"$mail_ahead\"\n";
-     ?>
-  target="_top">
-  E-mail with a template for a conference with its <b>deadline ahead</b>
-</a>
+      <p class="central">
+        <a href="mailto:hermann_at_lix_dot_polytechnique_dot_fr?cc=martin_dot_krejca_at_polytechnique_dot_edu&subject=%5Bconf%5D%20New%20conference%20with%20deadline%20ahead&body=Please%2C%20include%20the%20following%20conference%20in%20your%20list.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%20target%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22deadline%22%3EDD%20MONTH%20YYYY%20deadline%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22date%22%3EDD1-DD2%20MONTH%20YYYY%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22notification%22%3EDD%20MONTH%20YYYY%20notification%20of%20acceptance%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22subformat%22%3Eformat%20of%20submission%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail with a template for a conference with its <b>deadline ahead</b></a>
 
 <br><br>
 
-<a href=<?php
-         $raw_over = <<< EOF2
-         mailto:hermann_at_lix_dot_polytechnique_dot_fr?Subject=[conf] New future conference with deadline over&body=Please, include the following conference in your list.%0A
-         %0A
-         %09<tr>%0A
-   %09%09<td class="confname"><a href="http://my-url" target="_blank">My Conference</a></td>%0A
-   %09%09<td class="location">My city, My country</td>%0A
-   %09%09<td class="date">DD1-DD2 MONTH YYYY date</td>%0A
-   %09%09<td class="notification">DD MONTH YYYY notification of acceptance</td>%0A
-   %09%09<td class="final">DD MONTH YYYY final version due</td>%0A
-   %09%09<td class="registration">DD MONTH YYYY early registration</td>%0A
-   %09%09<td class="remark"></td>%0A
-   %09</tr>%0A
-   %0A
-   Thanks in advance.%0A
-   Best regards,%0A
-   %0A
-   John Doe
-   EOF2;
-   $mail_over = htmlentities($raw_over, ENT_QUOTES);
-   echo "\"$mail_over\"\n";
-   ?>
-target="_top">
-E-mail with a template for a <b>future conference with deadline over</b>
-</a>
+<a href="mailto:hermann_at_lix_dot_polytechnique_dot_fr?cc=martin_dot_krejca_at_polytechnique_dot_edu&subject=%5Bconf%5D%20%20New%20future%20conference%20with%20deadline%20over&body=Please%2C%20include%20the%20following%20conference%20in%20your%20list.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%20target%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22date%22%3EDD1-DD2%20MONTH%20YYYY%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22notification%22%3EDD%20MONTH%20YYYY%20notification%20of%20acceptance%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22final%22%3EDD%20MONTH%20YYYY%20final%20version%20due%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22registration%22%3EDD%20MONTH%20YYYY%20early%20registration%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22remark%22%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail with a template for a <b>future conference with deadline over</b></a>
+
 </p>
 
 <p>
@@ -2774,11 +2704,11 @@ E-mail with a template for a <b>future conference with deadline over</b>
   </a>
 </p>
 
-<p>&copy; Miki Hermann (LIX, Ecole Polytechnique), 2015-2026</p>
+<p>&copy; Miki Hermann &amp; Martin Krej&ccaron;a (LIX, Ecole Polytechnique), 2015-2026</p>
 
 <!-- Created: Wed Dec 30 18:09:29 CET 2015 -->
 <!-- hhmts start -->
-Last modified: Wed, 27 May 2026 10:34:52 CEST
+Last modified: Thu, 28 May 2026 07:32:08 CEST
 <!-- hhmts end -->
 </div>
 </body>
