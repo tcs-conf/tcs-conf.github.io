@@ -1,0 +1,120 @@
+{
+  "template-ahead": {
+    "scope": "html",
+    "prefix": "template-ahead",
+    "body": [
+      "<tr>\r",
+      "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
+      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "  </td>\r",
+      "  <td class=\"location\">${4:location}</td>\r",
+      "  <td class=\"deadline\">${5:deadline}</td>\r",
+      "  <td class=\"date\">${6:date}</td>\r",
+      "  <td class=\"notification\">${7:notification}</td>\r",
+      "  <td class=\"subformat\">${8:subformat}</td>\r",
+      "</tr>\r",
+      ""
+    ],
+    "description": "template-ahead template"
+  },
+  "template-dblind": {
+    "scope": "html",
+    "prefix": "template-dblind",
+    "body": [
+      "<b>double-blind</a>\r",
+      ""
+    ],
+    "description": "template-dblind template"
+  },
+  "template-final": {
+    "scope": "html",
+    "prefix": "template-final",
+    "body": [
+      "  <td class=\"final\"></td>\r",
+      ""
+    ],
+    "description": "template-final template"
+  },
+  "template-lipics": {
+    "scope": "html",
+    "prefix": "template-lipics",
+    "body": [
+      "<a href=\"https://submission.dagstuhl.de/styles/download-tag/lipics/v2021.1.3/authors/zip/lipics-authors-v2021.1.3.zip\">LIPIcs</a>\r",
+      ""
+    ],
+    "description": "template-lipics template"
+  },
+  "template-lncs": {
+    "scope": "html",
+    "prefix": "template-lncs",
+    "body": [
+      "<a href=\"llncs2e.zip\">LNCS</a>\r",
+      ""
+    ],
+    "description": "template-lncs template"
+  },
+  "template-over": {
+    "scope": "html",
+    "prefix": "template-over",
+    "body": [
+      "<tr>\r",
+      "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
+      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "  </td>\r",
+      "  <td class=\"location\">${4:location}</td>\r",
+      "  <td class=\"date\">${5:date}</td>\r",
+      "  <td class=\"notification\">${6:notification}</td>\r",
+      "  <td class=\"final\"></td>\r",
+      "  <td class=\"registration\">${7:registration}</td>\r",
+      "  <td class=\"remark\">${8:remark}</td>\r",
+      "</tr>\r",
+      ""
+    ],
+    "description": "template-over template"
+  },
+  "template-part": {
+    "scope": "html",
+    "prefix": "template-part",
+    "body": [
+      "part of <a href=\"\" target=\"_blank\">XXX</a>\r",
+      ""
+    ],
+    "description": "template-part template"
+  },
+  "template-planning": {
+    "scope": "html",
+    "prefix": "template-planning",
+    "body": [
+      "<tr>\r",
+      "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
+      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "  </td>\r",
+      "  <td class=\"year\">${4:year}</td>\r",
+      "  <td class=\"location\">${5:location}</td>\r",
+      "  <td class=\"starting-date\">${6:starting-date}</td>\r",
+      "  <td class=\"ending-date\">${7:ending-date}</td>\r",
+      "  <td class=\"remark\">${8:remark}</td>\r",
+      "</tr>\r",
+      ""
+    ],
+    "description": "template-planning template"
+  },
+  "template-registration": {
+    "scope": "html",
+    "prefix": "template-registration",
+    "body": [
+      "  <td class=\"registration\">${1:registration}</td>\r",
+      ""
+    ],
+    "description": "template-registration template"
+  },
+  "template-remark": {
+    "scope": "html",
+    "prefix": "template-remark",
+    "body": [
+      "  <td class=\"remark\">${1:remark}</td>\r",
+      ""
+    ],
+    "description": "template-remark template"
+  }
+}
