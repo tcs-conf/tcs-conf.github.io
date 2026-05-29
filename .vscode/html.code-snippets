@@ -5,7 +5,7 @@
     "body": [
       "<tr>\r",
       "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
-      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "    <span class=\"tooltiptext\">${2:acronym}</span>\r",
       "  </td>\r",
       "  <td class=\"location\">${4:location}</td>\r",
       "  <td class=\"deadline\">${5:deadline}</td>\r",
@@ -59,7 +59,7 @@
     "body": [
       "<tr>\r",
       "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
-      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "    <span class=\"tooltiptext\">${2:acronym}</span>\r",
       "  </td>\r",
       "  <td class=\"location\">${4:location}</td>\r",
       "  <td class=\"date\">${5:date}</td>\r",
@@ -76,7 +76,7 @@
     "scope": "html",
     "prefix": "template-part",
     "body": [
-      "part of <a href=\"\" target=\"_blank\">XXX</a>\r",
+      "part of <a href=\"\" target=\"_blank\">${1:acronym}</a>\r",
       ""
     ],
     "description": "template-part template"
@@ -87,7 +87,7 @@
     "body": [
       "<tr>\r",
       "  <td class=\"confname\"><a href=\"${3:no-webpage-yet.html}\" target=\"_blank\">${1:acronym}</a>\r",
-      "    <span class=\"tooltiptext\"><?php echo \\$full_name['${2:acronym}']; ?></span>\r",
+      "    <span class=\"tooltiptext\">${2:acronym}</span>\r",
       "  </td>\r",
       "  <td class=\"year\">${4:year}</td>\r",
       "  <td class=\"location\">${5:location}</td>\r",
