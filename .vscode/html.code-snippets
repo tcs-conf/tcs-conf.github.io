@@ -21,7 +21,7 @@
     "scope": "html",
     "prefix": "template-dblind",
     "body": [
-      "<b>double-blind</a>\r",
+      "<b>double-blind</b>\r",
       ""
     ],
     "description": "template-dblind template"
