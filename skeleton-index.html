@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>List of Conferences in Theoretical Computer Science</title>
+  <meta name="description" content="List of conferences in  <!-- write the subject of your conferences here --> ">
+  <meta name="keywords" content="<!-- write keywords for your conference here -->">
+  <meta name="author" content=" <!-- write your name here --> ">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    function popUp(id) {
+      var x = document.getElementById(id);
+      var y = document.getElementById('btn');
+      if (y.innerHTML === 'show') {
+        y.innerHTML = 'hide';
+        x.style.display = 'block';
+      } else {
+        y.innerHTML = 'show';
+        x.style.display = 'none';
+      }
+    };
+  </script>
+  <link rel="stylesheet" href="conf.css">
+</head>
+
+<body>
+  <div id="intern">
+    <h1>Conferences in  <!-- write the subject of your conferences here --> </h1>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a class="active" href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <p><b style="font-size:1.25em">WARNING</b></p>
+    <ul>
+      <!-- <li></li> -->
+      <!-- write some warning here -->
+      <li>If you wish <a href="#instructions">your conference</a> to be listed here &mldr; follow these <a
+          href="#instructions">instructions</a></li>
+      <li>All information on this page is given <b>without any warranty</b>.</li>
+      <li>When there are two dealine dates, the first is for the abstract, the second for the full paper.</li>
+      <li>All deadlines are 23:59 <a href="http://www.timeanddate.com/time/zones/aoe" target="_blank">Anywhere on
+          Earth</a> (<a href="http://www.timeanddate.com/time/zones/aoe" target="_blank">AoE</a>) (UTC-12:00) if not
+        stated otherwise.</li>
+      <li>Be aware that some special deadline times, others than <a href="http://www.timeanddate.com/time/zones/aoe"
+          target="_blank">AoE</a>, might be <b>one hour earlier</b>, because of daylight saving time, even if the
+        conference organizers indicated the time without the daylight saving time shift.</li>
+      <li>Be also aware, that the daylight saving time starts and ends on different days in Europe and North America.
+      </li>
+      <li>The <b>calendar</b> for the years <a href="http://www.timeanddate.com/calendar/" target="_blank">2026</a> and
+        <a href="http://www.timeanddate.com/calendar/?year=2027" target="_blank">2027</a> can help you to consider the
+        deadlines and dates.
+      </li>
+      <li>Your time zone is
+        <b>UTC
+          <script>
+            var split = new Date().toString().split(" ");
+            var tzf1 = split[5].match(/([\+-][0-9]{2})/)[1];
+            var tzf2 = split[5].match(/([0-9]{2}$)/)[1];
+            document.write(tzf1 + ":" + tzf2);
+          </script>
+        </b>
+        <script>
+          document.write("(" + Intl.DateTimeFormat().resolvedOptions().timeZone + ")");
+        </script>
+      </li>
+      <!-- <li></li> -->
+    </ul>
+
+    <h2 id="ahead">Deadline ahead</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a class="active" href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <table class="conference">
+      <thead>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Deadline</th>
+          <th>Date</th>
+          <th>Notification</th>
+          <th>Submission format and comments</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- use template-ahead.htmlto write conference items here -->
+        <!-- <tr> -->
+        <!--   <td class="confname"><a href="no-webpage-yet.html" target="_blank">XXX</a> -->
+        <!--     <span class="tooltiptext">XXX</span> -->
+        <!--   </td> -->
+        <!--   <td class="location"></td> -->
+        <!--   <td class="deadline"></td> -->
+        <!--   <td class="date"></td> -->
+        <!--   <td class="notification"></td> -->
+        <!--   <td class="subformat"></td> -->
+        <!-- </tr> -->
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Deadline</th>
+          <th>Date</th>
+          <th>Notification</th>
+          <th>Submission format and comments</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h2 id="running">Running conferences</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a class="active" href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <table class="conference">
+      <thead>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Date</th>
+          <th>Remark</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- use template-running.html to write running conferences here -->
+        <!-- <tr> -->
+        <!--   <td class="confname"><a href="no-webpage-yet.html" target="_blank">XXX</a> -->
+        <!--     <span class="tooltiptext">XXX</span> -->
+        <!--   </td> -->
+        <!--   <td class="location"></td> -->
+        <!--   <td class="running-date"></td> -->
+        <!--   <td class="remark"></td> -->
+        <!-- </tr> -->
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Date</th>
+          <th>Remark</th>
+        </tr>
+      </tfoot>
+    </table>
+
+
+    <h2 id="future">Future conferences with deadline over</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a class="active" href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <table class="conference">
+      <thead>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Date</th>
+          <th>Notification</th>
+          <th>Final version</th>
+          <th>Early registration</th>
+          <th>Remarks and other indications</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- use template-over.html to write conferences here -->
+        <!-- <tr> -->
+        <!--   <td class="confname"><a href="no-webpage-yet.html" target="_blank">XXX</a> -->
+        <!--     <span class="tooltiptext">XXX</span> -->
+        <!--   </td> -->
+        <!--   <td class="location"></td> -->
+        <!--   <td class="date"></td> -->
+        <!--   <td class="notification"></td> -->
+        <!--   <td class="final"></td> -->
+        <!--   <td class="registration"></td> -->
+        <!--   <td class="remark"></td> -->
+        <!-- </tr> -->
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Conference</th>
+          <th>City, Country</th>
+          <th>Date</th>
+          <th>Notification</th>
+          <th>Final version</th>
+          <th>Early registration</th>
+          <th>Remarks and other indications</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h2 id="planning">Conference planning</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a class="active" href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <p>
+      This section serves
+    </p>
+    <ol>
+      <li>for planning conferences in the future,</li>
+      <li>to indicate the planned (tentative) dates for a conference, and</li>
+      <li>to inform organizers of other conferences about these dates to avoid scheduling clashes.</li>
+    </ol>
+
+    <p>
+      The <b>calendar</b> for the years <a href="http://www.timeanddate.com/calendar/" target="_blank">2026</a> and <a
+        href="http://www.timeanddate.com/calendar/?year=2027" target="_blank">2027</a> can help you to plan the
+      conferences.
+    </p>
+
+    <p>
+      If you wish the tentative schedule of your conference to be listed here,
+      send me an e-mail
+      (change &nbsp;_at_&nbsp; to @ and &nbsp;_dot_&nbsp; twice to .)
+      with the following template:
+    </p>
+
+    <p class="central">
+      <a
+        href="mailto:your-email_AT_your_address_DOT_whatever?cc=your-email_AT_your_address_DOT_whatever&subject=%5Bconf%5D%20New%20planned%20conference%20with%20tentative%20schedule&body=Please%2C%20include%20the%20following%20conference%20with%20the%20tentative%20dates%20into%20your%20planning.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%3Etarget%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22year%22%3EPlanning%20year%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22starting-date%22%3EDD1%20MONTH%20YYYY%20starting%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22ending-date%22%3EDD2%20MONTH%20YYYY%20ending%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22remark%22%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail
+        with a template for a <b>planned conference</b></a>
+    </p>
+
+    <table class="conference">
+      <thead>
+        <tr>
+          <th>Conference</th>
+          <th>Year</th>
+          <th>City, Country</th>
+          <th>Starting date</th>
+          <th>Ending date</th>
+          <th>Remark</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- use template-planning.html to write conferences here -->
+        <!-- <tr> -->
+        <!--   <td class="confname"><a href="no-webpage-yet.html" target="_blank">XXX</a> -->
+        <!--     <span class="tooltiptext">XXX</span> -->
+        <!--   </td> -->
+        <!--   <td class="year"></td> -->
+        <!--   <td class="location"></td> -->
+        <!--   <td class="starting-date"></td> -->
+        <!--   <td class="ending-date"></td> -->
+        <!--   <td class="remark"></td> -->
+        <!-- </tr> -->
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Conference</th>
+          <th>Year</th>
+          <th>City, Country</th>
+          <th>Starting date</th>
+          <th>Ending date</th>
+          <th>Remark</th>
+        </tr>
+      </tfoot>
+    </table>
+
+
+
+    <h2 id="instructions">Instructions for listing your conference here</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a class="active" href="#instructions">Instructions</a></li>
+        <li class="navlist"><a href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <p>
+      If you wish your conference to be listed here,
+      send me an e-mail
+      (change &nbsp;_at_&nbsp; to @ and &nbsp;_dot_&nbsp; twice to .)
+      with one of the following templates:
+    </p>
+
+    <p class="central">
+      <a
+        href="mailto:your-name_AT_your-address_DOT_whatever?cc=your-name_AT_your-address_DOT_whatever&subject=%5Bconf%5D%20New%20conference%20with%20deadline%20ahead&body=Please%2C%20include%20the%20following%20conference%20in%20your%20list.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%20target%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22deadline%22%3EDD%20MONTH%20YYYY%20deadline%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22date%22%3EDD1-DD2%20MONTH%20YYYY%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22notification%22%3EDD%20MONTH%20YYYY%20notification%20of%20acceptance%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22subformat%22%3Eformat%20of%20submission%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail
+        with a template for a conference with its <b>deadline ahead</b></a>
+
+      <br><br>
+
+      <a
+        href="mailto:your-name_AT_your-address_DOT_whatever?cc=your-name_AT_your-address_DOT_whatever&subject=%5Bconf%5D%20%20New%20future%20conference%20with%20deadline%20over&body=Please%2C%20include%20the%20following%20conference%20in%20your%20list.%0A%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%3Ctr%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22confname%22%3E%3Ca%20href%3D%22http%3A%2F%2Fmy-url%22%20target%3D%22_blank%22%3EMy%20Conference%3C%2Fa%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22location%22%3EMy%20city%2C%20My%20country%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22date%22%3EDD1-DD2%20MONTH%20YYYY%20date%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22notification%22%3EDD%20MONTH%20YYYY%20notification%20of%20acceptance%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22final%22%3EDD%20MONTH%20YYYY%20final%20version%20due%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22registration%22%3EDD%20MONTH%20YYYY%20early%20registration%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Ctd%20class%3D%22remark%22%3E%3C%2Ftd%3E%0A%20%20%20%20%20%20%20%20%3C%2Ftr%3E%0A%0AThanks%20in%20advance.%0ABest%20regards%2C%0A%0AJohn%20Doe%0A">E-mail
+        with a template for a <b>future conference with deadline over</b></a>
+
+    </p>
+
+    <p>
+      This webpage is updated regularly, at least once a day.
+      Only serious conferences in connection with theoretical computer science will be listed.
+    </p>
+
+    <h2 id="included">Following conferences are included in this list</h2>
+
+    <nav class="navlist">
+      <ul class="navlist">
+        <li class="navlist"><a href="#">Home</a></li>
+        <li class="navlist"><a href="#ahead">Deadline ahead</a></li>
+        <li class="navlist"><a href="#running">Running conferences</a></li>
+        <li class="navlist"><a href="#future">Future conferences (deadline over)</a></li>
+        <li class="navlist"><a href="#planning">Conference planning</a></li>
+        <li class="navlist"><a href="#instructions">Instructions</a></li>
+        <li class="navlist"><a class="active" href="#included">Included conferences</a></li>
+      </ul>
+    </nav>
+
+    <p class="central" style="font: bold 1.25em Verdana, Geneva, Arial Black, sans-serif;">
+      Toggle list of included conferences with full names
+      &nbsp;&nbsp;&nbsp;
+      <button onclick="popUp('popup')"><span id="btn"
+          style="width: 50px; font: bold 1.25em Verdana, Geneva, Arial Black, sans-serif; color: red;">show</span></button>
+    </p>
+
+    <div id="popup" style="display: none;">
+      <nav class="navlist">
+        <ul class="navlist" style="width:85%; position: fixed; bottom: 0;">
+          <li class="navlist" style="float:right"><a class="active" href="#included">Back to top of Included
+              conferences</a></li>
+        </ul>
+      </nav>
+      <table class="central">
+        <tbody>
+          <!-- *** put here the list of conferences using conf2list.pl *** -->
+          <!-- <tr><td>short-name</td><td>full-name</td></tr> -->
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      If you are an organizer of one of these conferences and you do not see that conference listed here.
+      please send me a messsage using the aforementioned instructions.
+    </p>
+
+    <p></p>
+    <hr>
+
+    <div class="central">
+      <!-- put here your flag counter -->
+      <a href=""><img src="" alt="Flag Counter"></a>
+    </div>
+
+    <hr>
+
+
+    <p>
+      <a href="https://validator.w3.org/check?uri=referer">
+        <img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88">
+      </a>
+
+      <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px" src="https://jigsaw.w3.org/css-validator/images/vcss"
+          alt="Valid CSS!" />
+      </a>
+    </p>
+
+    <p>&copy; <!-- your fist and last name --> (<!-- put your institution here -->), year_from - year_to</p>
+
+    <!-- hhmts start -->
+    Last modified:
+    <!-- hhmts end -->
+  </div>
+</body>
+
+</html>
