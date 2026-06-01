@@ -17,6 +17,15 @@
     ],
     "description": "template-ahead template"
   },
+  "template-part": {
+    "scope": "html",
+    "prefix": "template-colocated",
+    "body": [
+      "co-located with <a href=\"\" target=\"_blank\">${1:acronym}</a>\r",
+      ""
+    ],
+    "description": "template-colocated template"
+  },
   "template-dblind": {
     "scope": "html",
     "prefix": "template-dblind",
