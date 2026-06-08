@@ -234,6 +234,7 @@ RAMiCS=>Relational and Algebraic Methods in Computer Science
 RANDOM=>Randomization and Computation
 RECOMB=>Research in Computational Molecular Biology
 RP=>Reachability Problems
+RV=>Runtime Verification
 ReacTS=>Reconfigurable Transition Systems
 RuleML+RR=>International Joint Conference on Rules and Reasoning
 SAC=>Symposium On Applied Computing
