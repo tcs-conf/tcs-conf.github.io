@@ -8,6 +8,7 @@ ANALCO Analytic Algorithmics and Combinatorics
 APOCS Algorithmic Principles of Computer Systems
 ASE Automated Software Engineering
 AUTOMATA Cellular Automata and Discrete Complex Systems
+AiML Advances in Modal Logic
 AlCoB Algorithms for Computational Biology
 AofA Probabilistic, Combinatorial, and Asymptotic Methods in the <b>A</b>nalysis <b>of</b> <b>A</b>lgorithms
 BICOB Bioinformatics and Computational Biology
@@ -22,6 +23,7 @@ CILC Italian Conference on Computational Logic
 CLAR International Conference on Logic and Argumentation
 CLAS Computational Logic Autumn Summit
 COCOA Conference on Combinatorial Optimization and Applications
+COLT Conference on Learning Theory
 COORDINATION Coordination Models and Languages
 CPAIOR Integration of Constraint Programming, Artificial Intelligence, and Operations Research
 CPM Combinatorial Pattern Matching
@@ -38,11 +40,13 @@ DCM Developments in Computational Models
 DEBS Distributed and Event-Based Systems
 DECLARE Declarative Programming
 DEON Deontic Logic and Normative Systems
+DLT Developments in Language Theory
 DaL&iacute; Dynamic Logic: new trends and applications
 Datalog 2.0 Datalog 2.0
 DisCoTec Distributed Computing Techniques
 ECAI European Conference on Artificial Intelligence
 ECCO European Chapter on Combinatorial Optimization
+ECMFA European Conference on Modelling Foundations and Applications
 ECSQARU European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
 EISA Emerging Information Security and Applications
 EMAS Engineering Multi-Agent Systems
@@ -78,9 +82,11 @@ HALG Highlights of Algorithms
 HCVS Horn Clauses for Verification and Synthesis
 HOR Higher-Order Rewriting
 ICAA International Conference on Applied Algorithms
+ICAPS International Conference on Automated Planning and Scheduling
 ICCS International Conference on Conceptual Structures
 ICDCN International Conference on Distributed Computing and Networking
 ICFCA International Conference on Formal Concept Analysis
+ICGT International Conference on Graph Transformation
 ICGraThe International Conference on Graph Theory
 ICICS International Conference on Information and Communications Security
 ICLA Indian Conference on Logic and its Applications
@@ -105,6 +111,7 @@ LOD Machine <b>L</b>earning, <b>O</b>ptimization, <b>D</b>ata Science
 LOFT Logic and the Foundations of Game and Decision Theory
 LORI Logic, Rationality and Interaction
 LearnAut Learning and Automata
+MATCH-UP Matching Under Preferences
 MFPS Mathematical Foundations of Programming Semantics
 MLCS Machine Learning for Cybersecurity
 MLN Machine Learning for Networking
@@ -128,6 +135,7 @@ RECOMB Research in Computational Molecular Biology
 ReacTS Reconfigurable Transition Systems
 SAC Symposium On Applied Computing
 SAGT Symposium on Algorithmic Game Theory
+SAND Algorithmic Foundations of Dynamic Networks
 SCAI Scandinavian Conference on AI
 SCSS Symbolic Computation in Software Science
 SEA Symposium on Experimental Algorithms
@@ -146,7 +154,6 @@ SmartData Smart Data
 SoCG Symposium on Computational Geometry
 TABLEAUX Automated Reasoning with Analytic Tableaux and Related Methods
 TAP Tests and Proofs
-TLLA Trends in Linear Logic and Applications
 TPNC Theory and Practice of Natural Computing
 TYPES Types for Proofs and Programs
 TbiLLC Tbilisi Symposium on Logic, Language and Computation
