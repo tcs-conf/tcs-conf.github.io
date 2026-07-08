@@ -308,7 +308,6 @@ WST=>Workshop on Termination
 WTSC=>Workshop on Trusted Smart Contracts
 WoLLIC=>Workshop on Logic, Language, Information and Computation
 XLoKR=>Explainable Logic-Based Knowledge Representation
-XXX=>XAXA
 iFM=>Integrated Formal Methods
 iFS=>Foundations and Formal Methods for Software and Systems
 iPRA=>Interpolation: From Proofs to Applications
