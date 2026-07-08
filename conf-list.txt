@@ -102,6 +102,7 @@ EuroGP=>European Conference on Genetic Programming
 Eurocomb=>European Conference on Combinatorics, Graph Theory and Applications
 EvoAPPS=>Applications of Evolutionary Computation
 EvoCOP=>Evolutionary Computation in Combinatorial Optimisation
+EvoLearn=>Evolutionary Computation and Learning
 EvoMUSART=>Artificial Intelligence in Music, Sound, Art and Design
 EvoStar=>Evo*
 FACS=>Formal Aspects of Component Software
