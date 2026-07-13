@@ -26,53 +26,39 @@ while (my $line = <$input>) {
 }
 close $input;
 
-print STDERR "You can add several conferences in a loop.\n";
-print STDERR "Terminate with CTRL-D.\n\n";
-
-my $short_name = '';
-my $full_name = '';
-while (length($short_name) == 0) {
-    print STDERR "Short name of the conference (e.g. FOCS, STOC, ...): ";
-    $short_name = <>;
-    if (!defined $short_name) {
-        print STDERR "\nFINISHED\n";
-        exit;
-    }
-    chomp $short_name;
-    if (length($short_name) == 0) {
-        print STDERR "Short name of the conference cannot be empty\n";
-        print STDERR "Type CTRL-D if you want to finish\n";
-    } elsif (!($short_name =~ /[a-zA-Z0-9\-\+\_]+/)) {
-        print STDERR "Short name of the conference can contain ONLY letters, digits, and the signs -(dash), +(plus), and _(underscore)\n";
-    } elsif (exists $conferences{$short_name}) {
-        print STDERR "Conference with name $short_name already exists in the list\n";
+my $acronym = '';
+my $name = '';
+while (length($acronym) == 0) {
+    print STDERR "Acronym of the conference (e.g. FOCS, STOC, ...): ";
+    $acronym = <>;
+    chomp $acronym;
+    if (length($acronym) == 0) {
+        print STDERR "Acronym of the conference cannot be empty\n";
+    } elsif (!($acronym =~ /[a-zA-Z0-9\-\+\_]+/)) {
+        print STDERR "Acronym of the conference can contain ONLY letters, digits, and the signs -(dash), +(plus), and _(underscore)\n";
+    } elsif (exists $conferences{$acronym}) {
+        print STDERR "Conference with acronym $acronym already exists in the list\n";
     } else {
         last;
     }
-    $short_name = "";
+    $acronym = "";
 }
 
-while (length($full_name) == 0) {
+while (length($name) == 0) {
     print STDERR "Full title of the conference: ";
-    $full_name = <>;
-    if (!defined $full_name) {
-        print STDERR "\nAcronym $short_name will be lost\n";
-        print STDERR "FINISHED\n";
-        exit;
-    }
-    chomp $full_name;
-    if (length($full_name) == 0) {
+    $name = <>;
+    chomp $name;
+    if (length($name) == 0) {
         print STDERR "Full title of the conference cannot be empty\n";
-        print STDERR "Type CTRL-D if you want to finish\n";
-    } elsif ($full_name =~ /=>/) {
+    } elsif ($name =~ /=>/) {
         print STDERR "Full title of the conference cannot contain the substring =>\n";
     } else {
         last;
     }
-    $full_name = "";
+    $name = "";
 }
 
-$conferences{$short_name} = $full_name;
+$conferences{$acronym} = $name;
 
 open($output, ">:encoding(UTF-8)", "$list") or die "Cannot open $list: $!\n";
 for my $c (sort keys %conferences) {
