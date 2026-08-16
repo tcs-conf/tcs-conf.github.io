@@ -71,22 +71,17 @@ ICDCS International Conference on Distributed Computing Systems
 ICFCA International Conference on Formal Concept Analysis
 ICGT International Conference on Graph Transformation
 ICGraThe International Conference on Graph Theory
-ICICS International Conference on Information and Communications Security
-ICLA Indian Conference on Logic and its Applications
 ICLP International Conference on Logic Programming
 ICML International Conference on Machine Learning
-IDA Intelligent Data Analysis
 IJCAR International Joint Conference on Automated Reasoning
 IJCKG International Joint Conference on Knowledge Graphs
 ILP Inductive Logic Programming
 IOTSMS Internet of Things: Systems, Management and Security
 IPCO Integer Programming and Combinatorial Optimization
-IPDPS International Parallel &amp;  Distributed Processing Symposium
 ISCO International Symposium on Combinatorial Optimization
 ISPDC International Symposium on Parallel and Distributed Computing
 ISPEC Information Security Practice and Experience
 ISSAC International Symposium on Symbolic and Algebraic Computation
-ITCS Innovations in Theoretical Computer Science
 ITP Interactive Theorem Proving
 IWAE International Workshop on Algorithms in Engineering
 IWC International Workshop on Confluence
@@ -99,29 +94,23 @@ LAGOS Latin-American Algorithms, Graphs and Optimization Symposium
 LATA Language and Automata Theory and Applications
 LATIN Latin American Theoretical Informatics Symposium
 LFMTP Logical Frameworks and Meta Languages: Theory and Practice
-LICS Logic in Computer Science
 LOD Machine <b>L</b>earning, <b>O</b>ptimization, <b>D</b>ata Science
 LOFT Logic and the Foundations of Game and Decision Theory
-LORI Logic, Rationality and Interaction
 LSFA Logical and Semantic Frameworks with Applications
 LearnAut Learning and Automata
 MATCH-UP Matching Under Preferences
 MCU Machines, Computability, Universality
-MFPS Mathematical Foundations of Programming Semantics
 ML4SP Machine Learning for Solvers and Provers
 MLCS Machine Learning for Cybersecurity
 MLN Machine Learning for Networking
 MPC Mathematics of Program Construction
 NFM NASA Formal Methods
 NMR Non-Monotonic Reasoning
-OLA Optimization and Learning
 PAAR Practical Aspects of Automated Reasoning
 PADL Practical Aspects of Declarative Languages
 PC Proof Complexity
-PKC Public Key Cryptography
 PLP Probabilistic Logic Programming
 PODC Principles of Distributed Computing
-PODS Principles of Database Systems
 PRICAI Pacific Rim International Conference on Artificial Intelligence
 PRIMA Principles and Practice of Multi-Agent Systems
 PST Privacy, Security &amp; Trust
@@ -134,7 +123,6 @@ QUANTIFY Workshop on Quantification
 RAMiCS Relational and Algebraic Methods in Computer Science
 RECOMB Research in Computational Molecular Biology
 ReacTS Reconfigurable Transition Systems
-SAC Symposium On Applied Computing
 SAGT Symposium on Algorithmic Game Theory
 SAND Algorithmic Foundations of Dynamic Networks
 SAT Theory and Applications of Satisfiability Testing
@@ -142,11 +130,8 @@ SC2 Satisfiability Checking and Symbolic Computation
 SCAI Scandinavian Conference on AI
 SCML Symbolic Computation and Machine Learning
 SCSS Symbolic Computation in Software Science
-SEA Symposium on Experimental Algorithms
 SEFM Software Engineering and Formal Methods
 SEMANTICS Semantic Systems
-SIGMOD International Conference on Management of Data
-SIROCCO Structural Information and Communication Complexity
 SISAP Similarity Search and Applications
 SLSS Scandinavian Logic Symposium
 SMT Satisfiability Modulo Theories
@@ -155,23 +140,19 @@ STAF Software Technologies: Applications and Foundations
 STOC Symposium on Theory of Computing
 SWAT Scandinavian Symposium and Workshops on Algorithm Theory
 SmartData Smart Data
-SoCG Symposium on Computational Geometry
 TACL Topology, Algebra, and Categories in Logic
 TAP Tests and Proofs
 TASE Theoretical Aspects of Software Engineering
 TERMGRAPH Computing with Terms and Graphs
 TLLA Trends in Linear Logic and Applications
 TPNC Theory and Practice of Natural Computing
-TYPES Types for Proofs and Programs
 TbiLLC Tbilisi Symposium on Logic, Language and Computation
 ThEdu Theorem proving components for Educational software
 UNIF Workshop on Unification
-VMCAI Verification, Model Checking, and Abstract Interpretation
 WABCT Workshop on Algorithms, Bioinformatics, and Computation Theory
 WADS Algorithms and Data Structures
 WAIT Workshop on Automated (Co)Inductive Theorem Proving
 WFLP Workshop on Functional and Logic Programming
-WG Graph-Theoretic Concepts in Computer Science
 WISE Web Information Systems Engineering
 WORDS Combinatorics on Words
 WPTE Workshop on Rewriting Techniques for Program Transformations and Evaluation
@@ -180,6 +161,5 @@ WST Workshop on Termination
 WTSC Workshop on Trusted Smart Contracts
 WoLLIC Workshop on Logic, Language, Information and Computation
 XLoKR Explainable Logic-Based Knowledge Representation
-iFM Integrated Formal Methods
 iPRA Interpolation: From Proofs to Applications
 onto4FAIR Ontologies for FAIR and FAIR Ontologies
