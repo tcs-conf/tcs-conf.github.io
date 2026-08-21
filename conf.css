@@ -118,8 +118,20 @@ table.central {
     margin-right:auto;
 }
 /* Conference tables */
-table.conference thead,tfoot {
+/* table.conference tr:hover { */
+/*     background-color:#ffff99; */
+/* } */
+table.conference thead {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     background-color:lime;
+    color:black;
+    font-weight: bold;
+    /* cursor: default; */
+}
+table.conference tfoot {
+    background-color:palegreen;
     color:black;
     font-weight: bold;
     /* cursor: default; */
