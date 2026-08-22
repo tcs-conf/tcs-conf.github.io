@@ -164,7 +164,7 @@ td.confname .tooltiptext {
     
     /* Position the tooltip text - */
     position: absolute;
-    top: 0%;
+    top: 100%;
     left: 105%;
 }
 
