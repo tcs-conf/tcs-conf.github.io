@@ -124,7 +124,7 @@ table.central {
 table.conference thead {
     position: sticky;
     top: 0;
-    z-index: 1000;
+    z-index: 1;
     background-color:lime;
     color:black;
     font-weight: bold;
@@ -164,7 +164,7 @@ td.confname .tooltiptext {
     
     /* Position the tooltip text - */
     position: absolute;
-    top: -110%;
+    top: 0%;
     left: 105%;
 }
 
