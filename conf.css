@@ -156,8 +156,11 @@ td.confname .tooltiptext {
     width: -moz-max-content;    /* Firefox/Gecko */
     width: -webkit-max-content; /* Chrome */
     width: max-content;
-    background-color: aqua;
-    color: black;
+    /* background-color: aqua; */
+    /* color: black; */
+    background-color: blue;
+    font-weight: bold;
+    color: yellow;
     text-align: center;
     padding: 10px 10px;
     border-radius: 6px;
