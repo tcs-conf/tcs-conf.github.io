@@ -81,8 +81,7 @@ li.navlist {
 li.navlist:last-child {
     border-right: none;
 }
-a:link, a:visited
-{
+a:link, a:visited {
     text-decoration: none;
     color: darkblue;
     font-weight: bold;
@@ -156,11 +155,11 @@ td.confname .tooltiptext {
     width: -moz-max-content;    /* Firefox/Gecko */
     width: -webkit-max-content; /* Chrome */
     width: max-content;
-    /* background-color: aqua; */
-    /* color: black; */
-    background-color: blue;
     font-weight: bold;
-    color: yellow;
+    background-color: aqua;
+    color: black;
+    /* background-color: blue; */
+    /* color: yellow; */
     text-align: center;
     padding: 10px 10px;
     border-radius: 6px;
