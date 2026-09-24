@@ -4,6 +4,7 @@ AAMAS=>Autonomous Agents and Multiagent Systems
 ACDA=>Applied and Computational Discrete Algorithms
 ADG=>Automated Deduction in Geometry
 ADT=>Algorithmic Decision Theory
+AILA=>Artificial Intelligence Logic and Applications
 AISC=>Australasian Information Security Conference
 AIxIA=>Italian Association for Artificial Intelligence
 ALENEX=>Algorithm Engineering and Experiments
