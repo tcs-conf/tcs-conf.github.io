@@ -124,6 +124,7 @@ FORMATS=>Formal Modeling and Analysis of Timed Systems
 FORTE=>Formal Techniques for Distributed Objects, Components, and Systems
 FROM=>Working Formal Methods Symposium
 FSCD=>Formal Structures for Computation and Deduction
+FSEN=>Fundamentals of Software Engineering
 FSTTCS=>Foundations of Software Technology and Theoretical Computer Science
 FTSCS=>Formal Techniques for Safety-Critical Systems
 FUN=>Fun With Algorithms
