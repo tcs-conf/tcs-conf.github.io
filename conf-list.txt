@@ -131,6 +131,7 @@ FUN=>Fun With Algorithms
 FedCSIS=>Federated Conference on Computer Science and Information Systems
 FoIKS=>Foundations of Information and Knowledge Systems
 FoSSaCS=>Foundations of Software Science and Computation Structures
+FormaliSE=>Formal Methods in Software Engineering
 FroCoS=>Frontiers of Combining Systems
 GD=>Graph Drawing
 GECCO=>Genetic and Evolutionary Computation Conference
