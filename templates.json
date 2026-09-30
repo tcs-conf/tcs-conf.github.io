@@ -1,0 +1,239 @@
+{
+  "common": {
+    "acronym": {
+      "type": "text",
+      "label": "Conference abbreviation",
+      "placeholder": "e.g., ABCD"
+    },
+    "name": {
+      "type": "text",
+      "label": "Full conference name",
+      "placeholder": "e.g., First Letters of the Alphabet"
+    },
+    "city": {
+      "type": "text",
+      "label": "City",
+      "placeholder": "e.g., Paris"
+    },
+    "country": {
+      "type": "text",
+      "label": "Country",
+      "placeholder": "e.g., France"
+    },
+    "timezone": {
+      "type": "text",
+      "label": "IANA Time zone for the main venue",
+      "placeholder": "e.g., Europe/Paris (leave empty for AoE)"
+    },
+    "url": {
+      "type": "url",
+      "label": "Conference website",
+      "placeholder": "https://..."
+    }
+  },
+  "planning": {
+    "title": "Planned conference",
+    "intro": "Please provide the tentative information for the conference.",
+    "fields": {
+      "acronym": "common.acronym",
+      "name": "common.name",
+      "city": "common.city",
+      "country": "common.country",
+      "timezone": "common.timezone",
+      "start": {
+        "type": "date",
+        "label": "Starting date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "end": {
+        "type": "date",
+        "label": "Ending date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "remarks": {
+        "type": "textarea",
+        "label": "Remarks",
+        "placeholder": "Optional remarks"
+      },
+      "url": "common.url"
+    }
+  },
+  "deadline-ahead": {
+    "title": "Conference with deadline ahead",
+    "intro": "Please provide the submission and conference information.",
+    "fields": {
+      "acronym": "common.acronym",
+      "name": "common.name",
+      "city": "common.city",
+      "country": "common.country",
+      "timezone": "common.timezone",
+      "deadlines": {
+        "type": "repeatable",
+        "label": "Submission deadlines",
+        "min": 1,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Deadline label",
+            "placeholder": "e.g., abstract submission deadline"
+          },
+          "date": {
+            "type": "date",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD"
+          }
+        }
+      },
+      "start": {
+        "type": "date",
+        "label": "Starting date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "end": {
+        "type": "date",
+        "label": "Ending date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "submission_requirements": {
+        "type": "textarea",
+        "label": "Submission requirements",
+        "placeholder": "e.g., double-blind, 12 pages, ..."
+      },
+      "remarks": {
+        "type": "textarea",
+        "label": "Remarks",
+        "placeholder": "Optional remarks"
+      },
+      "url": "common.url",
+      "notification": {
+        "type": "repeatable",
+        "label": "Notification dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Notification label",
+            "placeholder": "e.g., notification"
+          },
+          "date": {
+            "type": "date",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD"
+          }
+        }
+      },
+      "final_version": {
+        "type": "repeatable",
+        "label": "Final version dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Final version label",
+            "placeholder": "e.g., final version"
+          },
+          "date": {
+            "type": "date-or-text",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD or a description such as 'end of September'"
+          }
+        }
+      },
+      "early_registration": {
+        "type": "repeatable",
+        "label": "Early registration dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Early registration label",
+            "placeholder": "e.g., early registration"
+          },
+          "date": {
+            "type": "date-or-text",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD or a description"
+          }
+        }
+      }
+    }
+  },
+  "future": {
+    "title": "Future conference with deadline over",
+    "intro": "Please provide the conference information.",
+    "fields": {
+      "acronym": "common.acronym",
+      "name": "common.name",
+      "city": "common.city",
+      "country": "common.country",
+      "timezone": "common.timezone",
+      "start": {
+        "type": "date",
+        "label": "Starting date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "end": {
+        "type": "date",
+        "label": "Ending date",
+        "placeholder": "YYYY-MM-DD"
+      },
+      "notification": {
+        "type": "repeatable",
+        "label": "Notification dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Notification label",
+            "placeholder": "e.g., notification"
+          },
+          "date": {
+            "type": "date",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD"
+          }
+        }
+      },
+      "final_version": {
+        "type": "repeatable",
+        "label": "Final version dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Final version label",
+            "placeholder": "e.g., final version"
+          },
+          "date": {
+            "type": "date-or-text",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD or a description such as 'end of September'"
+          }
+        }
+      },
+      "early_registration": {
+        "type": "repeatable",
+        "label": "Early registration dates",
+        "min": 0,
+        "fields": {
+          "label": {
+            "type": "text",
+            "label": "Early registration label",
+            "placeholder": "e.g., early registration"
+          },
+          "date": {
+            "type": "date-or-text",
+            "label": "Date",
+            "placeholder": "YYYY-MM-DD or a description"
+          }
+        }
+      },
+      "remarks": {
+        "type": "textarea",
+        "label": "Remarks",
+        "placeholder": "Optional remarks"
+      },
+      "url": "common.url"
+    }
+  }
+}

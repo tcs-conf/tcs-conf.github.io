@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta name="robots" content="noindex,nofollow">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Conference Information — TCS Conferences</title>
+    <meta name="description" content="Submit information about a conference to the TCS conference list.">
+    <link rel="stylesheet" href="conf.css">
+    <link rel="icon" type="image/png" href="favicon-tcs32.png">
+</head>
+
+<body>
+    <div class="page-content submission-page">
+        <h1>Submit Conference Information</h1>
+
+        <p>
+            Please enter the information for your conference below.
+            The form will generate the corresponding JSON data automatically.
+        </p>
+
+        <div class="submission-type">
+            <label for="submission-type">Conference type</label>
+            <select id="submission-type">
+                <option value="deadline-ahead">Conference with deadline ahead</option>
+                <option value="future">Upcoming conference with deadline over</option>
+                <option value="planning">Planned conference</option>
+            </select>
+        </div>
+
+        <div id="submission-intro"></div>
+
+        <form id="submission-form">
+            <div id="submission-fields"></div>
+
+            <div class="warning-box">
+                <p class="warning-title">Please note</p>
+                Before sending the e-mail, please replace the placeholder e-mail
+                addresses in the <b>To</b> and <b>CC</b> fields with the correct
+                addresses.
+                To this end, replace each <code>_dot_</code> with <code>.</code>, and each <code>_at_</code> with
+                <code>@</code>.
+            </div>
+
+            <div class="submission-actions">
+                <button type="submit" id="submission-send">
+                    Send
+                </button>
+            </div>
+        </form>
+
+        <div id="submission-result" class="submission-result" aria-live="polite"></div>
+
+        <p>
+            <a href="index.html">Back to the conference list</a>
+        </p>
+
+        <footer class="site-footer">
+            <p>© 2015–2026 <a href="https://www.lix.polytechnique.fr/~hermann/" target="_blank">Miki Hermann</a> and <a
+                    href="https://www.lix.polytechnique.fr/Labo/Martin.KREJCA/" target="_blank">Martin Krejca</a> (<a
+                    href="https://www.lix.polytechnique.fr/" target="_blank">LIX</a>, <a
+                    href="https://www.polytechnique.edu/en" target="_blank">Ecole Polytechnique</a>).</p>
+        </footer>
+    </div>
+
+    <script src="submit.js"></script>
+</body>
+
+</html>

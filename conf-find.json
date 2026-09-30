@@ -1,0 +1,686 @@
+[
+   {
+      "acronym" : "AAIM",
+      "name" : "Algorithmic Aspects in Information and Management"
+   },
+   {
+      "acronym" : "ADG",
+      "name" : "Automated Deduction in Geometry"
+   },
+   {
+      "acronym" : "ALGO",
+      "name" : "Federated Conference on Algorithms"
+   },
+   {
+      "acronym" : "ANALCO",
+      "name" : "Analytic Algorithmics and Combinatorics"
+   },
+   {
+      "acronym" : "ANTS",
+      "name" : "Algorithmic Number Theory Symposium"
+   },
+   {
+      "acronym" : "APOCS",
+      "name" : "Algorithmic Principles of Computer Systems"
+   },
+   {
+      "acronym" : "APPROX",
+      "name" : "Approximation Algorithms for Combinatorial Optimization Problems"
+   },
+   {
+      "acronym" : "ARQNL",
+      "name" : "Automated Reasoning in Quantified Non-Classical Logics"
+   },
+   {
+      "acronym" : "ASPOCP",
+      "name" : "Answer Set Programming and Other Computing Paradigms"
+   },
+   {
+      "acronym" : "AUTOMATA",
+      "name" : "Cellular Automata and Discrete Complex Systems"
+   },
+   {
+      "acronym" : "AiML",
+      "name" : "Advances in Modal Logic"
+   },
+   {
+      "acronym" : "AlCoB",
+      "name" : "Algorithms for Computational Biology"
+   },
+   {
+      "acronym" : "BICOB",
+      "name" : "Bioinformatics and Computational Biology"
+   },
+   {
+      "acronym" : "BLAST",
+      "name" : "Boolean Algebras; Lattices, Algebraic Logic and Quantum Logic; Universal Algebra; Set Theory; Set-theoretic and Point-free Topology"
+   },
+   {
+      "acronym" : "CALCO",
+      "name" : "Conference on Algebra and Coalgebra in Computer Science"
+   },
+   {
+      "acronym" : "CCCG",
+      "name" : "Canadian Conference on Computational Geometry"
+   },
+   {
+      "acronym" : "CELT",
+      "name" : "Connections between Epistemic Logic and Topology"
+   },
+   {
+      "acronym" : "CIAA",
+      "name" : "Conference on Implementation and Application of Automata"
+   },
+   {
+      "acronym" : "CIAC",
+      "name" : "International Conference on Algorithms and Complexity"
+   },
+   {
+      "acronym" : "CILC",
+      "name" : "Italian Conference on Computational Logic"
+   },
+   {
+      "acronym" : "CLAR",
+      "name" : "International Conference on Logic and Argumentation"
+   },
+   {
+      "acronym" : "CLAS",
+      "name" : "Computational Logic Autumn Summit"
+   },
+   {
+      "acronym" : "COCOON",
+      "name" : "Computing and Combinatorics Conference"
+   },
+   {
+      "acronym" : "COORDINATION",
+      "name" : "Coordination Models and Languages"
+   },
+   {
+      "acronym" : "CP",
+      "name" : "Principles and Practice of Constraint Programming"
+   },
+   {
+      "acronym" : "CPML",
+      "name" : "Bridge on Constraint Programming and Machine Learning"
+   },
+   {
+      "acronym" : "CRYPTO",
+      "name" : "CRYPTO"
+   },
+   {
+      "acronym" : "CSCML",
+      "name" : "Cyber Security, Cryptology and Machine Learning"
+   },
+   {
+      "acronym" : "CSF",
+      "name" : "Computer Security Foundations"
+   },
+   {
+      "acronym" : "CSR",
+      "name" : "Computer Science Symposium in Russia"
+   },
+   {
+      "acronym" : "CTW",
+      "name" : "Cologne-Twente Workshop on Graphs and Combinatorial Optimization"
+   },
+   {
+      "acronym" : "CooPMAS",
+      "name" : "Cooperative Games and Multiagent Systems"
+   },
+   {
+      "acronym" : "DAIS",
+      "name" : "Distributed Applications and Interoperable Systems"
+   },
+   {
+      "acronym" : "DCFS",
+      "name" : "Descriptional Complexity of Formal Systems"
+   },
+   {
+      "acronym" : "DCM",
+      "name" : "Developments in Computational Models"
+   },
+   {
+      "acronym" : "DEBS",
+      "name" : "Distributed and Event-Based Systems"
+   },
+   {
+      "acronym" : "DECLARE",
+      "name" : "Declarative Programming"
+   },
+   {
+      "acronym" : "DLT",
+      "name" : "Developments in Language Theory"
+   },
+   {
+      "acronym" : "DaLí",
+      "name" : "Dynamic Logic: new trends and applications"
+   },
+   {
+      "acronym" : "Datalog 2.0",
+      "name" : "Datalog 2.0"
+   },
+   {
+      "acronym" : "DisCoTec",
+      "name" : "Distributed Computing Techniques"
+   },
+   {
+      "acronym" : "EC",
+      "name" : "Economics and Computation"
+   },
+   {
+      "acronym" : "ECCO",
+      "name" : "European Chapter on Combinatorial Optimization"
+   },
+   {
+      "acronym" : "ECMFA",
+      "name" : "European Conference on Modelling Foundations and Applications"
+   },
+   {
+      "acronym" : "ECSQARU",
+      "name" : "European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty"
+   },
+   {
+      "acronym" : "EISA",
+      "name" : "Emerging Information Security and Applications"
+   },
+   {
+      "acronym" : "EMAS",
+      "name" : "Engineering Multi-Agent Systems"
+   },
+   {
+      "acronym" : "EML",
+      "name" : "Evolutionary Machine Learning"
+   },
+   {
+      "acronym" : "EPIA",
+      "name" : "Portuguese Conference on Artificial Intelligence"
+   },
+   {
+      "acronym" : "ETAPS",
+      "name" : "European Joint Conferences on Theory & Practice of Software"
+   },
+   {
+      "acronym" : "EXTRAAMAS",
+      "name" : "EXplainable, Trustworthy, and Responsible AI and Multi-Agent Systems"
+   },
+   {
+      "acronym" : "Eurocomb",
+      "name" : "European Conference on Combinatorics, Graph Theory and Applications"
+   },
+   {
+      "acronym" : "EvoStar",
+      "name" : "Evo*"
+   },
+   {
+      "acronym" : "FACS",
+      "name" : "Formal Aspects of Component Software"
+   },
+   {
+      "acronym" : "FASE",
+      "name" : "Fundamental Approaches to Software Engineering"
+   },
+   {
+      "acronym" : "FCAI",
+      "name" : "Foundations and Future of Change in Artificial Intelligence"
+   },
+   {
+      "acronym" : "FCDS",
+      "name" : "Financial Cryptography and Data Security"
+   },
+   {
+      "acronym" : "FCT",
+      "name" : "Fundamentals of Computation Theory"
+   },
+   {
+      "acronym" : "FICS",
+      "name" : "Fixed Points in Computer Science"
+   },
+   {
+      "acronym" : "FLAIRS",
+      "name" : "FLorida Artificial Intelligence Research Society Conference"
+   },
+   {
+      "acronym" : "FLOPS",
+      "name" : "Functional and Logic Programming"
+   },
+   {
+      "acronym" : "FLoC",
+      "name" : "Federated Logic Conference"
+   },
+   {
+      "acronym" : "FM",
+      "name" : "Formal Methods"
+   },
+   {
+      "acronym" : "FOIS",
+      "name" : "Formal Ontology in Information Systems"
+   },
+   {
+      "acronym" : "FORTE",
+      "name" : "Formal Techniques for Distributed Objects, Components, and Systems"
+   },
+   {
+      "acronym" : "FROM",
+      "name" : "Working Formal Methods Symposium"
+   },
+   {
+      "acronym" : "FTSCS",
+      "name" : "Formal Techniques for Safety-Critical Systems"
+   },
+   {
+      "acronym" : "FUN",
+      "name" : "Fun With Algorithms"
+   },
+   {
+      "acronym" : "FedCSIS",
+      "name" : "Federated Conference on Computer Science and Information Systems"
+   },
+   {
+      "acronym" : "FoIKS",
+      "name" : "Foundations of Information and Knowledge Systems"
+   },
+   {
+      "acronym" : "GD",
+      "name" : "Graph Drawing"
+   },
+   {
+      "acronym" : "HALG",
+      "name" : "Highlights of Algorithms"
+   },
+   {
+      "acronym" : "HCVS",
+      "name" : "Horn Clauses for Verification and Synthesis"
+   },
+   {
+      "acronym" : "HOR",
+      "name" : "Higher-Order Rewriting"
+   },
+   {
+      "acronym" : "ICCS",
+      "name" : "International Conference on Conceptual Structures"
+   },
+   {
+      "acronym" : "ICDCS",
+      "name" : "International Conference on Distributed Computing Systems"
+   },
+   {
+      "acronym" : "ICFCA",
+      "name" : "International Conference on Formal Concept Analysis"
+   },
+   {
+      "acronym" : "ICGT",
+      "name" : "International Conference on Graph Transformation"
+   },
+   {
+      "acronym" : "ICGraThe",
+      "name" : "International Conference on Graph Theory"
+   },
+   {
+      "acronym" : "ICLP",
+      "name" : "International Conference on Logic Programming"
+   },
+   {
+      "acronym" : "ICML",
+      "name" : "International Conference on Machine Learning"
+   },
+   {
+      "acronym" : "IJCAI",
+      "name" : "International Joint Conference on Artificial Intelligence"
+   },
+   {
+      "acronym" : "IJCAR",
+      "name" : "International Joint Conference on Automated Reasoning"
+   },
+   {
+      "acronym" : "IJCKG",
+      "name" : "International Joint Conference on Knowledge Graphs"
+   },
+   {
+      "acronym" : "ILP",
+      "name" : "Inductive Logic Programming"
+   },
+   {
+      "acronym" : "IOTSMS",
+      "name" : "Internet of Things: Systems, Management and Security"
+   },
+   {
+      "acronym" : "IPCO",
+      "name" : "Integer Programming and Combinatorial Optimization"
+   },
+   {
+      "acronym" : "ISCO",
+      "name" : "International Symposium on Combinatorial Optimization"
+   },
+   {
+      "acronym" : "ISPDC",
+      "name" : "International Symposium on Parallel and Distributed Computing"
+   },
+   {
+      "acronym" : "ISPEC",
+      "name" : "Information Security Practice and Experience"
+   },
+   {
+      "acronym" : "ISSAC",
+      "name" : "International Symposium on Symbolic and Algebraic Computation"
+   },
+   {
+      "acronym" : "ITP",
+      "name" : "Interactive Theorem Proving"
+   },
+   {
+      "acronym" : "IWAE",
+      "name" : "International Workshop on Algorithms in Engineering"
+   },
+   {
+      "acronym" : "IWC",
+      "name" : "International Workshop on Confluence"
+   },
+   {
+      "acronym" : "JELIA",
+      "name" : "European Conference on Logics in Artificial Intelligence"
+   },
+   {
+      "acronym" : "K-CAP",
+      "name" : "International Conference on Knowledge Capture"
+   },
+   {
+      "acronym" : "KDD",
+      "name" : "Knowledge Discovery and Data Mining"
+   },
+   {
+      "acronym" : "KI",
+      "name" : "German Conference on Artificial Intelligence"
+   },
+   {
+      "acronym" : "KR",
+      "name" : "Principles of Knowledge Representation and Reasoning"
+   },
+   {
+      "acronym" : "LAGOS",
+      "name" : "Latin-American Algorithms, Graphs and Optimization Symposium"
+   },
+   {
+      "acronym" : "LATA",
+      "name" : "Language and Automata Theory and Applications"
+   },
+   {
+      "acronym" : "LATIN",
+      "name" : "Latin American Theoretical Informatics Symposium"
+   },
+   {
+      "acronym" : "LFMTP",
+      "name" : "Logical Frameworks and Meta Languages: Theory and Practice"
+   },
+   {
+      "acronym" : "LOD",
+      "name" : "Machine L earning, O ptimization, D ata Science"
+   },
+   {
+      "acronym" : "LOFT",
+      "name" : "Logic and the Foundations of Game and Decision Theory"
+   },
+   {
+      "acronym" : "LSFA",
+      "name" : "Logical and Semantic Frameworks with Applications"
+   },
+   {
+      "acronym" : "LearnAut",
+      "name" : "Learning and Automata"
+   },
+   {
+      "acronym" : "MATCH-UP",
+      "name" : "Matching Under Preferences"
+   },
+   {
+      "acronym" : "MCU",
+      "name" : "Machines, Computability, Universality"
+   },
+   {
+      "acronym" : "ML4SP",
+      "name" : "Machine Learning for Solvers and Provers"
+   },
+   {
+      "acronym" : "MLCS",
+      "name" : "Machine Learning for Cybersecurity"
+   },
+   {
+      "acronym" : "MLN",
+      "name" : "Machine Learning for Networking"
+   },
+   {
+      "acronym" : "MPC",
+      "name" : "Mathematics of Program Construction"
+   },
+   {
+      "acronym" : "NFM",
+      "name" : "NASA Formal Methods"
+   },
+   {
+      "acronym" : "NMR",
+      "name" : "Non-Monotonic Reasoning"
+   },
+   {
+      "acronym" : "PAAR",
+      "name" : "Practical Aspects of Automated Reasoning"
+   },
+   {
+      "acronym" : "PADL",
+      "name" : "Practical Aspects of Declarative Languages"
+   },
+   {
+      "acronym" : "PC",
+      "name" : "Proof Complexity"
+   },
+   {
+      "acronym" : "PLP",
+      "name" : "Probabilistic Logic Programming"
+   },
+   {
+      "acronym" : "PODC",
+      "name" : "Principles of Distributed Computing"
+   },
+   {
+      "acronym" : "PRICAI",
+      "name" : "Pacific Rim International Conference on Artificial Intelligence"
+   },
+   {
+      "acronym" : "PRIMA",
+      "name" : "Principles and Practice of Multi-Agent Systems"
+   },
+   {
+      "acronym" : "PST",
+      "name" : "Privacy, Security & Trust"
+   },
+   {
+      "acronym" : "PaCT",
+      "name" : "Parallel Architectures and Compilation Techniques"
+   },
+   {
+      "acronym" : "PoS",
+      "name" : "Pragmatics of SAT"
+   },
+   {
+      "acronym" : "ProofComplexity",
+      "name" : "Workshop on Proof Complexity"
+   },
+   {
+      "acronym" : "QBF",
+      "name" : "Quantified Boolean Formulas and Beyond"
+   },
+   {
+      "acronym" : "QUANTIFY",
+      "name" : "Workshop on Quantification"
+   },
+   {
+      "acronym" : "RAMiCS",
+      "name" : "Relational and Algebraic Methods in Computer Science"
+   },
+   {
+      "acronym" : "RANDOM",
+      "name" : "Randomization and Computation"
+   },
+   {
+      "acronym" : "RECOMB",
+      "name" : "Research in Computational Molecular Biology"
+   },
+   {
+      "acronym" : "ReacTS",
+      "name" : "Reconfigurable Transition Systems"
+   },
+   {
+      "acronym" : "RuleML+RR",
+      "name" : "International Joint Conference on Rules and Reasoning"
+   },
+   {
+      "acronym" : "SAGT",
+      "name" : "Symposium on Algorithmic Game Theory"
+   },
+   {
+      "acronym" : "SAT",
+      "name" : "Theory and Applications of Satisfiability Testing"
+   },
+   {
+      "acronym" : "SC2",
+      "name" : "Satisfiability Checking and Symbolic Computation"
+   },
+   {
+      "acronym" : "SCAI",
+      "name" : "Scandinavian Conference on AI"
+   },
+   {
+      "acronym" : "SCML",
+      "name" : "Symbolic Computation and Machine Learning"
+   },
+   {
+      "acronym" : "SCSS",
+      "name" : "Symbolic Computation in Software Science"
+   },
+   {
+      "acronym" : "SEFM",
+      "name" : "Software Engineering and Formal Methods"
+   },
+   {
+      "acronym" : "SEMANTICS",
+      "name" : "Semantic Systems"
+   },
+   {
+      "acronym" : "SISAP",
+      "name" : "Similarity Search and Applications"
+   },
+   {
+      "acronym" : "SLSS",
+      "name" : "Scandinavian Logic Symposium"
+   },
+   {
+      "acronym" : "SMT",
+      "name" : "Satisfiability Modulo Theories"
+   },
+   {
+      "acronym" : "SPIN",
+      "name" : "International Symposium on Model Checking Software"
+   },
+   {
+      "acronym" : "STAF",
+      "name" : "Software Technologies: Applications and Foundations"
+   },
+   {
+      "acronym" : "SWAT",
+      "name" : "Scandinavian Symposium and Workshops on Algorithm Theory"
+   },
+   {
+      "acronym" : "SmartData",
+      "name" : "Smart Data"
+   },
+   {
+      "acronym" : "SoCS",
+      "name" : "Symposium on Combinatorial Search"
+   },
+   {
+      "acronym" : "TACL",
+      "name" : "Topology, Algebra, and Categories in Logic"
+   },
+   {
+      "acronym" : "TAP",
+      "name" : "Tests and Proofs"
+   },
+   {
+      "acronym" : "TASE",
+      "name" : "Theoretical Aspects of Software Engineering"
+   },
+   {
+      "acronym" : "TERMGRAPH",
+      "name" : "Computing with Terms and Graphs"
+   },
+   {
+      "acronym" : "TLLA",
+      "name" : "Trends in Linear Logic and Applications"
+   },
+   {
+      "acronym" : "TPNC",
+      "name" : "Theory and Practice of Natural Computing"
+   },
+   {
+      "acronym" : "TbiLLC",
+      "name" : "Tbilisi Symposium on Logic, Language and Computation"
+   },
+   {
+      "acronym" : "ThEdu",
+      "name" : "Theorem proving components for Educational software"
+   },
+   {
+      "acronym" : "UNIF",
+      "name" : "Workshop on Unification"
+   },
+   {
+      "acronym" : "WABCT",
+      "name" : "Workshop on Algorithms, Bioinformatics, and Computation Theory"
+   },
+   {
+      "acronym" : "WADS",
+      "name" : "Algorithms and Data Structures"
+   },
+   {
+      "acronym" : "WAIT",
+      "name" : "Workshop on Automated (Co)Inductive Theorem Proving"
+   },
+   {
+      "acronym" : "WFLP",
+      "name" : "Workshop on Functional and Logic Programming"
+   },
+   {
+      "acronym" : "WISE",
+      "name" : "Web Information Systems Engineering"
+   },
+   {
+      "acronym" : "WPTE",
+      "name" : "Workshop on Rewriting Techniques for Program Transformations and Evaluation"
+   },
+   {
+      "acronym" : "WRLA",
+      "name" : "Workshop on Rewriting Logic and its Applications"
+   },
+   {
+      "acronym" : "WST",
+      "name" : "Workshop on Termination"
+   },
+   {
+      "acronym" : "WTSC",
+      "name" : "Workshop on Trusted Smart Contracts"
+   },
+   {
+      "acronym" : "WoLLIC",
+      "name" : "Workshop on Logic, Language, Information and Computation"
+   },
+   {
+      "acronym" : "XLoKR",
+      "name" : "Explainable Logic-Based Knowledge Representation"
+   },
+   {
+      "acronym" : "iPRA",
+      "name" : "Interpolation: From Proofs to Applications"
+   },
+   {
+      "acronym" : "onto4FAIR",
+      "name" : "Ontologies for FAIR and FAIR Ontologies"
+   }
+]

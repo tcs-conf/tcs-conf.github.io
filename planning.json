@@ -1,0 +1,248 @@
+[
+    {
+        "acronym": "SPLASH",
+        "name": "Systems, Programming, Languages, and Applications: Software for Humanity",
+        "city": "Oakland, California",
+        "country": "USA",
+        "start": "2026-10-03",
+        "end": "2026-10-09",
+        "remarks": "",
+        "url": "https://2026.splashcon.org/"
+    },
+    {
+        "acronym": "EuroCG",
+        "name": "European Workshop on Computational Geometry",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "start": "2027-04-06",
+        "end": "2027-04-09",
+        "remarks": "",
+        "url": "https://eurocg2027.on.liu.se/"
+    },
+    {
+        "acronym": "FCRC",
+        "name": "Federated Computing Research Conference",
+        "city": "Atlanta, Georgia",
+        "country": "USA",
+        "start": "2027-06-05",
+        "end": "2027-06-11",
+        "remarks": "federated conference including ...",
+        "url": "https://fcrc.acm.org/"
+    },
+    {
+        "acronym": "CAiSE",
+        "name": "Advanced Information Systems Engineering",
+        "city": "Seville",
+        "country": "Spain",
+        "start": "2027-06-07",
+        "end": "2027-06-11",
+        "remarks": "<a href=\"llncs2e.zip\">LNCS</a> proceedings",
+        "url": "https://caise-conference.diag.uniroma1.it/"
+    },
+    {
+        "acronym": "CiE",
+        "name": "Computability in Europe",
+        "city": "Timișoara",
+        "country": "Romania",
+        "start": "2027-06-07",
+        "end": "2027-06-11",
+        "remarks": "",
+        "url": "no-webpage-yet.html"
+    },
+    {
+        "acronym": "GETCO",
+        "name": "Geometric and Topological Methods in Computer Science",
+        "city": "Będlewo",
+        "country": "Poland",
+        "start": "2027-06-07",
+        "end": "2027-06-11",
+        "remarks": "",
+        "url": "https://getco-conf.github.io/"
+    },
+    {
+        "acronym": "TYPES",
+        "name": "Types for Proofs and Programs",
+        "city": "Udine",
+        "country": "Italy",
+        "start": "2027-06-07",
+        "end": "2027-06-11",
+        "remarks": "",
+        "url": "https://sites.google.com/view/thetypesconferences/"
+    },
+    {
+        "acronym": "AofA",
+        "name": "Probabilistic, Combinatorial, and Asymptotic Methods in the A nalysis of A lgorithms",
+        "city": "Marne-la-Vallée",
+        "country": "France",
+        "start": "2027-06-14",
+        "end": "2027-06-18",
+        "remarks": "<a href=\"llncs2e.zip\">LNCS</a> proceedings",
+        "url": "https://www.math.aau.at/AofA/"
+    },
+    {
+        "acronym": "CanaDAM",
+        "name": "Canadian Discrete and Algorithmic Mathematics Conference",
+        "city": "Kelowna, British Columbia",
+        "country": "Canada",
+        "start": "2027-06-14",
+        "end": "2027-06-18",
+        "remarks": "",
+        "url": "https://canadam.ca/2027/"
+    },
+    {
+        "acronym": "LICS",
+        "name": "Logic in Computer Science",
+        "city": "Montreal",
+        "country": "Canada",
+        "start": "2027-06-21",
+        "end": "2027-06-24",
+        "remarks": "",
+        "url": "https://lics.siglog.org/lics27/"
+    },
+    {
+        "acronym": "SoCG",
+        "name": "Symposium on Computational Geometry",
+        "city": "Bengaluru",
+        "country": "India",
+        "start": "2027-06-21",
+        "end": "2027-06-25",
+        "remarks": "",
+        "url": "https://computational-geometry.org/cg-week/socg/"
+    },
+    {
+        "acronym": "ICAPS",
+        "name": "International Conference on Automated Planning and Scheduling",
+        "city": "Columbia, South Carolina",
+        "country": "USA",
+        "start": "2027-06-27",
+        "end": "2027-07-02",
+        "remarks": "",
+        "url": "no-webpage-yet.html"
+    },
+    {
+        "acronym": "COLT",
+        "name": "Conference on Learning Theory",
+        "city": "Tokyo",
+        "country": "Japan",
+        "start": "2027-06-28",
+        "end": "2027-07-02",
+        "remarks": "",
+        "url": "https://learningtheory.org/colt2027/"
+    },
+    {
+        "acronym": "DEON",
+        "name": "Deontic Logic and Normative Systems",
+        "city": "Hangzhou",
+        "country": "China",
+        "start": "2027-06-29",
+        "end": "2027-07-01",
+        "remarks": "",
+        "url": "https://deonconferences.org/"
+    },
+    {
+        "acronym": "CCA",
+        "name": "Computability & Complexity in Analysis",
+        "city": "Paris",
+        "country": "France",
+        "start": "2027-07-05",
+        "end": "2027-07-07",
+        "remarks": "",
+        "url": "no-webpage-yet.html"
+    },
+    {
+        "acronym": "DL",
+        "name": "Description Logics",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "start": "2027-07-08",
+        "end": "2027-07-11",
+        "remarks": "",
+        "url": "https://dl.kr.org/"
+    },
+    {
+        "acronym": "GECCO",
+        "name": "Genetic and Evolutionary Computation Conference",
+        "city": "Kraków",
+        "country": "Poland",
+        "start": "2027-07-12",
+        "end": "2027-07-16",
+        "remarks": "",
+        "url": "https://dl.acm.org/conference/gecco"
+    },
+    {
+        "acronym": "MFPS",
+        "name": "Mathematical Foundations of Programming Semantics",
+        "city": "Erlangen",
+        "country": "Germany",
+        "start": "2027-07-12",
+        "end": "2027-07-16",
+        "remarks": "",
+        "url": "https://mfpsconf.tulane.edu/"
+    },
+    {
+        "acronym": "CCC",
+        "name": "Computational Complexity Conference",
+        "city": "Seattle, Washington",
+        "country": "USA",
+        "start": "2027-07-19",
+        "end": "2027-07-22",
+        "remarks": "",
+        "url": "https://computationalcomplexity.org/"
+    },
+    {
+        "acronym": "SEA",
+        "name": "Symposium on Experimental Algorithms",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "start": "2027-07-21",
+        "end": "2027-07-23",
+        "remarks": "",
+        "url": "https://sea2027.iti.kit.edu/"
+    },
+    {
+        "acronym": "TABLEAUX",
+        "name": "Automated Reasoning with Analytic Tableaux and Related Methods",
+        "city": "Marseille",
+        "country": "France",
+        "start": "2027-09-27",
+        "end": "2027-09-29",
+        "remarks": "",
+        "url": "https://tableaux-frocos27.lis-lab.fr/tableaux/"
+    },
+    {
+        "acronym": "FroCoS",
+        "name": "Frontiers of Combining Systems",
+        "city": "Marseille",
+        "country": "France",
+        "start": "2027-09-29",
+        "end": "2027-10-01",
+        "remarks": "",
+        "url": "https://tableaux-frocos27.lis-lab.fr/frocos/"
+    },
+    {
+        "acronym": "ECAI",
+        "name": "European Conference on Artificial Intelligence",
+        "city": "Athens",
+        "country": "Greece",
+        "start": "2027-10-02",
+        "end": "2027-10-06",
+        "remarks": "",
+        "url": "no-webpage-yet.html"
+    },
+    {
+        "acronym": "WORDS",
+        "name": "Combinatorics on Words",
+        "city": "London",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2027-06-14",
+        "end": "2027-06-18",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://cpm2027.github.io/\" target=\"_blank\">CPM</a>",
+        "url": "https://sites.google.com/view/words2027/home",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    }
+]

@@ -1,0 +1,6572 @@
+[
+    {
+        "acronym": "AAAI",
+        "name": "Artificial Intelligence",
+        "city": "Montreal",
+        "country": "Canada",
+        "timezone": "America/Toronto",
+        "deadlines": [],
+        "start": "2027-02-16",
+        "end": "2027-02-23",
+        "submission_requirements": "",
+        "remarks": "31 July 2026 deadline for supplementary material",
+        "url": "https://aaai.org/conference/aaai/aaai-27/",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2026-09-24"
+            },
+            {
+                "label": "final notification",
+                "date": "2026-11-30"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-12-14"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "AAIM",
+        "name": "Algorithmic Aspects in Information and Management",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "AAMAS",
+        "name": "Autonomous Agents and Multiagent Systems",
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "deadlines": [
+            {
+                "label": "main track abstract submission",
+                "date": "2026-10-01"
+            },
+            {
+                "label": "main track full-paper submission",
+                "date": "2026-10-08"
+            },
+            {
+                "label": "blue-sky ideas abstract submission",
+                "date": "2026-11-05"
+            },
+            {
+                "label": "blue-sky ideas full-paper submission",
+                "date": "2026-11-12"
+            }
+        ],
+        "start": "2027-05-03",
+        "end": "2027-05-07",
+        "submission_requirements": "<a href=\"https://warwick.ac.uk/fac/sci/dcs/aamas2027/aamas_2027_template.zip\">own format</a>, 8 pages main track, 4 pages Blue Sky ideas;<br> first deadline/notification for main track, second for Blue Sky ideas",
+        "remarks": "",
+        "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+        "notification": [
+            {
+                "label": "main track notification",
+                "date": "2026-12-21"
+            },
+            {
+                "label": "blue-sky ideas notification",
+                "date": "2027-01-21"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ACDA",
+        "name": "Applied and Computational Discrete Algorithms",
+        "city": "Pittsburgh, Pennsylvania",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-08"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-15"
+            }
+        ],
+        "start": "2027-02-22",
+        "end": "2027-02-24",
+        "submission_requirements": "<a href=\"https://www.siam.org/media/pjyhr3du/siamproceedingsmacros_022425.zip\">SIAM</a>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://www.siam.org/conferences-events/siam-conferences/acda27/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ADG",
+        "name": "Automated Deduction in Geometry",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ADT",
+        "name": "Algorithmic Decision Theory",
+        "city": "Paris",
+        "country": "France",
+        "timezone": "Europe/Paris",
+        "deadlines": [],
+        "start": "2026-11-16",
+        "end": "2026-11-18",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://adt2026.sciencesconf.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-27"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-25"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-01"
+            }
+        ]
+    },
+    {
+        "acronym": "AiML",
+        "name": "Advances in Modal Logic",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "AISC",
+        "name": "Australasian Information Security Conference",
+        "city": "Canberra",
+        "country": "Australia",
+        "timezone": "Australia/Sydney",
+        "deadlines": [
+            {
+                "label": "1st round submission",
+                "date": "2026-09-15"
+            },
+            {
+                "label": "2nd round submission",
+                "date": "2026-11-15"
+            }
+        ],
+        "start": "2027-02-01",
+        "end": "2027-02-04",
+        "submission_requirements": "<a href=\"https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc\" target=\"_blank\">ACMart</a>, 10 pages research, 6 pages industry; 2 submission rounds",
+        "remarks": "",
+        "url": "https://sites.google.com/view/aisc2027",
+        "notification": [
+            {
+                "label": "1st round notification",
+                "date": "2026-10-15"
+            },
+            {
+                "label": "2nd round notification",
+                "date": "2026-12-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "AIxIA",
+        "name": "Italian Association for Artificial Intelligence",
+        "city": "Perugia",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-10-06",
+        "end": "2026-10-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://aixia2026.unipg.it/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-25"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "5/25 August"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-04"
+            }
+        ]
+    },
+    {
+        "acronym": "AlCoB",
+        "name": "Algorithms for Computational Biology",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ALENEX",
+        "name": "Algorithm Engineering and Experiments",
+        "city": "Philadelphia, Pennsylvania",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [],
+        "start": "2027-01-24",
+        "end": "2027-01-25",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://www.siam.org/conferences-events/siam-conferences/soda27/\" target=\"_blank\">SODA</a>",
+        "url": "https://www.siam.org/conferences-events/siam-conferences/alenex27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "early September 2026"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-19"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-21"
+            }
+        ]
+    },
+    {
+        "acronym": "ALGO",
+        "name": "Federated Conference on Algorithms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ALGOCLOUD",
+        "name": "Algorithms for Cloud-Based Systems",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-08-31",
+        "end": "2026-09-01",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/algocloud/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-20"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "ALGOWIN",
+        "name": "Algorithmic of Wireless Networks",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-03",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/algowin/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-24"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "ALT",
+        "name": "Algorithmic Learning Theory",
+        "city": "Leiden",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-12"
+            }
+        ],
+        "start": "2027-03-09",
+        "end": "2027-03-12",
+        "submission_requirements": "<a href=\"https://www.jmlr.org/format/format.html\" target=\"_blank\">JMLR</a>, no page limit but only first 12 pages (excluding references) read",
+        "remarks": "",
+        "url": "https://algorithmiclearningtheory.org/alt2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-05"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ANALCO",
+        "name": "Analytic Algorithmics and Combinatorics",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ANTS",
+        "name": "Algorithmic Number Theory Symposium",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "AofA",
+        "name": "Probabilistic, Combinatorial, and Asymptotic Methods in the Analysis of Algorithms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "APLAS",
+        "name": "Asian Symposium on Programming Languages and Systems",
+        "city": "Hong Kong",
+        "country": "SAR China",
+        "timezone": "Asia/Hong_Kong",
+        "deadlines": [],
+        "start": "2026-12-01",
+        "end": "2026-12-05",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://conf.researchr.org/track/aplas-atva-2026/atva-2026\" target=\"_blank\">ATVA</a>",
+        "url": "https://conf.researchr.org/track/aplas-atva-2026/aplas-2026",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-04"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-08"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "APOCS",
+        "name": "Algorithmic Principles of Computer Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "APPROX",
+        "name": "Approximation Algorithms for Combinatorial Optimization Problems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ARQNL",
+        "name": "Automated Reasoning in Quantified Non-Classical Logics",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ASE",
+        "name": "Automated Software Engineering",
+        "city": "Munich",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [],
+        "start": "2026-10-12",
+        "end": "2026-10-16",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/ase-2026",
+        "notification": [],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-13"
+            }
+        ]
+    },
+    {
+        "acronym": "ASPOCP",
+        "name": "Answer Set Programming and Other Computing Paradigms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ATMOS",
+        "name": "Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-03",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/atmos/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-04"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-11"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "ATVA",
+        "name": "Automated Technology for Verification and Analysis",
+        "city": "Hong Kong",
+        "country": "SAR China",
+        "timezone": "Asia/Hong_Kong",
+        "deadlines": [],
+        "start": "2026-12-01",
+        "end": "2026-12-05",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://conf.researchr.org/track/aplas-atva-2026/aplas-2026\" target=\"_blank\">APLAS</a>",
+        "url": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-23"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-10"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "AUTOMATA",
+        "name": "Cellular Automata and Discrete Complex Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "BICOB",
+        "name": "Bioinformatics and Computational Biology",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "BLAST",
+        "name": "Boolean Algebras; Lattices, Algebraic Logic and Quantum Logic; Universal Algebra; Set Theory; Set-theoretic and Point-free Topology",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CADE",
+        "name": "Conference on Automated Deduction",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-02-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-22"
+            }
+        ],
+        "start": "2027-08-24",
+        "end": "2027-08-27",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, \n16 pages regular, \n10 pages short, both excluding references; co-located with <a href=\"https://fscd-cade.science.ru.nl/\" target=\"_blank\">FSCD</a>",
+        "remarks": "workshops 22 and 27 August 2027",
+        "url": "https://fscd-cade.science.ru.nl/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-17"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CAiSE",
+        "name": "Advanced Information Systems Engineering",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CALCO",
+        "name": "Conference on Algebra and Coalgebra in Computer Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CALDAM",
+        "name": "Conference on Algorithms and Discrete Applied Mathematics",
+        "city": "Jaipur, Rajasthan",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-28"
+            }
+        ],
+        "start": "2027-02-11",
+        "end": "2027-02-13",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 14 pages",
+        "remarks": "",
+        "url": "https://caldam2027.lnmiit.ac.in/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-13"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CanaDAM",
+        "name": "Canadian Discrete and Algorithmic Mathematics Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CAV",
+        "name": "Computer-Aided Verification",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2027-01-20"
+            }
+        ],
+        "start": "2027-07-19",
+        "end": "2027-07-23",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://conferences.i-cav.org/2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-23"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CCA",
+        "name": "Computability & Complexity in Analysis",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CCC",
+        "name": "Computational Complexity Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CCCG",
+        "name": "Canadian Conference on Computational Geometry",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CCS",
+        "name": "Computer and Communication Security",
+        "city": "The Hague",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [],
+        "start": "2026-11-15",
+        "end": "2026-11-19",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.sigsac.org/ccs/CCS2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-17"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-17"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-28"
+            }
+        ]
+    },
+    {
+        "acronym": "CELT",
+        "name": "Connections between Epistemic Logic and Topology",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CIAA",
+        "name": "Conference on Implementation and Application of Automata",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CIAC",
+        "name": "International Conference on Algorithms and Complexity",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CICM",
+        "name": "Conference on Intelligent Computer Mathematics",
+        "city": "Ljubljana",
+        "country": "Slovenia",
+        "timezone": "Europe/Ljubljana",
+        "deadlines": [],
+        "start": "2026-09-21",
+        "end": "2026-09-25",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://cicm-conference.org/2026/cicm.php",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-01"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-16"
+            }
+        ]
+    },
+    {
+        "acronym": "CiE",
+        "name": "Computability in Europe",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CILC",
+        "name": "Italian Conference on Computational Logic",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CLAR",
+        "name": "International Conference on Logic and Argumentation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CLAS",
+        "name": "Computational Logic Autumn Summit",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "COCOA",
+        "name": "Conference on Combinatorial Optimization and Applications",
+        "city": "Beijing",
+        "country": "China",
+        "timezone": "Asia/Shanghai",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-06"
+            }
+        ],
+        "start": "2026-12-04",
+        "end": "2026-12-06",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages",
+        "remarks": "",
+        "url": "https://www.cocoa2026.com/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-05"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "registration deadline",
+                "date": "2026-11-15"
+            }
+        ]
+    },
+    {
+        "acronym": "COCOON",
+        "name": "Computing and Combinatorics Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "COLT",
+        "name": "Conference on Learning Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CONCEPTS",
+        "name": "Conceptual Knowledge Structures",
+        "city": "Montpellier",
+        "country": "France",
+        "timezone": "Europe/Paris",
+        "deadlines": [],
+        "start": "2026-08-31",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://concepts2026.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-04-20"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-05-15"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-15"
+            }
+        ]
+    },
+    {
+        "acronym": "CONCUR",
+        "name": "Concurrency Theory",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-09-01",
+        "end": "2026-09-05",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://confest-2026.github.io/\" target=\"_blank\">CONFEST</a>",
+        "url": "https://confest-2026.github.io/concur/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-15"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-29"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "CONFEST",
+        "name": "CONCUR & QEST & FORMATS",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-09-01",
+        "end": "2026-09-05",
+        "submission_requirements": "",
+        "remarks": "federated conference including <a href=\"https://confest-2026.github.io/concur/\">CONCUR</a>, <a href=\"https://confest-2026.github.io/fmics/\">FMICS</a>, <a href=\"https://confest-2026.github.io/qestformats/\">QEST</a>, and <a href=\"https://confest-2026.github.io/qestformats/\">FORMATS</a>",
+        "url": "https://confest-2026.github.io/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "CooPMAS",
+        "name": "Cooperative Games and Multiagent Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "COORDINATION",
+        "name": "Coordination Models and Languages",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CP",
+        "name": "Principles and Practice of Constraint Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CPAIOR",
+        "name": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
+        "city": "Toulouse",
+        "country": "France",
+        "timezone": "Europe/Toulouse",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-12-01"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-12-07"
+            }
+        ],
+        "start": "2027-06-01",
+        "end": "2027-06-04",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://sites.google.com/view/cpaior2027/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CPM",
+        "name": "Combinatorial Pattern Matching",
+        "city": "London",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [
+            {
+                "label": "1st round submission",
+                "date": "2026-11-11"
+            },
+            {
+                "label": "2nd round submission",
+                "date": "2027-02-12"
+            }
+        ],
+        "start": "2027-06-16",
+        "end": "2027-06-18",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 12 pages",
+        "remarks": "co-located with <a href=\"https://sites.google.com/view/words2027/\" target=\"_blank\">WORDS</a>",
+        "url": "https://cpm2027.github.io/",
+        "notification": [
+            {
+                "label": "1st round notification",
+                "date": "2026-12-23"
+            },
+            {
+                "label": "2nd round notification",
+                "date": "2027-04-05"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CPML",
+        "name": "Bridge on Constraint Programming and Machine Learning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CPP",
+        "name": "Certified Programs and Proofs",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "timezone": "America/Mexico_City",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-03"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-10"
+            }
+        ],
+        "start": "2027-01-10",
+        "end": "2027-01-16",
+        "submission_requirements": "<a href=\"https://ctan.org/pkg/acmart\" target=\"_blank\">ACMart</a>, 12 pages excluding references; co-located with <a href=\"https://conf.researchr.org/home/POPL-2027\" target=\"_blank\">POPL</a>",
+        "remarks": "",
+        "url": "https://popl27.sigplan.org/home/CPP-2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CRYPTO",
+        "name": "CRYPTO",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CSCML",
+        "name": "Cyber Security, Cryptology and Machine Learning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CSF",
+        "name": "Computer Security Foundations",
+        "city": "Tokyo",
+        "country": "Japan",
+        "timezone": "Asia/Tokyo",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-01-28"
+            }
+        ],
+        "start": "",
+        "end": "",
+        "submission_requirements": "<a href=\"https://ieee-org.widen.net/content/ssylclqqfn/original/conference-latex-template.zip\">IEEE</a>, <b>double-blind</b>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://csf2027.ieee-security.org/",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2026-12-14"
+            },
+            {
+                "label": "final notification",
+                "date": "2027-04-05"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CSL",
+        "name": "Computer Science Logic",
+        "city": "Brighton",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2027-01-25",
+        "end": "2027-01-29",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://csl2027.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-15"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CSR",
+        "name": "Computer Science Symposium in Russia",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "CTW",
+        "name": "Cologne-Twente Workshop on Graphs and Combinatorial Optimization",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DAIS",
+        "name": "Distributed Applications and Interoperable Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DaLí",
+        "name": "Dynamic Logic: new trends and applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "Datalog 2.0",
+        "name": "Datalog 2.0",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DCC",
+        "name": "Data Compression Conference",
+        "city": "Snowbird, Utah",
+        "country": "USA",
+        "timezone": "America/Denver",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-02"
+            }
+        ],
+        "start": "2027-03-23",
+        "end": "2027-03-26",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://datacompressionconference.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DCFS",
+        "name": "Descriptional Complexity of Formal Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DCM",
+        "name": "Developments in Computational Models",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DEBS",
+        "name": "Distributed and Event-Based Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DECLARE",
+        "name": "Declarative Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DEON",
+        "name": "Deontic Logic and Normative Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DISC",
+        "name": "Distributed Computing",
+        "city": "Rome",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-11-09",
+        "end": "2026-11-13",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.disc-conference.org/wp/disc2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-05"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-19"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-09"
+            }
+        ]
+    },
+    {
+        "acronym": "DisCoTec",
+        "name": "Distributed Computing Techniques",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DL",
+        "name": "Description Logics",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DLT",
+        "name": "Developments in Language Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "DSAA",
+        "name": "Data Science and Advanced Analytics",
+        "city": "New Delhi",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [],
+        "start": "2026-10-06",
+        "end": "2026-10-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://dsaa-2026.vercel.app/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-30"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-15"
+            }
+        ]
+    },
+    {
+        "acronym": "EC",
+        "name": "Economics and Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ECAI",
+        "name": "European Conference on Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ECCO",
+        "name": "European Chapter on Combinatorial Optimization",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ECMFA",
+        "name": "European Conference on Modelling Foundations and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ECSQARU",
+        "name": "European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EDBT",
+        "name": "Extending Database Technology",
+        "city": "Lille",
+        "country": "France",
+        "timezone": "Europe/Paris",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-07"
+            }
+        ],
+        "start": "2027-04-06",
+        "end": "2027-04-09",
+        "submission_requirements": "<a href=\"https://drive.google.com/file/d/1dtNEVPLPNTlKm1_agOxlHWuQK-Szd8Lo/view?usp=drive_link\" target=\"_blank\">own format</a>, 12 pages long, 6 pages short, 6 pages vision; only 3 papers per author; co-located with <a href=\"https://edbticdt2027.github.io/\" target=\"_blank\">ICDT</a>",
+        "remarks": "",
+        "url": "https://edbticdt2027.github.io/",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2026-12-05"
+            },
+            {
+                "label": "final notification",
+                "date": "2027-01-27"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EISA",
+        "name": "Emerging Information Security and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EMAS",
+        "name": "Engineering Multi-Agent Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EML",
+        "name": "Evolutionary Machine Learning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EPIA",
+        "name": "Portuguese Conference on Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ESA",
+        "name": "European Symposium on Algorithms",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-08-31",
+        "end": "2026-09-02",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/esa/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-26"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "ESOP",
+        "name": "European Symposium on Programming",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-15"
+            }
+        ],
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 25 pages regular, 15 pages experience and fresh perspectives; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "remarks": "part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "url": "https://etaps.org/2027/conferences/esop/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-25"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "ESORICS",
+        "name": "European Symposium on Research in Computer Security",
+        "city": "Rome",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-14",
+        "end": "2026-09-18",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://sites.google.com/di.uniroma1.it/esorics2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-12"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-26"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-06-26"
+            }
+        ]
+    },
+    {
+        "acronym": "ETAPS",
+        "name": "European Joint Conferences on Theory & Practice of Software",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EUMAS",
+        "name": "European Conference on Multi-Agent Systems",
+        "city": "Malmö",
+        "country": "Sweden",
+        "timezone": "Europe/Stockholm",
+        "deadlines": [],
+        "start": "2026-09-21",
+        "end": "2026-09-25",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://euramas.github.io/eumas2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-30"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-19"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "EURO",
+        "name": "European Conference on Operational Research",
+        "city": "Athens",
+        "country": "Greece",
+        "timezone": "Europe/Athens",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2027-02-28"
+            }
+        ],
+        "start": "2027-07-11",
+        "end": "2027-07-14",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://euro2027athens.com/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-07"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "Euro-Par",
+        "name": "European Conference on Parallel and Distributed Computing",
+        "city": "Pisa",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-08-24",
+        "end": "2026-08-28",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://2026.euro-par.org/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EuroCG",
+        "name": "European Workshop on Computational Geometry",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "Eurocomb",
+        "name": "European Conference on Combinatorics, Graph Theory and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EUROCRYPT",
+        "name": "Theory and Applications of Cryptographic Techniques",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-17"
+            }
+        ],
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 27 pages excluding references",
+        "remarks": "",
+        "url": "https://eurocrypt.iacr.org/2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-18"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EuroGP",
+        "name": "European Conference on Genetic Programming",
+        "city": "Mainz",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-11-01"
+            }
+        ],
+        "start": "2027-03-31",
+        "end": "2027-04-02",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 14 pages excluding references; part of <a href=\"https://www.evostar.org/2027/\" target=\"_blank\">EvoStar</a>",
+        "remarks": "",
+        "url": "https://www.evostar.org/2027/eurogp/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EvoAPPS",
+        "name": "Applications of Evolutionary Computation",
+        "city": "Mainz",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-11-01"
+            }
+        ],
+        "start": "2027-03-31",
+        "end": "2027-04-02",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 14 pages excluding references; part of <a href=\"https://www.evostar.org/2027/\" target=\"_blank\">EvoStar</a>",
+        "remarks": "",
+        "url": "https://www.evostar.org/2027/evoapps/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EvoCOP",
+        "name": "Evolutionary Computation in Combinatorial Optimisation",
+        "city": "Mainz",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-11-01"
+            }
+        ],
+        "start": "2027-03-31",
+        "end": "2027-04-02",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 14 pages excluding references; part of <a href=\"https://www.evostar.org/2027/\" target=\"_blank\">EvoStar</a>",
+        "remarks": "",
+        "url": "https://www.evostar.org/2027/evocop/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EvoLearn",
+        "name": "Evolutionary Computation and Learning",
+        "city": "Mainz",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-11-01"
+            }
+        ],
+        "start": "2027-03-31",
+        "end": "2027-04-02",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 14 pages excluding references; part of <a href=\"https://www.evostar.org/2027/\" target=\"_blank\">EvoStar</a>",
+        "remarks": "",
+        "url": "https://www.evostar.org/2027/evolearn/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EvoMUSART",
+        "name": "Artificial Intelligence in Music, Sound, Art and Design",
+        "city": "Mainz",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-11-01"
+            }
+        ],
+        "start": "2027-03-31",
+        "end": "2027-04-02",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 14 pages excluding references; part of <a href=\"https://www.evostar.org/2027/\" target=\"_blank\">EvoStar</a>",
+        "remarks": "",
+        "url": "https://www.evostar.org/2027/evomusart/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EvoStar",
+        "name": "Evo*",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "EXTRAAMAS",
+        "name": "EXplainable, Trustworthy, and Responsible AI and Multi-Agent Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FACS",
+        "name": "Formal Aspects of Component Software",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FASE",
+        "name": "Fundamental Approaches to Software Engineering",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FCAI",
+        "name": "Foundations and Future of Change in Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FCDS",
+        "name": "Financial Cryptography and Data Security",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FCRC",
+        "name": "Federated Computing Research Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FCT",
+        "name": "Fundamentals of Computation Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FedCSIS",
+        "name": "Federated Conference on Computer Science and Information Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FICS",
+        "name": "Fixed Points in Computer Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FLAIRS",
+        "name": "FLorida Artificial Intelligence Research Society Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FLoC",
+        "name": "Federated Logic Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FLOPS",
+        "name": "Functional and Logic Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FM",
+        "name": "Formal Methods",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FMCAD",
+        "name": "Formal Methods in Computer-Aided Design",
+        "city": "Graz",
+        "country": "Austria",
+        "timezone": "Europe/Vienna",
+        "deadlines": [],
+        "start": "2026-09-14",
+        "end": "2026-09-18",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://fmcad.org/FMCAD26/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-19"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-01"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-01"
+            }
+        ]
+    },
+    {
+        "acronym": "FMICS",
+        "name": "Formal Methods for Industrial Critical Systems",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-09-02",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://confest-2026.github.io/\" target=\"_blank\">CONFEST</a>",
+        "url": "https://confest-2026.github.io/fmics/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-01"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-15"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "FOCS",
+        "name": "Foundations of Computer Science",
+        "city": "New York City, New York",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [],
+        "start": "2026-11-08",
+        "end": "2026-11-11",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-03"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FoIKS",
+        "name": "Foundations of Information and Knowledge Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FOIS",
+        "name": "Formal Ontology in Information Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FORMATS",
+        "name": "Formal Modeling and Analysis of Timed Systems",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-09-02",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "artifact submission 27 April 2026; part of <a href=\"https://confest-2026.github.io/\" target=\"_blank\">CONFEST</a>",
+        "url": "https://www.qest-formats.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-24"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "FORTE",
+        "name": "Formal Techniques for Distributed Objects, Components, and Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FoSSaCS",
+        "name": "Foundations of Software Science and Computation Structures",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-15"
+            }
+        ],
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 18 pages regular; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "remarks": "",
+        "url": "https://etaps.org/2027/conferences/fossacs/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FroCoS",
+        "name": "Frontiers of Combining Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FROM",
+        "name": "Working Formal Methods Symposium",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FSCD",
+        "name": "Formal Structures for Computation and Deduction",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-02-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-22"
+            }
+        ],
+        "start": "2027-08-23",
+        "end": "2027-08-26",
+        "submission_requirements": "workshops 22 and 27 August 2027; co-located with <a href=\"https://fscd-cade.science.ru.nl/\" target=\"_blank\">CADE</a>",
+        "remarks": "",
+        "url": "https://fscd-cade.science.ru.nl/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-17"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FSTTCS",
+        "name": "Foundations of Software Technology and Theoretical Computer Science",
+        "city": "New Delhi",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [],
+        "start": "2026-12-16",
+        "end": "2026-12-18",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.fsttcs.org.in/2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-15"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FTSCS",
+        "name": "Formal Techniques for Safety-Critical Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FUN",
+        "name": "Fun With Algorithms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "GandALF",
+        "name": "Games, Automata, Logics, and Formal Verification",
+        "city": "Aalborg",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [],
+        "start": "2026-09-15",
+        "end": "2026-09-17",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://gandalfsymposium.github.io/2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-07"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-15"
+            }
+        ]
+    },
+    {
+        "acronym": "GD",
+        "name": "Graph Drawing",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "GECCO",
+        "name": "Genetic and Evolutionary Computation Conference",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "GETCO",
+        "name": "Geometric and Topological Methods in Computer Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "HALG",
+        "name": "Highlights of Algorithms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "HCVS",
+        "name": "Horn Clauses for Verification and Synthesis",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "HOR",
+        "name": "Higher-Order Rewriting",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICAA",
+        "name": "International Conference on Applied Algorithms",
+        "city": "Kolkata",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-01"
+            }
+        ],
+        "start": "2027-01-06",
+        "end": "2027-01-08",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages",
+        "remarks": "",
+        "url": "https://www.icaa.co.in/2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-25"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-15"
+            }
+        ]
+    },
+    {
+        "acronym": "ICALP",
+        "name": "International Colloquium on Automata, Languages and Programming",
+        "city": "Kraków",
+        "country": "Poland",
+        "timezone": "Europe/Warsaw",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-15"
+            }
+        ],
+        "start": "2027-07-05",
+        "end": "2027-07-09",
+        "submission_requirements": "<b>valid only for Track B:</b> <a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, no page limit; two submission cycles",
+        "remarks": "",
+        "url": "https://icalp.uj.edu.pl/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-08"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICAPS",
+        "name": "International Conference on Automated Planning and Scheduling",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICCS",
+        "name": "International Conference on Conceptual Structures",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICDCN",
+        "name": "International Conference on Distributed Computing and Networking",
+        "city": "Surathkal",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [],
+        "start": "2027-01-04",
+        "end": "2027-01-07",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://cs3-lab.github.io/icdcn/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-01"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-29"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-20"
+            }
+        ]
+    },
+    {
+        "acronym": "ICDCS",
+        "name": "International Conference on Distributed Computing Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICDT",
+        "name": "International Conference on Database Theory",
+        "city": "Lille",
+        "country": "France",
+        "timezone": "Europe/Paris",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-03"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-10"
+            }
+        ],
+        "start": "2027-04-06",
+        "end": "2027-04-09",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b> (regular only), 15 pages regular; 4 pages DB theory in action; co-located with <a href=\"https://edbticdt2027.github.io/\" target=\"_blank\">EDBT</a>",
+        "remarks": "",
+        "url": "https://edbticdt2027.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-01"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICFCA",
+        "name": "International Conference on Formal Concept Analysis",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICFP",
+        "name": "International Conference on Functional Programming",
+        "city": "Indianapolis, Indiana",
+        "country": "USA",
+        "timezone": "America/Indiana/Indianapolis",
+        "deadlines": [],
+        "start": "2026-08-24",
+        "end": "2026-08-29",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://icfp26.sigplan.org/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICGraThe",
+        "name": "International Conference on Graph Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICGT",
+        "name": "International Conference on Graph Transformation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICICS",
+        "name": "International Conference on Information and Communications Security",
+        "city": "Miami, Florida",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-15"
+            }
+        ],
+        "start": "2027-03-11",
+        "end": "2027-03-12",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://waset.org/information-and-communications-security-conference-in-march-2027-in-miami",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-30"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICLA",
+        "name": "Indian Conference on Logic and its Applications",
+        "city": "Bangalore",
+        "country": "India",
+        "timezone": "Asia/Kolkata",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-03"
+            }
+        ],
+        "start": "2027-01-06",
+        "end": "2027-01-08",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/icla-2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-31"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICLP",
+        "name": "International Conference on Logic Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICML",
+        "name": "International Conference on Machine Learning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ICTAC",
+        "name": "International Colloquium on Theoretical Aspects of Computing",
+        "city": "Bariloche",
+        "country": "Argentina",
+        "timezone": "America/Argentina/Buenos_Aires",
+        "deadlines": [],
+        "start": "2026-11-11",
+        "end": "2026-11-13",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://ictac2026.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-31"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-25"
+            }
+        ]
+    },
+    {
+        "acronym": "ICTAI",
+        "name": "International Conference on Tools with Artificial Intelligence",
+        "city": "Boca Raton, Florida",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [],
+        "start": "2026-11-02",
+        "end": "2026-11-04",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://ictai.computer.org/2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-06"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-30"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-30"
+            }
+        ]
+    },
+    {
+        "acronym": "ICTCS",
+        "name": "Italian Conference on Theoretical Computer Science",
+        "city": "Udine",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-07",
+        "end": "2026-09-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://ictcs2026.uniud.it/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-21"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-05"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-05"
+            }
+        ]
+    },
+    {
+        "acronym": "IDAA",
+        "name": "Intelligent Data Analysis and Applications",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "timezone": "Asia/Dhaka",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-12-31"
+            }
+        ],
+        "start": "2027-06-11",
+        "end": "2027-06-12",
+        "submission_requirements": "<b>double-blind</b>, 6 pages",
+        "remarks": "",
+        "url": "https://idaa.diu.edu.bd/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-31"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "iFS",
+        "name": "Foundations and Formal Methods for Software and Systems",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-15"
+            }
+        ],
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages + 2 pages references long, 8 pages + 1 page references short; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "remarks": "",
+        "url": "https://etaps.org/2027/conferences/ifs/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IJCAI",
+        "name": "International Joint Conference on Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IJCAR",
+        "name": "International Joint Conference on Automated Reasoning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IJCKG",
+        "name": "International Joint Conference on Knowledge Graphs",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ILP",
+        "name": "Inductive Logic Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IOTSMS",
+        "name": "Internet of Things: Systems, Management and Security",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IPCO",
+        "name": "Integer Programming and Combinatorial Optimization",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IPDPS",
+        "name": "International Parallel & Distributed Processing Symposium",
+        "city": "Seattle, Washington",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-01"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-10-08"
+            }
+        ],
+        "start": "2027-06-01",
+        "end": "2027-06-05",
+        "submission_requirements": "<a href=\"https://ieee-org.widen.net/content/ssylclqqfn/original/conference-latex-template.zip\">IEEE</a>, <b>double-blind</b>, 10 pages excluding references",
+        "remarks": "",
+        "url": "https://www.ipdps.org/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IPEC",
+        "name": "International Symposium on Parameterized and Exact Computation",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-02",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/ipec/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-02"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "end of September"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "iPRA",
+        "name": "Interpolation: From Proofs to Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ISAAC",
+        "name": "International Symposium on Algorithms and Computation",
+        "city": "Hangzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai",
+        "deadlines": [],
+        "start": "2026-12-06",
+        "end": "2026-12-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.algo-door.com/isaac2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-07"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ISCO",
+        "name": "International Symposium on Combinatorial Optimization",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ISPDC",
+        "name": "International Symposium on Parallel and Distributed Computing",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ISPEC",
+        "name": "Information Security Practice and Experience",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ISSAC",
+        "name": "International Symposium on Symbolic and Algebraic Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ITCS",
+        "name": "Innovations in Theoretical Computer Science",
+        "city": "Berkeley, California",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-02"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-04"
+            }
+        ],
+        "start": "2027-01-12",
+        "end": "2027-01-15",
+        "submission_requirements": "<b>double-blind</b>, no page limit but only first 10 pages read",
+        "remarks": "",
+        "url": "https://itcs-conf.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-06"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ITP",
+        "name": "Interactive Theorem Proving",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IWAE",
+        "name": "International Workshop on Algorithms in Engineering",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IWC",
+        "name": "International Workshop on Confluence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "IWIL",
+        "name": "International Workshop on the Implementation of Logics",
+        "city": "Spetses",
+        "country": "Greece",
+        "timezone": "Europe/Athens",
+        "deadlines": [],
+        "start": "2026-10-25",
+        "end": "2026-10-25",
+        "submission_requirements": "",
+        "remarks": "workshop of <a href=\"https://lpar-26.info/\" target=\"_blank\">LPAR</a>",
+        "url": "https://eprover.org/EVENTS/IWIL-2026.html",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-17"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-17"
+            }
+        ]
+    },
+    {
+        "acronym": "IWOCA",
+        "name": "International Workshop on Combinatorial Algorithms",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "timezone": "Europe/Prague",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-02-08"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-15"
+            }
+        ],
+        "start": "2027-06-21",
+        "end": "2027-06-25",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://kam.mff.cuni.cz/conferences/iwoca27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-12"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "JAF",
+        "name": "Journées sur les Arithmétiques Faibles",
+        "city": "Warsaw",
+        "country": "Poland",
+        "timezone": "Europe/Warsaw",
+        "deadlines": [],
+        "start": "2026-09-16",
+        "end": "2026-09-18",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://jaf45warsaw.wfz.uw.edu.pl/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "JELIA",
+        "name": "European Conference on Logics in Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "K-CAP",
+        "name": "International Conference on Knowledge Capture",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "KDD",
+        "name": "Knowledge Discovery and Data Mining",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "KI",
+        "name": "German Conference on Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "KR",
+        "name": "Principles of Knowledge Representation and Reasoning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LAGOS",
+        "name": "Latin-American Algorithms, Graphs and Optimization Symposium",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LAP",
+        "name": "Logic and Applications",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "timezone": "Europe/Zagreb",
+        "deadlines": [],
+        "start": "2026-09-23",
+        "end": "2026-09-27",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://lap.math.hr/LAP2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-15"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-20"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "LATA",
+        "name": "Language and Automata Theory and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LATIN",
+        "name": "Latin American Theoretical Informatics Symposium",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LearnAut",
+        "name": "Learning and Automata",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LFMTP",
+        "name": "Logical Frameworks and Meta Languages: Theory and Practice",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LICS",
+        "name": "Logic in Computer Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LOD",
+        "name": "Machine L earning, O ptimization, D ata Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LOFT",
+        "name": "Logic and the Foundations of Game and Decision Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LOPSTR",
+        "name": "Logic-Based Program Synthesis and Transformation",
+        "city": "Indianapolis, Indiana",
+        "country": "USA",
+        "timezone": "America/Indiana/Indianapolis",
+        "deadlines": [],
+        "start": "2026-08-24",
+        "end": "2026-08-29",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://icfp26.sigplan.org/home/lopstr-ppdp-2026\" target=\"_blank\">PPDP</a>",
+        "url": "https://icfp26.sigplan.org/home/lopstr-ppdp-2026",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LORI",
+        "name": "Logic, Rationality and Interaction",
+        "city": "Chengdu",
+        "country": "China",
+        "timezone": "Asia/Shanghai",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-03-01"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-03-07"
+            }
+        ],
+        "start": "2027-10-23",
+        "end": "2027-10-26",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding references",
+        "remarks": "",
+        "url": "",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-30"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "LPAR",
+        "name": "Logic for Programming, Artificial Intelligence and Reasoning",
+        "city": "Spetses",
+        "country": "Greece",
+        "timezone": "Europe/Athens",
+        "deadlines": [],
+        "start": "2026-10-25",
+        "end": "2026-10-30",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://lpar-26.info/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-17"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-17"
+            }
+        ]
+    },
+    {
+        "acronym": "LPNMR",
+        "name": "Logic Programming and Non-Monotonic Reasoning",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "timezone": "Europe/Vienna",
+        "deadlines": [],
+        "start": "2026-09-07",
+        "end": "2026-09-11",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://lpnmr2026.aics.aau.at/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-11"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-02"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-16"
+            }
+        ]
+    },
+    {
+        "acronym": "LSFA",
+        "name": "Logical and Semantic Frameworks with Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MATCH-UP",
+        "name": "Matching Under Preferences",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MCU",
+        "name": "Machines, Computability, Universality",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MFCS",
+        "name": "Mathematical Foundations of Computer Science",
+        "city": "Paris",
+        "country": "France",
+        "timezone": "Europe/Paris",
+        "deadlines": [],
+        "start": "2026-08-24",
+        "end": "2026-08-28",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://mfcs2026.irif.fr/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MFPS",
+        "name": "Mathematical Foundations of Programming Semantics",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MIWAI",
+        "name": "Multi-Disciplinary International Conference on Artificial Intelligence",
+        "city": "Halifax, Nova Scotia",
+        "country": "Canada",
+        "timezone": "America/Halifax",
+        "deadlines": [],
+        "start": "2026-10-10",
+        "end": "2026-10-12",
+        "submission_requirements": "",
+        "remarks": "first early, second deadline",
+        "url": "https://miwai26.miwai.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-01"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-14"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-14"
+            },
+            {
+                "label": "deadline",
+                "date": "2026-09-04"
+            }
+        ]
+    },
+    {
+        "acronym": "ML4SP",
+        "name": "Machine Learning for Solvers and Provers",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MLCS",
+        "name": "Machine Learning for Cybersecurity",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MLN",
+        "name": "Machine Learning for Networking",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "MPC",
+        "name": "Mathematics of Program Construction",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "NCL",
+        "name": "Non-Classical Logics",
+        "city": "Toruń",
+        "country": "Poland",
+        "timezone": "Europe/Warsaw",
+        "deadlines": [],
+        "start": "2026-10-26",
+        "end": "2026-10-28",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://easychair.org/smart-program/NCL26/home.html",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-20"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "NFM",
+        "name": "NASA Formal Methods",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "NMR",
+        "name": "Non-Monotonic Reasoning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "OLA",
+        "name": "Optimization and Learning",
+        "city": "Kraków",
+        "country": "Poland",
+        "timezone": "Europe/Krakow",
+        "deadlines": [
+            {
+                "label": "submission",
+                "date": "2026-12-18"
+            }
+        ],
+        "start": "2027-05-05",
+        "end": "2027-05-07",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, \n12 pages original research; <a href=\"https://ola2018.sciencesconf.org/data/format.zip\">own format</a>,\n3 pages extended abstract &amp; work in progress &amp; position",
+        "remarks": "",
+        "url": "https://ola2027.sciencesconf.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-23"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-03-06"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-03-06"
+            }
+        ]
+    },
+    {
+        "acronym": "onto4FAIR",
+        "name": "Ontologies for FAIR and FAIR Ontologies",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "OPODIS",
+        "name": "On Principles of Distributed Systems",
+        "city": "Madrid",
+        "country": "Spain",
+        "timezone": "Europe/Madrid",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-07"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-10"
+            }
+        ],
+        "start": "2026-12-09",
+        "end": "2026-12-11",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 15 pages excluding references",
+        "remarks": "",
+        "url": "https://opodis26.software.imdea.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-29"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PAAR",
+        "name": "Practical Aspects of Automated Reasoning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PACT",
+        "name": "Parallel Architectures and Compilation Techniques",
+        "city": "Chicago, Illinois",
+        "country": "USA",
+        "timezone": "America/Chicago",
+        "deadlines": [],
+        "start": "2026-10-19",
+        "end": "2026-10-22",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://pact2026.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-05"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-02"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "PaCT",
+        "name": "Parallel Architectures and Compilation Techniques",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PADL",
+        "name": "Practical Aspects of Declarative Languages",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PATAT",
+        "name": "Practice and Theory of Automated Timetabling",
+        "city": "Nottingham",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-08-25",
+        "end": "2026-08-28",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://patatconference.org/patat2026/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PC",
+        "name": "Proof Complexity",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PetriNets",
+        "name": "Petri Nets",
+        "city": "Rennes",
+        "country": "France",
+        "timezone": "Europe/Rennes",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-01-22"
+            }
+        ],
+        "start": "2027-06-21",
+        "end": "2027-06-25",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, \n20 pages regular, \n10 pages tool, both excluding references",
+        "remarks": "",
+        "url": "https://petrinets2027.inria.fr/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PKC",
+        "name": "Public Key Cryptography",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "timezone": "Asia/Taipei",
+        "deadlines": [],
+        "start": "2027-03-01",
+        "end": "2027-03-04",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://pkc.iacr.org/2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-26"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-12-17"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "PLP",
+        "name": "Probabilistic Logic Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PODC",
+        "name": "Principles of Distributed Computing",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PODS",
+        "name": "Principles of Database Systems",
+        "city": "Huntington Beach, California",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-12-03"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-12-10"
+            }
+        ],
+        "start": "2027-06-13",
+        "end": "2027-06-19",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMsmall</a>, <b>double-blind</b>, 15 pages excluding references",
+        "remarks": "",
+        "url": "https://2027.sigmod.org/",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2027-02-08"
+            },
+            {
+                "label": "final notification",
+                "date": "2027-03-01"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "POPL",
+        "name": "Principles of Programming Languages",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "timezone": "America/Mexico_City",
+        "deadlines": [],
+        "start": "2027-01-10",
+        "end": "2027-01-16",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/POPL-2027",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2026-10-05"
+            },
+            {
+                "label": "final notification",
+                "date": "2026-11-09"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PoS",
+        "name": "Pragmatics of SAT",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PPDP",
+        "name": "Principles and Practice of Declarative Programming",
+        "city": "Indianapolis, Indiana",
+        "country": "USA",
+        "timezone": "America/Indiana/Indianapolis",
+        "deadlines": [],
+        "start": "2026-08-24",
+        "end": "2026-08-29",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://icfp26.sigplan.org/home/lopstr-ppdp-2026\" target=\"_blank\">LOPSTR</a>",
+        "url": "https://icfp26.sigplan.org/home/lopstr-ppdp-2026",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PRICAI",
+        "name": "Pacific Rim International Conference on Artificial Intelligence",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PRIMA",
+        "name": "Principles and Practice of Multi-Agent Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ProofComplexity",
+        "name": "Workshop on Proof Complexity",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "PST",
+        "name": "Privacy, Security & Trust",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "QBF",
+        "name": "Quantified Boolean Formulas and Beyond",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "QEST",
+        "name": "Quantitative Evaluation of SysTems",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [],
+        "start": "2026-09-02",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "artifact submission 27 April 2026; part of <a href=\"https://confest-2026.github.io/\" target=\"_blank\">CONFEST</a>",
+        "url": "https://www.qest-formats.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-24"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-31"
+            }
+        ]
+    },
+    {
+        "acronym": "QUANTIFY",
+        "name": "Workshop on Quantification",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "RAMiCS",
+        "name": "Relational and Algebraic Methods in Computer Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "RANDOM",
+        "name": "Randomization and Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ReacTS",
+        "name": "Reconfigurable Transition Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "RECOMB",
+        "name": "Research in Computational Molecular Biology",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "RP",
+        "name": "Reachability Problems",
+        "city": "Turku",
+        "country": "Finland",
+        "timezone": "Europe/Helsinki",
+        "deadlines": [],
+        "start": "2026-10-21",
+        "end": "2026-10-23",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://math.utu.fi/rp26",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-03"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-21"
+            }
+        ]
+    },
+    {
+        "acronym": "RuleML+RR",
+        "name": "International Joint Conference on Rules and Reasoning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "RV",
+        "name": "Runtime Verification",
+        "city": "Kingston",
+        "country": "Canada",
+        "timezone": "America/Toronto",
+        "deadlines": [],
+        "start": "2026-10-06",
+        "end": "2026-10-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://rv2026.smithengineering.queensu.ca/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-01"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-12"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-31"
+            }
+        ]
+    },
+    {
+        "acronym": "SAC",
+        "name": "Symposium On Applied Computing",
+        "city": "Gwangju",
+        "country": "South Korea",
+        "timezone": "Asia/Seoul",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-02"
+            }
+        ],
+        "start": "2027-04-05",
+        "end": "2027-04-09",
+        "submission_requirements": "<b>double-blind</b> (regular only), no page limit regular, at least 4 pages required; SRC papers ",
+        "remarks": "",
+        "url": "https://www.sigapp.org/sac/sac2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-13"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SAFECOMP",
+        "name": "Computer Safety, Reliability and Security",
+        "city": "Valencia",
+        "country": "Spain",
+        "timezone": "Europe/Madrid",
+        "deadlines": [],
+        "start": "2026-09-22",
+        "end": "2026-09-25",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://safecomp2026.webs.upv.es/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-05-01"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-06-07"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-14"
+            }
+        ]
+    },
+    {
+        "acronym": "SAGT",
+        "name": "Symposium on Algorithmic Game Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SAND",
+        "name": "Algorithmic Foundations of Dynamic Networks",
+        "city": "Paderborn",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission",
+                "date": "2026-12-08"
+            }
+        ],
+        "start": "2027-06-30",
+        "end": "2027-07-02",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>,\n15 pages excluding references regular, \n5 pages + \n1 page references brief announcements",
+        "remarks": "",
+        "url": "https://sand2027.cs.upb.de/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-02-26"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-03-27"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "SAS",
+        "name": "Static Analysis Symposium",
+        "city": "Oakland, California",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [],
+        "start": "2026-10-03",
+        "end": "2026-10-09",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://2026.splashcon.org/\" target=\"_blank\">SPLASH</a>",
+        "url": "https://conf.researchr.org/home/splash-issta-2026/sas-2026",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-20"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-03"
+            }
+        ]
+    },
+    {
+        "acronym": "SAT",
+        "name": "Theory and Applications of Satisfiability Testing",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SC2",
+        "name": "Satisfiability Checking and Symbolic Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SCAI",
+        "name": "Scandinavian Conference on AI",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SCML",
+        "name": "Symbolic Computation and Machine Learning",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SCN",
+        "name": "Security and Cryptography for Networks",
+        "city": "Amalfi (SA)",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-14",
+        "end": "2026-09-16",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://scn.unisa.it",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2028-04-28"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-05-15"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-05-15"
+            }
+        ]
+    },
+    {
+        "acronym": "SCSS",
+        "name": "Symbolic Computation in Software Science",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SDM",
+        "name": "Data Mining",
+        "city": "Salt Lake City, Utah",
+        "country": "USA",
+        "timezone": "America/Denver",
+        "deadlines": [],
+        "start": "2026-11-19",
+        "end": "2026-11-20",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.siam.org/conferences-events/siam-conferences/sdm26/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "late July"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-19"
+            }
+        ]
+    },
+    {
+        "acronym": "SEA",
+        "name": "Symposium on Experimental Algorithms",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SEFM",
+        "name": "Software Engineering and Formal Methods",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SEMANTICS",
+        "name": "Semantic Systems",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SIGMOD",
+        "name": "International Conference on Management of Data",
+        "city": "Huntington Beach, California",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-10"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-10-17"
+            }
+        ],
+        "start": "2027-06-13",
+        "end": "2027-06-19",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, <b>double-blind</b>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://2027.sigmod.org/",
+        "notification": [
+            {
+                "label": "first notification",
+                "date": "2027-01-19"
+            },
+            {
+                "label": "final notification",
+                "date": "2027-03-12"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SIROCCO",
+        "name": "Structural Information and Communication Complexity",
+        "city": "Larnaca",
+        "country": "Cyprus",
+        "timezone": "Asia/Nicosia",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-31"
+            }
+        ],
+        "start": "2027-06-02",
+        "end": "2027-06-04",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, no page limit but only first 12 pages read",
+        "remarks": "",
+        "url": "https://cyprusconferences.org/sirocco2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-30"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SISAP",
+        "name": "Similarity Search and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SLSS",
+        "name": "Scandinavian Logic Symposium",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SmartData",
+        "name": "Smart Data",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SMT",
+        "name": "Satisfiability Modulo Theories",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SoCG",
+        "name": "Symposium on Computational Geometry",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SoCS",
+        "name": "Symposium on Combinatorial Search",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SODA",
+        "name": "Symposium on Discrete Algorithms",
+        "city": "Philadelphia, Pennsylvania",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [],
+        "start": "2027-01-24",
+        "end": "2027-01-27",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "October 2026"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-21"
+            }
+        ]
+    },
+    {
+        "acronym": "SOFSEM",
+        "name": "Current Trends in Theory and Practice of Computer Science",
+        "city": "Ioannina",
+        "country": "Greece",
+        "timezone": "Europe/Athens",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-09-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-09-18"
+            }
+        ],
+        "start": "2027-02-02",
+        "end": "2027-02-05",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding references",
+        "remarks": "",
+        "url": "https://sofsem2027.conf.uoi.gr/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-01-11"
+            }
+        ]
+    },
+    {
+        "acronym": "SOSA",
+        "name": "Symposium on Simplicity in Algorithms",
+        "city": "Philadelphia, Pennsylvania",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [],
+        "start": "2027-01-25",
+        "end": "2027-01-26",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://www.siam.org/conferences-events/siam-conferences/soda27/\" target=\"_blank\">SODA</a>",
+        "url": "https://www.siam.org/conferences-events/siam-conferences/sosa27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "early October 2026"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-21"
+            }
+        ]
+    },
+    {
+        "acronym": "SPAA",
+        "name": "Symposium on Parallelism in Algorithms and Architectures",
+        "city": "Atlanta, Georgia",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [
+            {
+                "label": "1st cycle abstract submission",
+                "date": "2026-09-18"
+            },
+            {
+                "label": "1st cycle full-paper submission",
+                "date": "2026-09-25"
+            },
+            {
+                "label": "2nd cycle abstract submission",
+                "date": "2027-01-22"
+            },
+            {
+                "label": "2nd cycle full-paper submission",
+                "date": "2027-01-29"
+            }
+        ],
+        "start": "2027-06-05",
+        "end": "2027-06-11",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, 10 pages regular, 3 pages brief announcements, both excluding references; two submission cycles",
+        "remarks": "",
+        "url": "https://spaa.acm.org/",
+        "notification": [
+            {
+                "label": "1st cycle notification",
+                "date": "2026-12-05"
+            },
+            {
+                "label": "2nd cycle notification",
+                "date": "2027-04-10"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SPIN",
+        "name": "International Symposium on Model Checking Software",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SPIRE",
+        "name": "String Processing and Information Retrieval",
+        "city": "Hamilton, Ontario",
+        "country": "Canada",
+        "timezone": "America/Toronto",
+        "deadlines": [],
+        "start": "2026-10-13",
+        "end": "2026-10-16",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://sites.google.com/view/spire-2026/home",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-20"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "acronym": "SPLASH",
+        "name": "Systems, Programming, Languages, and Applications: Software for Humanity",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "STACS",
+        "name": "Symposium on Theoretical Aspects of Computer Science",
+        "city": "Göttingen",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-11"
+            }
+        ],
+        "start": "2027-03-08",
+        "end": "2027-03-12",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, \n15 pages excluding references",
+        "remarks": "",
+        "url": "https://events.gwdg.de/event/1460/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "STAF",
+        "name": "Software Technologies: Applications and Foundations",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "STOC",
+        "name": "Symposium on Theory of Computing",
+        "city": "Atlanta, Georgia",
+        "country": "USA",
+        "timezone": "America/New_York",
+        "deadlines": [
+            {
+                "label": "submission",
+                "date": "2026-11-02"
+            }
+        ],
+        "start": "2027-06-06",
+        "end": "2027-06-11",
+        "submission_requirements": "no page limit but only first 12 pages read",
+        "remarks": "",
+        "url": "https://acm-stoc.org/stoc2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-02-01"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SWAT",
+        "name": "Scandinavian Symposium and Workshops on Algorithm Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "SYNASC",
+        "name": "Symbolic and Numeric Algorithms for Scientific Computing",
+        "city": "Timișoara",
+        "country": "Romania",
+        "timezone": "Europe/Bucharest",
+        "deadlines": [],
+        "start": "2026-09-14",
+        "end": "2026-09-17",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://synasc.ro/2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-25"
+            }
+        ],
+        "final_version": [],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-09-04"
+            }
+        ]
+    },
+    {
+        "acronym": "TABLEAUX",
+        "name": "Automated Reasoning with Analytic Tableaux and Related Methods",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TACAS",
+        "name": "Tools and Algorithms for the Construction and Analysis of Systems",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-15"
+            }
+        ],
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 18 pages regular, 6 pages tool demonstrations; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "remarks": "",
+        "url": "https://etaps.org/2027/conferences/tacas/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-22"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TACL",
+        "name": "Topology, Algebra, and Categories in Logic",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TAMC",
+        "name": "Theory and Applications of Models of Computation",
+        "city": "Qingdao",
+        "country": "China",
+        "timezone": "",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-08-10"
+            }
+        ],
+        "start": "2027-11-13",
+        "end": "2027-11-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b>, 12 pages",
+        "remarks": "",
+        "url": "https://www.cs.sdu.edu.cn/tamc2026.htm",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-25"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-05"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-31"
+            }
+        ]
+    },
+    {
+        "acronym": "TAP",
+        "name": "Tests and Proofs",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TASE",
+        "name": "Theoretical Aspects of Software Engineering",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TbiLLC",
+        "name": "Tbilisi Symposium on Logic, Language and Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TERMGRAPH",
+        "name": "Computing with Terms and Graphs",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "ThEdu",
+        "name": "Theorem proving components for Educational software",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TIME",
+        "name": "Temporal Representation and Reasoning",
+        "city": "Cork",
+        "country": "Ireland",
+        "timezone": "Europe/Dublin",
+        "deadlines": [],
+        "start": "2026-09-01",
+        "end": "2026-09-03",
+        "submission_requirements": "",
+        "remarks": "also author registration deadline",
+        "url": "https://time26.cnr.it/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-24"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-07-10"
+            }
+        ]
+    },
+    {
+        "acronym": "TLLA",
+        "name": "Trends in Linear Logic and Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TPNC",
+        "name": "Theory and Practice of Natural Computing",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "TYPES",
+        "name": "Types for Proofs and Programs",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "UNIF",
+        "name": "Workshop on Unification",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "VMCAI",
+        "name": "Verification, Model Checking, and Abstract Interpretation",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "timezone": "America/Mexico_City",
+        "deadlines": [
+            {
+                "label": "paper registration",
+                "date": "2026-09-23"
+            },
+            {
+                "label": "paper submission",
+                "date": "2026-09-30"
+            }
+        ],
+        "start": "2027-01-11",
+        "end": "2027-01-12",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, <b>double-blind</b> (regular only), 20 pages regular, 12 pages tool, 20 pages case studies, all excluding references",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/VMCAI-2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-06"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "VSTTE",
+        "name": "Verified Software: Theories, Tools, and Experiments",
+        "city": "Graz",
+        "country": "Austria",
+        "timezone": "Europe/Vienna",
+        "deadlines": [],
+        "start": "2026-09-14",
+        "end": "2026-09-14",
+        "submission_requirements": "",
+        "remarks": "co-located with <a href=\"https://fmcad.org/FMCAD26/\" target=\"_blank\">FMCAD</a>; second final version for post-proceedings",
+        "url": "https://fmcad.org/FMCAD26/vstte/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-02"
+            },
+            {
+                "label": "final version for post-proceedings",
+                "date": "2026-10-23"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "first early registration",
+                "date": "2026-08-01"
+            },
+            {
+                "label": "second early registration",
+                "date": "2026-09-07"
+            }
+        ]
+    },
+    {
+        "acronym": "WABCT",
+        "name": "Workshop on Algorithms, Bioinformatics, and Computation Theory",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WABI",
+        "name": "Workshop on Algorithms in Bioinformatics",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-08-31",
+        "end": "2026-09-02",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/wabi/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-06-25"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-02"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "WADS",
+        "name": "Algorithms and Data Structures",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WADT",
+        "name": "Workshop on Algebraic Development Techniques",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-10-01"
+            }
+        ],
+        "start": "2026-06-29",
+        "end": "2026-07-03",
+        "submission_requirements": "<b>post-proceedings</b>",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/wadt-2026",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-10-29"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WAIT",
+        "name": "Workshop on Automated (Co)Inductive Theorem Proving",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WALCOM",
+        "name": "International Conference and Workshops on Algorithms and Computation",
+        "city": "Taipei",
+        "country": "Taiwan",
+        "timezone": "Asia/Taipei",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2026-09-21"
+            }
+        ],
+        "start": "2027-03-24",
+        "end": "2027-03-26",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 14 pages",
+        "remarks": "",
+        "url": "https://sites.google.com/gapps.ntnu.edu.tw/walcom2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-09"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WAOA",
+        "name": "Workshop on Approximation and Online Algorithms",
+        "city": "L’Aquila",
+        "country": "Italy",
+        "timezone": "Europe/Rome",
+        "deadlines": [],
+        "start": "2026-09-03",
+        "end": "2026-09-04",
+        "submission_requirements": "",
+        "remarks": "part of <a href=\"https://algo-conference.org/2026/\" target=\"_blank\">ALGO</a>",
+        "url": "https://algo-conference.org/2026/waoa/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-08-04"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-15"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-08-23"
+            }
+        ]
+    },
+    {
+        "acronym": "WFLP",
+        "name": "Workshop on Functional and Logic Programming",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WG",
+        "name": "Graph-Theoretic Concepts in Computer Science",
+        "city": "Schloss Schney",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [
+            {
+                "label": "submission deadline",
+                "date": "2027-02-05"
+            }
+        ],
+        "start": "2027-06-15",
+        "end": "2027-06-18",
+        "submission_requirements": "<a href=\"https://www.uni-bamberg.de/fileadmin/algok/wg2027/socg-lipics-v2021.cls\" target=\"_blank\">own format</a> with <a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 500 lines",
+        "remarks": "",
+        "url": "https://www.uni-bamberg.de/en/wg2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-09"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WINE",
+        "name": "Web and Internet Economics",
+        "city": "Hong Kong",
+        "country": "SAR China",
+        "timezone": "Asia/Hong_Kong",
+        "deadlines": [],
+        "start": "2026-12-01",
+        "end": "2026-12-04",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://wine2026conf.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-30"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "WISE",
+        "name": "Web Information Systems Engineering",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WLP",
+        "name": "Workshop on (Constraint and Functional) Logic Programming",
+        "city": "Dresden",
+        "country": "Germany",
+        "timezone": "Europe/Berlin",
+        "deadlines": [],
+        "start": "2026-09-23",
+        "end": "2026-09-23",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://www.imn.htwk-leipzig.de/WLP2026/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-07-06"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-07-14"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "WoLLIC",
+        "name": "Workshop on Logic, Language, Information and Computation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WORDS",
+        "name": "Combinatorics on Words",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WPTE",
+        "name": "Workshop on Rewriting Techniques for Program Transformations and Evaluation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WRLA",
+        "name": "Workshop on Rewriting Logic and its Applications",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WST",
+        "name": "Workshop on Termination",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "WTSC",
+        "name": "Workshop on Trusted Smart Contracts",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "XLoKR",
+        "name": "Explainable Logic-Based Knowledge Representation",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
+    },
+    {
+        "acronym": "FSEN",
+        "name": "Fundamentals of Software Engineering",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "timezone": "Europe/Amsterdam",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-19"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-10-28"
+            }
+        ],
+        "start": "2027-05-24",
+        "end": "2027-05-25",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages full, 6 pages short, both excluding references",
+        "remarks": "",
+        "url": "https://conf.researchr.org/home/fsen-2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-18"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-02-22"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "FormaliSE",
+        "name": "Formal Methods in Software Engineering",
+        "city": "Dublin",
+        "country": "Ireland",
+        "timezone": "Europe/Dublin",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-30"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-11-06"
+            }
+        ],
+        "start": "2027-04-26",
+        "end": "2027-04-27",
+        "submission_requirements": "<a href=\"https://ieee-org.widen.net/content/ssylclqqfn/original/conference-latex-template.zip\">IEEE</a>,\n            10 pages + 2p refs full or experience report,\n            4 pages + 1p refs research ideas,<br>\n            5 pages + 1p refs vision ideas,\n            4 pages tool demo",
+        "remarks": "",
+        "url": "https://2027.formalise.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-11"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-29"
+            }
+        ],
+        "early_registration": []
+    },
+    {
+        "acronym": "AILA",
+        "name": "Artificial Intelligence Logic and Applications",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "timezone": "Europe/London",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-10-31"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-11-07"
+            }
+        ],
+        "start": "2027-04-08",
+        "end": "2027-04-10",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 15 pages excluding references",
+        "remarks": "",
+        "url": "http://ailasym.com/AILA2027/AILA2027.html",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-10"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-25"
+            }
+        ],
+        "early_registration": []
+    }
+]
