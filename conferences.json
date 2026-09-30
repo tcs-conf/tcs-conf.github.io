@@ -4973,7 +4973,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-10-02"
+                "date": "2026-10-16"
             }
         ],
         "start": "2027-04-05",
@@ -4984,10 +4984,15 @@
         "notification": [
             {
                 "label": "notification",
-                "date": "2026-11-13"
+                "date": "2026-11-20"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-12-11"
+            }
+        ],
         "early_registration": []
     },
     {
