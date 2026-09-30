@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /index.html
 
 Sitemap: https://tcs-conf.github.io/sitemap.xml
