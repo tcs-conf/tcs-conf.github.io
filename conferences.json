@@ -626,18 +626,38 @@
     {
         "acronym": "BICOB",
         "name": "Bioinformatics and Computational Biology",
-        "city": "",
-        "country": "",
-        "timezone": "",
-        "deadlines": [],
-        "start": "",
-        "end": "",
-        "submission_requirements": "",
+        "city": "New Orleans, Lousiana",
+        "country": "USA",
+        "timezone": "America/Chicago",
+        "deadlines": [
+            {
+                "label": "paper submission",
+                "date": "2026-11-30"
+            }
+        ],
+        "start": "2027-03-22",
+        "end": "2027-03-23",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>",
         "remarks": "",
-        "url": "",
-        "notification": [],
-        "final_version": [],
-        "early_registration": []
+        "url": "https://cseweb.uhcl.edu/bicob27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-01-20"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-26"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "registration due",
+                "date": "2027-02-05"
+            }
+        ]
     },
     {
         "acronym": "BLAST",
