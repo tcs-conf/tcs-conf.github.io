@@ -3364,16 +3364,30 @@
     {
         "acronym": "IJCAI",
         "name": "International Joint Conference on Artificial Intelligence",
-        "city": "",
-        "country": "",
-        "timezone": "",
-        "deadlines": [],
-        "start": "",
-        "end": "",
+        "city": "Kyoto",
+        "country": "Japan",
+        "timezone": "Asia/Tokyo",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-04"
+            },
+            {
+                "label": "main paper",
+                "date": "2027-01-11"
+            }
+        ],
+        "start": "2027-08-07",
+        "end": "2027-08-13",
         "submission_requirements": "",
         "remarks": "",
-        "url": "",
-        "notification": [],
+        "url": "https://2027.ijcai.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-21"
+            }
+        ],
         "final_version": [],
         "early_registration": []
     },
