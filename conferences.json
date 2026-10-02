@@ -27,7 +27,12 @@
                 "date": "2026-12-14"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-15"
+            }
+        ]
     },
     {
         "acronym": "AAIM",
@@ -760,8 +765,18 @@
                 "date": "2026-11-13"
             }
         ],
-        "final_version": [],
-        "early_registration": []
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-27"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-31"
+            }
+        ]
     },
     {
         "acronym": "CanaDAM",
@@ -1047,10 +1062,15 @@
         "notification": [
             {
                 "label": "notification",
-                "date": "2026-10-05"
+                "date": "2026-10-08"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-14"
+            }
+        ],
         "early_registration": [
             {
                 "label": "registration deadline",
@@ -1323,7 +1343,12 @@
                 "date": "2026-11-10"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-25"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -2115,7 +2140,12 @@
                 "date": "2027-01-18"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-02-08"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -2925,7 +2955,12 @@
                 "date": "2026-10-25"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-31"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
@@ -3155,8 +3190,18 @@
                 "date": "2026-09-30"
             }
         ],
-        "final_version": [],
-        "early_registration": []
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-02-11"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-02-11"
+            }
+        ]
     },
     {
         "acronym": "ICLA",
@@ -3181,7 +3226,12 @@
                 "date": "2026-10-31"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-11"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -3561,8 +3611,18 @@
                 "date": "2026-09-07"
             }
         ],
-        "final_version": [],
-        "early_registration": []
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-09-25"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-31"
+            }
+        ]
     },
     {
         "acronym": "ISCO",
@@ -4448,7 +4508,7 @@
         "notification": [
             {
                 "label": "notification",
-                "date": "2026-10-29"
+                "date": "2026-10-28"
             }
         ],
         "final_version": [],
@@ -4943,7 +5003,12 @@
                 "date": "2026-08-03"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-08-21"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
@@ -5532,7 +5597,12 @@
                 "date": "2026-11-10"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-12-01"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
