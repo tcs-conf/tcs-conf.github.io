@@ -6464,19 +6464,38 @@
     {
         "acronym": "WoLLIC",
         "name": "Workshop on Logic, Language, Information and Computation",
-        "city": "",
-        "country": "",
-        "timezone": "",
-        "deadlines": [],
-        "start": "",
-        "end": "",
-        "submission_requirements": "",
+        "city": "Helsinki",
+        "country": "Finland",
+        "timezone": "Europe/Helsinki",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-03-08"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-03-15"
+            }
+        ],
+        "start": "2027-08-23",
+        "end": "2027-08-26",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages + 5 pages references",
         "remarks": "",
-        "url": "",
-        "notification": [],
-        "final_version": [],
+        "url": "https://www.helsinki.fi/en/conferences/wollic-2027",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-08"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-05-29"
+            }
+        ],
         "early_registration": []
-    },
+    },    
     {
         "acronym": "WORDS",
         "name": "Combinatorics on Words",
