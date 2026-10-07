@@ -115,7 +115,12 @@
         "url": "https://www.siam.org/conferences-events/siam-conferences/acda27/",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-01-29"
+            }
+        ]
     },
     {
         "acronym": "ADG",
@@ -1527,7 +1532,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-10-02"
+                "date": "2026-10-09"
             }
         ],
         "start": "2027-03-23",
@@ -4398,7 +4403,12 @@
                 "date": "2026-08-20"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "registration",
+                "date": "2026-10-07"
+            }
+        ]
     },
     {
         "acronym": "NFM",
@@ -6417,7 +6427,12 @@
                 "date": "2026-09-30"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-06 11:59 HKT (UTC+08:00)"
+            }
+        ]
     },
     {
         "acronym": "WISE",
