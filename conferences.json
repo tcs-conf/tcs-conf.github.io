@@ -5974,36 +5974,17 @@
     {
         "acronym": "TASE",
         "name": "Theoretical Aspects of Software Engineering",
-        "city": "Nice",
-        "country": "France",
-        "timezone": "Europe/Paris",
-        "deadlines": [
-            {
-                "label": "abstract submission",
-                "date": "2027-03-26"
-            },
-            {
-                "label": "full-paper submission",
-                "date": "2027-04-02"
-            }
-        ],
-        "start": "2027-09-13",
-        "end": "2027-09-15",
-        "submission_requirements": "<a href=\"https://www.ieee.org/conferences/publishing/templates\" target=\"_blank\">IEEE</a>, 8 pages",
+        "city": "",
+        "country": "",
+        "timezone": "",
+        "deadlines": [],
+        "start": "",
+        "end": "",
+        "submission_requirements": "",
         "remarks": "",
-        "url": "https://tase2017.i3s.unice.fr/",
-        "notification": [
-            {
-                "label": "notification",
-                "date": "2027-05-22"
-            }
-        ],
-        "final_version": [
-            {
-                "label": "final version",
-                "date": "2027-06-12"
-            }
-        ],
+        "url": "",
+        "notification": [],
+        "final_version": [],
         "early_registration": []
     },
     {
