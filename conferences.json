@@ -1396,11 +1396,11 @@
         "timezone": "Asia/Tokyo",
         "deadlines": [
             {
-                "label": "abstract submission",
+                "label": "fall cycle submission",
                 "date": "2026-10-15"
             },
             {
-                "label": "full-paper submission",
+                "label": "winter cycle submission",
                 "date": "2027-01-28"
             }
         ],
@@ -1411,11 +1411,11 @@
         "url": "https://csf2027.ieee-security.org/",
         "notification": [
             {
-                "label": "first notification",
+                "label": "fall cycle notification",
                 "date": "2026-12-14"
             },
             {
-                "label": "final notification",
+                "label": "winter cycle notification",
                 "date": "2027-04-05"
             }
         ],
