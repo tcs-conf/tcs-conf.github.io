@@ -1,15 +1,5 @@
 [
     {
-        "acronym": "SPLASH",
-        "name": "Systems, Programming, Languages, and Applications: Software for Humanity",
-        "city": "Oakland, California",
-        "country": "USA",
-        "start": "2026-10-03",
-        "end": "2026-10-09",
-        "remarks": "",
-        "url": "https://2026.splashcon.org/"
-    },
-    {
         "acronym": "EuroCG",
         "name": "European Workshop on Computational Geometry",
         "city": "Norrköping",
