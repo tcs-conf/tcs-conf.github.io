@@ -3916,7 +3916,16 @@
         "city": "San Jose, California",
         "country": "USA",
         "timezone": "America/Los_Angeles",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-07-19"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-07-26"
+            }
+        ],
         "start": "2027-08-01",
         "end": "2027-08-05",
         "submission_requirements": "",
