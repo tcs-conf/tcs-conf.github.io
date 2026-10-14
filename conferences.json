@@ -3913,19 +3913,24 @@
     {
         "acronym": "KDD",
         "name": "Knowledge Discovery and Data Mining",
-        "city": "",
-        "country": "",
-        "timezone": "",
+        "city": "San Jose, California",
+        "country": "USA",
+        "timezone": "America/Los_Angeles",
         "deadlines": [],
-        "start": "",
-        "end": "",
+        "start": "2027-08-01",
+        "end": "2027-08-05",
         "submission_requirements": "",
         "remarks": "",
-        "url": "",
-        "notification": [],
+        "url": "https://kdd2027.kdd.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-11-14"
+            }
+        ],
         "final_version": [],
         "early_registration": []
-    },
+    }.
     {
         "acronym": "KI",
         "name": "German Conference on Artificial Intelligence",
