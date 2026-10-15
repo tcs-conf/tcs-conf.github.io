@@ -336,7 +336,7 @@ function classifyConference(conf, todayIso) {
 
   // A conference starts running at 06:00 local time on its start date.
   if (now < `${start}T06:00`) {
-    return "future";
+    return maxDeadline ? "future" : "planning";
   }
 
   // It remains running through 20:00 local time on its end date.
@@ -669,6 +669,16 @@ async function main() {
     if (cls === "ahead") ahead.push(conf);
     else if (cls === "running") running.push(conf);
     else if (cls === "future") future.push(conf);
+    else if (cls === "planning") {
+      const index = planning.findIndex(
+        (planned) =>
+          planned.acronym === conf.acronym &&
+          (planned.start || "").slice(0, 4) === conf.start.slice(0, 4),
+      );
+
+      if (index === -1) planning.push(conf);
+      else planning[index] = conf;
+    }
   });
 
   ahead.forEach((conf) => {
