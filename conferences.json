@@ -463,10 +463,10 @@
     "country": "France",
     "timezone": "Europe/Paris",
     "deadlines": [],
-    "start": "",
-    "end": "",
+    "start": "2027-06-14",
+    "end": "2027-06-18",
     "submission_requirements": "",
-    "remarks": "",
+    "remarks": "<a href=\"llncs2e.zip\">LNCS</a> proceedings",
     "url": "https://www.math.aau.at/AofA/meetings/",
     "notification": [],
     "final_version": [],
@@ -1735,7 +1735,7 @@
     "end": "2027-07-01",
     "submission_requirements": "own template, 15 pages excluding references and technical appendix; <b>double-blind</b>",
     "remarks": "",
-    "url": "https://www.zlaire.net/deon2027/",
+    "url": "https://deonconferences.org/",
     "notification": [
       {
         "label": "notification",
@@ -3137,7 +3137,7 @@
     "end": "2027-06-11",
     "submission_requirements": "",
     "remarks": "",
-    "url": "https://www.impan.pl/en/bc-conferences",
+    "url": "https://getco-conf.github.io/",
     "notification": [],
     "final_version": [],
     "early_registration": []
@@ -6134,7 +6134,7 @@
     "end": "2027-06-25",
     "submission_requirements": "",
     "remarks": "",
-    "url": "https://cgweek27.computational-geometry.org/",
+    "url": "https://computational-geometry.org/cg-week/socg/",
     "notification": [],
     "final_version": [],
     "early_registration": []
