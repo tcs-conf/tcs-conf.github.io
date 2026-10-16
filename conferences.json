@@ -4907,22 +4907,6 @@
     "early_registration": []
   },
   {
-    "acronym": "PaCT",
-    "name": "Parallel Architectures and Compilation Techniques",
-    "city": "Chicago, Illinois",
-    "country": "USA",
-    "timezone": "America/Chicago",
-    "deadlines": [],
-    "start": "2026-10-19",
-    "end": "2026-10-22",
-    "submission_requirements": "",
-    "remarks": "",
-    "url": "https://pact2026.github.io/",
-    "notification": [],
-    "final_version": [],
-    "early_registration": []
-  },
-  {
     "acronym": "PADL",
     "name": "Practical Aspects of Declarative Languages",
     "city": "",
