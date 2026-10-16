@@ -5,7 +5,16 @@
     "city": "Montreal",
     "country": "Canada",
     "timezone": "America/Toronto",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-07-21"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-28"
+      }
+    ],
     "start": "2027-02-16",
     "end": "2027-02-23",
     "submission_requirements": "",
@@ -144,7 +153,16 @@
     "city": "Paris",
     "country": "France",
     "timezone": "Europe/Paris",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-05-18"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-05-25"
+      }
+    ],
     "start": "2026-11-16",
     "end": "2026-11-18",
     "submission_requirements": "",
@@ -272,7 +290,12 @@
     "city": "Philadelphia, Pennsylvania",
     "country": "USA",
     "timezone": "America/New_York",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-20"
+      }
+    ],
     "start": "2027-01-24",
     "end": "2027-01-25",
     "submission_requirements": "",
@@ -455,7 +478,12 @@
     "city": "Hong Kong",
     "country": "SAR China",
     "timezone": "Asia/Hong_Kong",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-22"
+      }
+    ],
     "start": "2026-12-01",
     "end": "2026-12-05",
     "submission_requirements": "",
@@ -597,7 +625,16 @@
     "city": "Hong Kong",
     "country": "SAR China",
     "timezone": "Asia/Hong_Kong",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-05-19"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-05-21"
+      }
+    ],
     "start": "2026-12-01",
     "end": "2026-12-05",
     "submission_requirements": "",
@@ -898,7 +935,24 @@
     "city": "The Hague",
     "country": "Netherlands",
     "timezone": "Europe/Amsterdam",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "cycle 1 abstract submission",
+        "date": "2026-01-07"
+      },
+      {
+        "label": "cycle 1 full-paper submission",
+        "date": "2026-01-14"
+      },
+      {
+        "label": "cycle 2 abstract submission",
+        "date": "2026-04-22"
+      },
+      {
+        "label": "cycle 2 full-paper submission",
+        "date": "2026-04-29"
+      }
+    ],
     "start": "2026-11-15",
     "end": "2026-11-19",
     "submission_requirements": "",
@@ -1448,7 +1502,16 @@
     "city": "Brighton",
     "country": "United Kingdom",
     "timezone": "Europe/London",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-07-08"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-15"
+      }
+    ],
     "start": "2027-01-25",
     "end": "2027-01-29",
     "submission_requirements": "",
@@ -1698,7 +1761,16 @@
     "city": "Rome",
     "country": "Italy",
     "timezone": "Europe/Rome",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "paper registration",
+        "date": "2026-05-27"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-01"
+      }
+    ],
     "start": "2026-11-09",
     "end": "2026-11-13",
     "submission_requirements": "",
@@ -2587,7 +2659,16 @@
     "city": "Brighton",
     "country": "UK",
     "timezone": "Europe/London",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "paper registration",
+        "date": "2026-11-23"
+      },
+      {
+        "label": "paper submission",
+        "date": "2026-11-30"
+      }
+    ],
     "start": "2027-01-25",
     "end": "2027-01-26",
     "submission_requirements": "",
@@ -2733,7 +2814,12 @@
     "city": "New York City, New York",
     "country": "USA",
     "timezone": "America/New_York",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission (17:00 EDT / 21:00 UTC)",
+        "date": "2026-04-01"
+      }
+    ],
     "start": "2026-11-08",
     "end": "2026-11-11",
     "submission_requirements": "",
@@ -2921,7 +3007,16 @@
     "city": "New Delhi",
     "country": "India",
     "timezone": "Asia/Kolkata",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-07-04"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-11"
+      }
+    ],
     "start": "2026-12-16",
     "end": "2026-12-18",
     "submission_requirements": "",
@@ -3209,7 +3304,12 @@
     "city": "Surathkal",
     "country": "India",
     "timezone": "Asia/Kolkata",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-08-13"
+      }
+    ],
     "start": "2027-01-04",
     "end": "2027-01-07",
     "submission_requirements": "",
@@ -3468,7 +3568,16 @@
     "city": "Bariloche",
     "country": "Argentina",
     "timezone": "America/Argentina/Buenos_Aires",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-06-22"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-22"
+      }
+    ],
     "start": "2026-11-11",
     "end": "2026-11-13",
     "submission_requirements": "",
@@ -3499,7 +3608,12 @@
     "city": "Boca Raton, Florida",
     "country": "USA",
     "timezone": "America/New_York",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-21"
+      }
+    ],
     "start": "2026-11-02",
     "end": "2026-11-04",
     "submission_requirements": "",
@@ -3731,7 +3845,16 @@
     "city": "Madrid",
     "country": "Spain",
     "timezone": "Europe/Madrid",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "cycle 1 full-paper submission",
+        "date": "2026-05-30"
+      },
+      {
+        "label": "cycle 2 full-paper submission",
+        "date": "2026-07-30"
+      }
+    ],
     "start": "2026-12-08",
     "end": "2026-12-10",
     "submission_requirements": "",
@@ -3845,7 +3968,12 @@
     "city": "Hangzhou",
     "country": "China",
     "timezone": "Asia/Shanghai",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-29"
+      }
+    ],
     "start": "2026-12-06",
     "end": "2026-12-09",
     "submission_requirements": "",
@@ -4061,7 +4189,12 @@
     "city": "Spetses",
     "country": "Greece",
     "timezone": "Europe/Athens",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-08-18"
+      }
+    ],
     "start": "2026-10-25",
     "end": "2026-10-25",
     "submission_requirements": "",
@@ -4442,7 +4575,20 @@
     "city": "Spetses",
     "country": "Greece",
     "timezone": "Europe/Athens",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-06-03"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-21"
+      },
+      {
+        "label": "short-paper submission",
+        "date": "2026-08-17"
+      }
+    ],
     "start": "2026-10-25",
     "end": "2026-10-30",
     "submission_requirements": "",
@@ -4706,7 +4852,20 @@
     "city": "Toruń",
     "country": "Poland",
     "timezone": "Europe/Warsaw",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission (for full papers)",
+        "date": "2026-06-22"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-25"
+      },
+      {
+        "label": "short abstract submission",
+        "date": "2026-08-31"
+      }
+    ],
     "start": "2026-10-26",
     "end": "2026-10-28",
     "submission_requirements": "",
@@ -4886,7 +5045,16 @@
     "city": "Chicago, Illinois",
     "country": "USA",
     "timezone": "America/Chicago",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-04-17"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-04-24"
+      }
+    ],
     "start": "2026-10-19",
     "end": "2026-10-22",
     "submission_requirements": "",
@@ -4985,7 +5153,12 @@
     "city": "Taipei",
     "country": "Taiwan",
     "timezone": "Asia/Taipei",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-08-16"
+      }
+    ],
     "start": "2027-03-01",
     "end": "2027-03-04",
     "submission_requirements": "",
@@ -5077,7 +5250,12 @@
     "city": "Mexico City",
     "country": "Mexico",
     "timezone": "America/Mexico_City",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-09"
+      }
+    ],
     "start": "2027-01-10",
     "end": "2027-01-16",
     "submission_requirements": "",
@@ -5170,7 +5348,16 @@
     "city": "Kumamoto",
     "country": "Japan",
     "timezone": "Asia/Tokyo",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-08-03"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-08-03"
+      }
+    ],
     "start": "2026-12-14",
     "end": "2026-12-17",
     "submission_requirements": "",
@@ -5202,7 +5389,12 @@
     "city": "Sheffield",
     "country": "UK",
     "timezone": "Europe/London",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2027-04-10"
+      }
+    ],
     "start": "2027-08-25",
     "end": "2027-08-27",
     "submission_requirements": "",
@@ -5313,7 +5505,16 @@
     "city": "",
     "country": "Malta",
     "timezone": "Europe/Malta",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission (optional)",
+        "date": "2026-09-08"
+      },
+      {
+        "label": "full-paper / short-presentation submission",
+        "date": "2026-09-16"
+      }
+    ],
     "start": "2026-11-24",
     "end": "2026-11-24",
     "submission_requirements": "",
@@ -5359,7 +5560,12 @@
     "city": "Turku",
     "country": "Finland",
     "timezone": "Europe/Helsinki",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-30"
+      }
+    ],
     "start": "2026-10-21",
     "end": "2026-10-23",
     "submission_requirements": "",
@@ -5692,7 +5898,16 @@
     "city": "Salt Lake City, Utah",
     "country": "USA",
     "timezone": "America/Denver",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2026-04-10"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2026-04-17"
+      }
+    ],
     "start": "2026-11-19",
     "end": "2026-11-20",
     "submission_requirements": "",
@@ -5877,7 +6092,12 @@
     "city": "Montbéliard",
     "country": "France",
     "timezone": "Europe/Paris",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-09-22"
+      }
+    ],
     "start": "2026-11-30",
     "end": "2026-12-04",
     "submission_requirements": "",
@@ -5941,7 +6161,12 @@
     "city": "Philadelphia, Pennsylvania",
     "country": "USA",
     "timezone": "America/New_York",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-09"
+      }
+    ],
     "start": "2027-01-24",
     "end": "2027-01-27",
     "submission_requirements": "",
@@ -6007,7 +6232,12 @@
     "city": "Philadelphia, Pennsylvania",
     "country": "USA",
     "timezone": "America/New_York",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-08-06"
+      }
+    ],
     "start": "2027-01-25",
     "end": "2027-01-26",
     "submission_requirements": "",
@@ -6508,7 +6738,12 @@
     "city": "Udine",
     "country": "Italy",
     "timezone": "Europe/Rome",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "extended-abstract submission",
+        "date": "2027-02-19"
+      }
+    ],
     "start": "2027-06-07",
     "end": "2027-06-11",
     "submission_requirements": "",
@@ -6813,7 +7048,12 @@
     "city": "Hong Kong",
     "country": "SAR China",
     "timezone": "Asia/Hong_Kong",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-07-02"
+      }
+    ],
     "start": "2026-12-01",
     "end": "2026-12-04",
     "submission_requirements": "",
@@ -6844,7 +7084,12 @@
     "city": "Venice",
     "country": "Italy",
     "timezone": "Europe/Rome",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2026-06-30"
+      }
+    ],
     "start": "2026-11-01",
     "end": "2026-11-05",
     "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>",
