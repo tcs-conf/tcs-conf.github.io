@@ -2980,11 +2980,11 @@
     "deadlines": [
       {
         "label": "abstract submission",
-        "date": "2027-02-15"
+        "date": "2027-04-19"
       },
       {
         "label": "full-paper submission",
-        "date": "2027-02-22"
+        "date": "2027-04-26"
       }
     ],
     "start": "2027-08-23",
@@ -2995,10 +2995,15 @@
     "notification": [
       {
         "label": "notification",
-        "date": "2027-05-17"
+        "date": "2027-06-28"
       }
     ],
-    "final_version": [],
+      "final_version": [
+          {
+              "label": "final version",
+              "date": "2027-07-10"
+          }
+      ],
     "early_registration": []
   },
   {
