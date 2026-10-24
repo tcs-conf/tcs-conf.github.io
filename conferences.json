@@ -2671,7 +2671,7 @@
         ],
         "start": "2027-01-25",
         "end": "2027-01-26",
-        "submission_requirements": "",
+        "submission_requirements": "<a href=\"https://style.eptcs.org/\" target=\"_blank\">EPTCS</a>, 10 pages extended abstracts, 5 pages short abstracts",
         "remarks": "satellite of CSL 2027",
         "url": "https://fics2027.codeberg.page/",
         "notification": [],
