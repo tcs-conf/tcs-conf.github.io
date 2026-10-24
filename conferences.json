@@ -1733,7 +1733,7 @@
         ],
         "start": "2027-06-29",
         "end": "2027-07-01",
-        "submission_requirements": "own template, 15 pages excluding references and technical appendix; <b>double-blind</b>",
+        "submission_requirements": "own template, 15 pages excluding references; <b>double-blind</b>",
         "remarks": "",
         "url": "https://deonconferences.org/",
         "notification": [
@@ -3415,7 +3415,7 @@
         ],
         "start": "2027-09-26",
         "end": "2027-10-01",
-        "submission_requirements": "ACM Small, 25 pages full/Functional Pearl, 12 pages Experience Report, excluding bibliography and appendix; <b>double-blind</b>",
+        "submission_requirements": "ACM Small, 25 pages full/Functional Pearl, 12 pages Experience Report, excluding bibliography; <b>double-blind</b>",
         "remarks": "",
         "url": "https://icfp27.sigplan.org/",
         "notification": [
@@ -3883,7 +3883,7 @@
         ],
         "start": "2027-06-15",
         "end": "2027-06-17",
-        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding acknowledgments, references, appendix; <b>double-blind</b>",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding acknowledgments and references; <b>double-blind</b>",
         "remarks": "",
         "url": "https://ieor.columbia.edu/ipco2027",
         "notification": [
@@ -6876,7 +6876,7 @@
         ],
         "start": "2026-10-29",
         "end": "2026-10-31",
-        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages including references, excluding optional appendix",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages",
         "remarks": "",
         "url": "https://www.ics2026.ntub.edu.tw/call-for-papers-for-wabct-2026/",
         "notification": [
