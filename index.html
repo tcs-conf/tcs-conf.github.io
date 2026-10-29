@@ -29,14 +29,20 @@
         container.classList.add("is-sticky");
       }
     }
-    async function getLastModified(filename = "conferences.json") {
+    async function getLastModified(filename) {
         try {
-            const response = await fetch(filename, { method: "HEAD" });
+            const url = new URL(filename, window.location.href);
+    
+            const response = await fetch(url.href, {
+                method: "HEAD",
+                cache: "no-store"
+            });
             
             if (!response.ok) {
                 throw new Error(`HTTP error: ${response.status}`);
             }
-
+    
+            console.log("Requested URL:", response.url);
             const lastModified = response.headers.get("Last-Modified");
 
             return lastModified ? new Date(lastModified) : null;
@@ -219,9 +225,9 @@
       <p id="lastUpdated">
         <script>
           (async () => {
-              const date = await getLastModified();
+              const date = await getLastModified("./conferences.json");
               
-              document.getElementById("lastUpdated").textContent =
+              document.getElementById("lastUpdated").textContent = 
                   date
                   ? "Last updated: "
                   + date.toLocaleString("fr-FR", {
