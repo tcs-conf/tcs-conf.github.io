@@ -31,18 +31,14 @@
     }
     async function getLastModified(filename) {
         const url = new URL(filename, window.location.href);
-        
         const response = await fetch(url.href, {
-            method: "GET",
+            method: "HEAD",
             cache: "no-store"
         });
-        
         if (!response.ok) {
             throw new Error(`HTTP error: ${response.status}`);
         }
-        
         const lastModified = response.headers.get("Last-Modified");
-        
         return lastModified ? new Date(lastModified) : null;
     }
   </script>
