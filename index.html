@@ -32,7 +32,8 @@
     async function getLastModified(filename) {
         const url = new URL(filename, window.location.href);
         const response = await fetch(url.href, {
-            method: "HEAD",
+            // method: "HEAD",
+            method: "GET",
             cache: "no-store"
         });
         if (!response.ok) {
