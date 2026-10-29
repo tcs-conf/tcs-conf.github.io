@@ -7468,11 +7468,6 @@
                 "date": "2027-01-25"
             }
         ],
-        "early_registration": [
-            {
-                "label": "early registration",
-                "date": "YYYY-MM-DD"
-            }
-        ]
+        "early_registration": []
     }
 ]
