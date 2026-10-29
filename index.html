@@ -30,26 +30,20 @@
       }
     }
     async function getLastModified(filename) {
-        try {
-            const url = new URL(filename, window.location.href);
-    
-            const response = await fetch(url.href, {
-                method: "HEAD",
-                cache: "no-store"
-            });
-            
-            if (!response.ok) {
-                throw new Error(`HTTP error: ${response.status}`);
-            }
-    
-            console.log("Requested URL:", response.url);
-            const lastModified = response.headers.get("Last-Modified");
-
-            return lastModified ? new Date(lastModified) : null;
-        } catch (error) {
-            console.error("Unable to get modification date:", error);
-            return null;
+        const url = new URL(filename, window.location.href);
+        
+        const response = await fetch(url.href, {
+            method: "GET",
+            cache: "no-store"
+        });
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error: ${response.status}`);
         }
+        
+        const lastModified = response.headers.get("Last-Modified");
+        
+        return lastModified ? new Date(lastModified) : null;
     }
   </script>
 </head>
@@ -222,7 +216,7 @@
     </div>
 
     <footer class="site-footer">
-      <p id="lastUpdated">
+      <p id="lastUpdated"></p>
         <script>
           (async () => {
               const date = await getLastModified("./conferences.json");
@@ -242,7 +236,6 @@
                   : "Modification date unavailable.";
           })();
         </script>
-      </p>
       <p>© 2015–2026
         <a href="https://www.lix.polytechnique.fr/~hermann/" target="_blank">Miki Hermann</a>
         and
