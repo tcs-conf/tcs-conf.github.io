@@ -501,7 +501,12 @@
                 "date": "2026-09-08"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-15"
+            }
+        ]
     },
     {
         "acronym": "APOCS",
@@ -652,7 +657,12 @@
                 "date": "2026-09-10"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-15"
+            }
+        ]
     },
     {
         "acronym": "AUTOMATA",
@@ -1397,7 +1407,12 @@
                 "date": "2026-11-25"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-02"
+            }
+        ]
     },
     {
         "acronym": "CRYPTO",
@@ -1523,7 +1538,12 @@
                 "date": "2026-10-15"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-12"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -1629,8 +1649,18 @@
                 "date": "2026-11-22"
             }
         ],
-        "final_version": [],
-        "early_registration": []
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-12-09"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "author registration",
+                "date": "2026-12-09"
+            }
+        ]
     },
     {
         "acronym": "DCFS",
@@ -3867,7 +3897,12 @@
         "url": "https://www.gcet-conference.com/IOTSMS2026/",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-05"
+            }
+        ]
     },
     {
         "acronym": "IPCO",
@@ -4833,7 +4868,12 @@
                 "date": "2026-11-06"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-06"
+            }
+        ]
     },
     {
         "acronym": "MPC",
@@ -5026,7 +5066,12 @@
             }
         ],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-22"
+            }
+        ]
     },
     {
         "acronym": "PAAR",
@@ -5265,7 +5310,7 @@
         "end": "2027-01-16",
         "submission_requirements": "",
         "remarks": "",
-        "url": "https://conf.researchr.org/home/POPL-2027",
+        "url": "https://popl27.sigplan.org/",
         "notification": [
             {
                 "label": "first notification",
@@ -5277,7 +5322,12 @@
             }
         ],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-02"
+            }
+        ]
     },
     {
         "acronym": "PoS",
@@ -5370,7 +5420,12 @@
         "url": "https://www.prima2026.org/",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-11-01"
+            }
+        ]
     },
     {
         "acronym": "ProofComplexity",
@@ -5546,7 +5601,12 @@
         "url": "https://reacts-workshop.github.io/2026/",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-23"
+            }
+        ]
     },
     {
         "acronym": "RECOMB",
@@ -5690,7 +5750,12 @@
                 "date": "2026-12-11"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "author registration",
+                "date": "2026-12-05"
+            }
+        ]
     },
     {
         "acronym": "SAFECOMP",
@@ -6000,7 +6065,12 @@
                 "date": "2026-09-21"
             }
         ],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-02"
+            }
+        ]
     },
     {
         "acronym": "SEMANTICS",
@@ -6129,7 +6199,12 @@
         "url": "https://ieee-cybermatics2026.org/call-for-papers/smartdata",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-10-15"
+            }
+        ]
     },
     {
         "acronym": "SMT",
@@ -6820,8 +6895,18 @@
                 "date": "2026-11-06"
             }
         ],
-        "final_version": [],
-        "early_registration": []
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-20"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-02"
+            }
+        ]
     },
     {
         "acronym": "VSTTE",
