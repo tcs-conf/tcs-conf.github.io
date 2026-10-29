@@ -29,6 +29,22 @@
         container.classList.add("is-sticky");
       }
     }
+    async function getLastModified(filename = "conferences.json") {
+        try {
+            const response = await fetch(filename, { method: "HEAD" });
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error: ${response.status}`);
+            }
+
+            const lastModified = response.headers.get("Last-Modified");
+
+            return lastModified ? new Date(lastModified) : null;
+        } catch (error) {
+            console.error("Unable to get modification date:", error);
+            return null;
+        }
+    }
   </script>
 </head>
 
@@ -200,6 +216,17 @@
     </div>
 
     <footer class="site-footer">
+      <p id="lastUpdated"></p>
+      <script>
+        (async () => {
+            const date = await getLastModified();
+            
+            document.getElementById("lastUpdated").textContent =
+                date
+                ? "Last updated: " + date.toLocaleString()
+                : "Modification date unavailable.";
+        })();
+      </script>
       <p>© 2015–2026 <a href="https://www.lix.polytechnique.fr/~hermann/" target="_blank">Miki Hermann</a> and <a
           href="https://www.lix.polytechnique.fr/Labo/Martin.KREJCA/" target="_blank">Martin Krejca</a> (<a
           href="https://www.lix.polytechnique.fr/" target="_blank">LIX</a>, <a href="https://www.polytechnique.edu/en"
