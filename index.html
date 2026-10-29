@@ -54,7 +54,9 @@
         });
         const zone = new Intl.DateTimeFormat("en", {
             timeZoneName: "longOffset"
-        }).format(date).replace("GMT", "UTC");
+        }).formatToParts(date)
+              .find(part => part.type === "timeZoneName")
+              .value.replace("GMT", "UTC");
         const timeZone = Intl.DateTimeFormat()
               .resolvedOptions().timeZone;
         return `${formatted} (${zone}, ${timeZone})`;
