@@ -216,30 +216,34 @@
     </div>
 
     <footer class="site-footer">
-      <p id="lastUpdated"></p>
-      <script>
-        (async () => {
-            const date = await getLastModified();
-            
-            document.getElementById("lastUpdated").textContent =
-                date
-                ? "Last updated: "
-                + date.toLocaleString("fr-FR", {
-                    day: "2-digit",
-                    month: "2-digit",
-                    year: "numeric",
-                    hour: "2-digit",
-                    minute: "2-digit",
-                    second: "2-digit",
-                    hourCycle: "h23"
-                })
-                : "Modification date unavailable.";
-        })();
-      </script>
-      <p>© 2015–2026 <a href="https://www.lix.polytechnique.fr/~hermann/" target="_blank">Miki Hermann</a> and <a
-          href="https://www.lix.polytechnique.fr/Labo/Martin.KREJCA/" target="_blank">Martin Krejca</a> (<a
-          href="https://www.lix.polytechnique.fr/" target="_blank">LIX</a>, <a href="https://www.polytechnique.edu/en"
-          target="_blank">Ecole Polytechnique</a>).</p>
+      <p id="lastUpdated">
+        <script>
+          (async () => {
+              const date = await getLastModified();
+              
+              document.getElementById("lastUpdated").textContent =
+                  date
+                  ? "Last updated: "
+                  + date.toLocaleString("fr-FR", {
+                      day: "2-digit",
+                      month: "2-digit",
+                      year: "numeric",
+                      hour: "2-digit",
+                      minute: "2-digit",
+                      second: "2-digit",
+                      hourCycle: "h23"
+                  })
+                  : "Modification date unavailable.";
+          })();
+        </script>
+      </p>
+      <p>© 2015–2026
+        <a href="https://www.lix.polytechnique.fr/~hermann/" target="_blank">Miki Hermann</a>
+        and
+        <a href="https://www.lix.polytechnique.fr/Labo/Martin.KREJCA/" target="_blank">Martin Krejca</a>
+        (<a href="https://www.lix.polytechnique.fr/" target="_blank">LIX</a>,
+        <a href="https://www.polytechnique.edu/en" target="_blank">Ecole Polytechnique</a>).
+      </p>
     </footer>
   </div>
 </body>
