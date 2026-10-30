@@ -2375,7 +2375,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -2401,7 +2401,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -2427,7 +2427,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -2453,7 +2453,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -2479,7 +2479,7 @@
         "deadlines": [
             {
                 "label": "submission deadline",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -2505,7 +2505,7 @@
         "deadlines": [
             {
                 "label": "paper submission",
-                "date": "2026-11-01"
+                "date": "2026-11-16"
             }
         ],
         "start": "2027-03-31",
@@ -6130,8 +6130,12 @@
         "timezone": "Asia/Nicosia",
         "deadlines": [
             {
-                "label": "submission deadline",
+                "label": "abstract submission",
                 "date": "2026-10-31"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-11-07"
             }
         ],
         "start": "2027-06-02",
@@ -7133,7 +7137,11 @@
         "timezone": "Europe/Berlin",
         "deadlines": [
             {
-                "label": "submission deadline",
+                "label": "abstract submission",
+                "date": "2027-01-31"
+            },
+            {
+                "label": "full-paper submission",
                 "date": "2027-02-05"
             }
         ],
