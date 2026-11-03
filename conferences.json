@@ -2630,19 +2630,34 @@
     {
         "acronym": "FCT",
         "name": "Fundamentals of Computation Theory",
-        "city": "",
-        "country": "",
-        "timezone": "",
-        "deadlines": [],
-        "start": "",
-        "end": "",
-        "submission_requirements": "",
+        "city": "Craiova",
+        "country": "Romania",
+        "timezone": "Europe/Bucharest",
+        "deadlines": [
+            {
+                "label": "full-paper submission",
+                "date": "2027-04-23"
+            }
+        ],
+        "start": "2027-09-22",
+        "end": "2027-09-24",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages",
         "remarks": "",
-        "url": "",
-        "notification": [],
-        "final_version": [],
+        "url": "https://dcti.ucv.ro/fct2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-06-30"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-07-14"
+            }
+        ],
         "early_registration": []
-    },
+    },    
     {
         "acronym": "FedCSIS",
         "name": "Federated Conference on Computer Science and Information Systems",
