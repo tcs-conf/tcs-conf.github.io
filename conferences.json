@@ -7466,12 +7466,8 @@
         "timezone": "Europe/London",
         "deadlines": [
             {
-                "label": "abstract submission",
-                "date": "2026-10-31"
-            },
-            {
-                "label": "full-paper submission",
-                "date": "2026-11-07"
+                "label": "paper submission",
+                "date": "2026-11-15"
             }
         ],
         "start": "2027-04-08",
