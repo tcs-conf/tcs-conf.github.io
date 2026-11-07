@@ -1173,13 +1173,23 @@
         "city": "Tokyo",
         "country": "Japan",
         "timezone": "Asia/Tokyo",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "paper submission",
+                "date": "2027-01-29"
+            }
+        ],
         "start": "2027-06-28",
         "end": "2027-07-02",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://learningtheory.org/colt2027/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-03"
+            }
+        ],
         "final_version": [],
         "early_registration": []
     },
@@ -1273,14 +1283,37 @@
         "city": "Augsburg",
         "country": "Germany",
         "timezone": "Europe/Berlin",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-28"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-04"
+            },
+            {
+                "label": "artefact submission",
+                "date": "2027-02-11"
+            }
+        ],
         "start": "2027-06-14",
         "end": "2027-06-18",
         "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12–18 pages regular, 16–25 pages survey, 4–15 pages tool, excluding references and appendices",
         "remarks": "part of <a href=\"https://www.discotec.org/2027/\" target=\"_blank\">DisCoTec 2027</a>",
         "url": "https://www.discotec.org/2027/coordination",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-01"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -1584,14 +1617,33 @@
         "city": "Augsburg",
         "country": "Germany",
         "timezone": "Europe/Berlin",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-28"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-04"
+            }
+        ],
         "start": "2027-06-14",
         "end": "2027-06-18",
         "submission_requirements": "",
         "remarks": "part of <a href=\"https://www.discotec.org/2027/\" target=\"_blank\">DisCoTec 2027</a>",
         "url": "https://www.discotec.org/2027/dais",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-01"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -1831,13 +1883,37 @@
         "city": "Augsburg",
         "country": "Germany",
         "timezone": "Europe/Berlin",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-28"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-04"
+            },
+            {
+                "label": "artefact submission",
+                "date": "2027-02-11"
+            }
+        ],
         "start": "2027-06-14",
         "end": "2027-06-18",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://www.discotec.org/2027/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-01"
+            }
+        ],
         "final_version": [],
         "early_registration": []
     },
@@ -2289,15 +2365,39 @@
         "city": "Norrköping",
         "country": "Sweden",
         "timezone": "Europe/Stockholm",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "paper submission",
+                "date": "2027-01-17"
+            }
+        ],
         "start": "2027-04-07",
         "end": "2027-04-09",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://eurocg2027.on.liu.se/",
-        "notification": [],
-        "final_version": [],
-        "early_registration": []
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-03"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-03-24"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-03-17"
+            },
+            {
+                "label": "regitration ends",
+                "date": "2027-03-31"
+            }
+        ]
     },
     {
         "acronym": "Eurocomb",
@@ -2948,14 +3048,37 @@
         "city": "Augsburg",
         "country": "Germany",
         "timezone": "Europe/Berlin",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-28"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-04"
+            },
+            {
+                "label": "artefact submission",
+                "date": "2027-02-11"
+            }
+        ],
         "start": "2027-06-14",
         "end": "2027-06-18",
         "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 7–15 pages regular/tool, up to 6 pages short, excluding references",
         "remarks": "part of <a href=\"https://www.discotec.org/2027/\" target=\"_blank\">DisCoTec 2027</a>",
         "url": "https://www.discotec.org/2027/forte",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "final version",
+                "date": "2027-03-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-01"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -3171,14 +3294,33 @@
         "city": "Kraków",
         "country": "Poland",
         "timezone": "Europe/Warsaw",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-18"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-01-25"
+            }
+        ],
         "start": "2027-07-12",
         "end": "2027-07-16",
         "submission_requirements": "",
         "remarks": "",
-        "url": "https://gecco-2027.sigevo.org/HomePage",
-        "notification": [],
-        "final_version": [],
+        "url": "https://gecco-2027.sigevo.org/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-19"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-09"
+            }
+         ],
         "early_registration": []
     },
     {
@@ -4541,13 +4683,27 @@
         "city": "Montreal",
         "country": "Canada",
         "timezone": "America/Toronto",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-14"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-01-21"
+            }
+        ],
         "start": "2027-06-21",
         "end": "2027-06-24",
         "submission_requirements": "",
         "remarks": "workshops 19–20 June 2027",
         "url": "https://lics.siglog.org/lics27/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-15"
+            }
+         ],
         "final_version": [],
         "early_registration": []
     },
@@ -6252,14 +6408,33 @@
         "city": "Bengaluru",
         "country": "India",
         "timezone": "Asia/Kolkata",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2026-11-25"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2026-12-02"
+            }
+         ],
         "start": "2027-06-21",
         "end": "2027-06-25",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://computational-geometry.org/cg-week/socg/",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-02-05"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-03-29"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -7301,7 +7476,7 @@
         "acronym": "WORDS",
         "name": "Combinatorics on Words",
         "city": "London",
-        "country": "UK",
+        "country": "United Kingdom",
         "timezone": "Europe/London",
         "deadlines": [],
         "start": "2027-06-14",
