@@ -3095,7 +3095,12 @@
         "url": "",
         "notification": [],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-03"
+            }
+        ]
     },
     {
         "acronym": "FUN",
