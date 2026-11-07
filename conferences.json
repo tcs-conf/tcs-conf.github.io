@@ -2721,7 +2721,7 @@
         "start": "2027-06-05",
         "end": "2027-06-11",
         "submission_requirements": "",
-        "remarks": "",
+        "remarks": "Federated conference including <a href=\"https://acm-stoc.org/stoc2027/\" target=\"_blank\">STOC</a> and <a href=\"https://spaa.acm.org/\" target=\"_blank\">SPAA</a>",
         "url": "https://fcrc.acm.org/",
         "notification": [],
         "final_version": [],
@@ -3306,7 +3306,7 @@
         ],
         "start": "2027-07-12",
         "end": "2027-07-16",
-        "submission_requirements": "",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, <b>double-blind</b>, 8 pages excluding references full",
         "remarks": "",
         "url": "https://gecco-2027.sigevo.org/",
         "notification": [
