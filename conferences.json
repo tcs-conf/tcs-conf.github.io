@@ -4695,7 +4695,7 @@
         ],
         "start": "2027-06-21",
         "end": "2027-06-24",
-        "submission_requirements": "a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 22 pages excluding references",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 22 pages excluding references",
         "remarks": "workshops 19–20 June 2027",
         "url": "https://lics.siglog.org/lics27/",
         "notification": [
