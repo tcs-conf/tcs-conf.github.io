@@ -1181,7 +1181,7 @@
         ],
         "start": "2027-06-28",
         "end": "2027-07-02",
-        "submission_requirements": "<a href=\"https://proceedings.mlr.press/spec.html\" target=\"_blank>PMLR</a>, <b>double-blind</b>, 12 pages",
+        "submission_requirements": "<a href=\"https://proceedings.mlr.press/spec.html\" target=\"_blank\">PMLR</a>, <b>double-blind</b>, 12 pages",
         "remarks": "",
         "url": "https://learningtheory.org/colt2027/",
         "notification": [
