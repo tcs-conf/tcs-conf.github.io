@@ -3306,7 +3306,7 @@
         ],
         "start": "2027-07-12",
         "end": "2027-07-16",
-        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, <b>double-blind</b>, 8 pages excluding references full",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMart</a>, <b>double-blind</b>, 8 pages excluding references full",
         "remarks": "",
         "url": "https://gecco-2027.sigevo.org/",
         "notification": [
@@ -5454,7 +5454,7 @@
         ],
         "start": "2027-06-13",
         "end": "2027-06-19",
-        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMsmall</a>, <b>double-blind</b>, 15 pages excluding references",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMsmall</a>, <b>double-blind</b>, 15 pages excluding references",
         "remarks": "",
         "url": "https://2027.sigmod.org/",
         "notification": [
@@ -6282,7 +6282,7 @@
         ],
         "start": "2027-06-13",
         "end": "2027-06-19",
-        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, <b>double-blind</b>, 12 pages excluding references",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMart</a>, <b>double-blind</b>, 12 pages excluding references",
         "remarks": "",
         "url": "https://2027.sigmod.org/",
         "notification": [
@@ -6581,7 +6581,7 @@
         ],
         "start": "2027-06-05",
         "end": "2027-06-11",
-        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\">ACMart</a>, 10 pages regular, 3 pages brief announcements, both excluding references; two submission cycles",
+        "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMart</a>, 10 pages regular, 3 pages brief announcements, both excluding references; two submission cycles",
         "remarks": "",
         "url": "https://spaa.acm.org/",
         "notification": [
