@@ -4561,14 +4561,33 @@
         "city": "Buenos Aires",
         "country": "Argentina",
         "timezone": "America/Argentina/Buenos_Aires",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-04-23"
+            },
+            {
+                "label": "paper submission",
+                "date": "2027-04-28"
+            }
+        ],
         "start": "2027-09-21",
         "end": "2027-09-24",
         "submission_requirements": "",
         "remarks": "workshops 18–20 September 2027",
         "url": "https://kr.org/KR2027/",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-06-30"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-07-14"
+            }
+        ],
         "early_registration": []
     },
     {
