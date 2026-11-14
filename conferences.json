@@ -1443,7 +1443,7 @@
         "early_registration": [
             {
                 "label": "early registration",
-                "date": "2026-12-02"
+                "date": "2026-12-10"
             }
         ]
     },
@@ -2101,7 +2101,12 @@
                 "date": "2027-01-27"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-02-10"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -2298,7 +2303,12 @@
                 "date": "2026-12-22"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-25"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -3202,7 +3212,12 @@
             }
         ],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2026-12-03"
+            }
+        ]
     },
     {
         "acronym": "FTSCS",
@@ -3915,7 +3930,12 @@
                 "date": "2026-12-22"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-25"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -4058,11 +4078,16 @@
         "remarks": "",
         "url": "https://www.gcet-conference.com/IOTSMS2026/",
         "notification": [],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-15"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
-                "date": "2026-11-05"
+                "date": "2026-11-15"
             }
         ]
     },
@@ -5260,7 +5285,12 @@
                 "date": "2026-10-28"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-25"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
@@ -5516,11 +5546,16 @@
                 "date": "2026-11-09"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-23"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
-                "date": "2026-12-02"
+                "date": "2026-12-10"
             }
         ]
     },
@@ -5613,8 +5648,18 @@
         "submission_requirements": "",
         "remarks": "",
         "url": "https://www.prima2026.org/",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-09-25"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-10-09"
+            }
+        ],
         "early_registration": [
             {
                 "label": "early registration",
@@ -6851,7 +6896,12 @@
                 "date": "2026-12-22"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-01-25"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -7122,7 +7172,7 @@
         "early_registration": [
             {
                 "label": "early registration",
-                "date": "2026-12-02"
+                "date": "2026-12-10"
             }
         ]
     },
@@ -7293,7 +7343,12 @@
                 "date": "2026-11-09"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2026-11-28"
+            }
+        ],
         "early_registration": []
     },
     {
