@@ -1928,14 +1928,33 @@
         "city": "Amsterdam",
         "country": "Netherlands",
         "timezone": "Europe/Amsterdam",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-03-26"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-04-02"
+            }
+        ],
         "start": "2027-07-08",
         "end": "2027-07-11",
-        "submission_requirements": "",
+        "submission_requirements": "<a href=\"https://dl-2027.github.io/assets/CEURART-DL27.zip\">own format</a>, <b>double-blind</b>, 11 pages regular, 4 pages extended abstracts, both excluding references",
         "remarks": "",
-        "url": "https://dl.kr.org/",
-        "notification": [],
-        "final_version": [],
+        "url": "https://dl-2027.github.io/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-05-07"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-06-09"
+            }
+        ],
         "early_registration": []
     },
     {
