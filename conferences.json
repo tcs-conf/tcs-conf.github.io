@@ -706,13 +706,13 @@
         "final_version": [
             {
                 "label": "final version",
-                "date": "2027-01-26"
+                "date": "2027-01-25"
             }
         ],
         "early_registration": [
             {
                 "label": "registration due",
-                "date": "2027-02-05"
+                "date": "2027-01-25"
             }
         ]
     },
@@ -748,10 +748,10 @@
                 "date": "2027-02-22"
             }
         ],
-        "start": "2027-08-24",
-        "end": "2027-08-27",
+        "start": "2027-08-22",
+        "end": "2027-08-25",
         "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, \n16 pages regular, \n10 pages short, both excluding references; co-located with <a href=\"https://fscd-cade.science.ru.nl/\" target=\"_blank\">FSCD</a>",
-        "remarks": "workshops 22 and 27 August 2027",
+        "remarks": "workshops 21 and 26 August 2027",
         "url": "https://fscd-cade.science.ru.nl/",
         "notification": [
             {
@@ -759,7 +759,12 @@
                 "date": "2027-05-17"
             }
         ],
-        "final_version": [],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-05-31"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -1090,8 +1095,8 @@
         "country": "China",
         "timezone": "Asia/Shanghai",
         "deadlines": [],
-        "start": "2027-07-04",
-        "end": "2027-07-05",
+        "start": "2027-07-03",
+        "end": "2027-07-04",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://www.eaglelogic.org/clar2027/home/",
@@ -2064,14 +2069,33 @@
         "city": "Palermo",
         "country": "Italy",
         "timezone": "Europe/Rome",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-05-03"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-05-10"
+            }
+        ],
         "start": "2027-09-08",
         "end": "2027-09-10",
         "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>",
         "remarks": "",
         "url": "https://ecsqaru2027.unipa.it/",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-06-21"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-07-05"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -2248,33 +2272,18 @@
     {
         "acronym": "ESORICS",
         "name": "European Symposium on Research in Computer Security",
-        "city": "Rome",
-        "country": "Italy",
-        "timezone": "Europe/Rome",
+        "city": "Vienna",
+        "country": "Austria",
+        "timezone": "Europe/Vienna",
         "deadlines": [],
-        "start": "2026-09-14",
-        "end": "2026-09-18",
+        "start": "2027-09-13",
+        "end": "2027-09-15",
         "submission_requirements": "",
-        "remarks": "",
-        "url": "https://sites.google.com/di.uniroma1.it/esorics2026/",
-        "notification": [
-            {
-                "label": "notification",
-                "date": "2026-06-12"
-            }
-        ],
-        "final_version": [
-            {
-                "label": "final version",
-                "date": "2026-06-26"
-            }
-        ],
-        "early_registration": [
-            {
-                "label": "early registration",
-                "date": "2026-06-26"
-            }
-        ]
+        "remarks": "workshops 16–17 September 2027",
+        "url": "https://www.esorics2027.org/",
+        "notification": [],
+        "final_version": [],
+        "early_registration": []
     },
     {
         "acronym": "ETAPS",
@@ -5502,7 +5511,7 @@
             }
         ],
         "start": "2027-06-13",
-        "end": "2027-06-19",
+        "end": "2027-06-18",
         "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMsmall</a>, <b>double-blind</b>, 15 pages excluding references",
         "remarks": "",
         "url": "https://2027.sigmod.org/",
@@ -5700,9 +5709,19 @@
         "submission_requirements": "",
         "remarks": "",
         "url": "https://www.pstnet.ca/pst2027/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-06-07"
+            }
+        ],
         "final_version": [],
-        "early_registration": []
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-06-16"
+            }
+        ]
     },
     {
         "acronym": "QBF",
@@ -6345,7 +6364,7 @@
             }
         ],
         "start": "2027-06-13",
-        "end": "2027-06-19",
+        "end": "2027-06-18",
         "submission_requirements": "<a href=\"https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip\" target=\"_blank\">ACMart</a>, <b>double-blind</b>, 12 pages excluding references",
         "remarks": "",
         "url": "https://2027.sigmod.org/",
@@ -7116,9 +7135,24 @@
         "submission_requirements": "",
         "remarks": "",
         "url": "https://types2027.uniud.it/",
-        "notification": [],
-        "final_version": [],
-        "early_registration": []
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-22"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-30"
+            }
+        ],
+        "early_registration": [
+            {
+                "label": "early registration",
+                "date": "2027-04-12"
+            }
+        ]
     },
     {
         "acronym": "UNIF",
