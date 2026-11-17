@@ -1062,14 +1062,33 @@
         "city": "Timișoara",
         "country": "Romania",
         "timezone": "Europe/Bucharest",
-        "deadlines": [],
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-10"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-01-17"
+            }
+        ],
         "start": "2027-06-07",
         "end": "2027-06-11",
         "submission_requirements": "",
         "remarks": "",
         "url": "https://www.cca-net.de/events.php",
-        "notification": [],
-        "final_version": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-25"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-07"
+            }
+        ],
         "early_registration": []
     },
     {
@@ -1342,7 +1361,7 @@
         "name": "Integration of Constraint Programming, Artificial Intelligence, and Operations Research",
         "city": "Toulouse",
         "country": "France",
-        "timezone": "Europe/Toulouse",
+        "timezone": "Europe/Paris",
         "deadlines": [
             {
                 "label": "abstract submission",
@@ -1358,7 +1377,12 @@
         "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 15 pages long, 8 pages short, both excluding references",
         "remarks": "",
         "url": "https://sites.google.com/view/cpaior2027/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-02-10"
+            }
+        ],
         "final_version": [],
         "early_registration": []
     },
@@ -1919,7 +1943,6 @@
                 "date": "2027-04-01"
             }
         ],
-        "final_version": [],
         "early_registration": []
     },
     {
@@ -1940,7 +1963,7 @@
         ],
         "start": "2027-07-08",
         "end": "2027-07-11",
-        "submission_requirements": "<a href=\"https://dl-2027.github.io/assets/CEURART-DL27.zip\">own format</a>, <b>double-blind</b>, 11 pages regular, 4 pages extended abstracts, both excluding references",
+        "submission_requirements": "<a href=\"https://dl-2027.github.io/assets/CEURART-DL27.zip\">own format</a>, single-blind by default (anonymous review possible in justified cases), 11 pages regular, 4 pages extended abstracts, both excluding references",
         "remarks": "",
         "url": "https://dl-2027.github.io/",
         "notification": [
@@ -2857,7 +2880,12 @@
         "submission_requirements": "<a href=\"https://style.eptcs.org/\" target=\"_blank\">EPTCS</a>, 10 pages extended abstracts, 5 pages short abstracts",
         "remarks": "satellite of CSL 2027",
         "url": "https://fics2027.codeberg.page/",
-        "notification": [],
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2026-12-21"
+            }
+        ],
         "final_version": [],
         "early_registration": []
     },
@@ -3107,7 +3135,7 @@
         "url": "https://www.discotec.org/2027/forte",
         "notification": [
             {
-                "label": "final version",
+                "label": "notification",
                 "date": "2027-03-22"
             }
         ],
@@ -5239,7 +5267,7 @@
         "name": "Optimization and Learning",
         "city": "Kraków",
         "country": "Poland",
-        "timezone": "Europe/Krakow",
+        "timezone": "Europe/Warsaw",
         "deadlines": [
             {
                 "label": "submission",
@@ -5430,7 +5458,7 @@
         "name": "Petri Nets",
         "city": "Rennes",
         "country": "France",
-        "timezone": "Europe/Rennes",
+        "timezone": "Europe/Paris",
         "deadlines": [
             {
                 "label": "abstract submission",
