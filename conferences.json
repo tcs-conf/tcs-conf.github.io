@@ -3626,14 +3626,37 @@
     "city": "Melbourne",
     "country": "Australia",
     "timezone": "Australia/Melbourne",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2027-01-06"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2027-01-13"
+      }
+    ],
     "start": "2027-07-05",
     "end": "2027-07-08",
-    "submission_requirements": "",
+    "submission_requirements": "IEEE, 11 pages including references and appendices; <b>double-blind</b>",
     "remarks": "",
     "url": "https://icdcs2027.icdcs.org/",
-    "notification": [],
-    "final_version": [],
+    "notification": [
+      {
+        "label": "early rejection notification",
+        "date": "2027-03-11"
+      },
+      {
+        "label": "acceptance notification",
+        "date": "2027-04-18"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-05"
+      }
+    ],
     "early_registration": []
   },
   {
