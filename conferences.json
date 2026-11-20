@@ -6233,6 +6233,41 @@
     "final_version": [],
     "early_registration": []
   },
+    {
+        "acronym": "SAT",
+        "name": "Theory and Applications of Satisfiability Testing",
+        "city": "Barcelona",
+        "country": "Spain",
+        "timezone": "Europe/Madrid",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-02-15"
+            },
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-22"
+            }
+        ],
+        "start": "2027-07-05",
+        "end": "2027-07-09",
+        "submission_requirements": "",
+        "remarks": "",
+        "url": "https://satisfiability.org/SAT27/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-20"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-04-28"
+            }
+        ],
+        "early_registration": []
+    },
   {
     "acronym": "SC2",
     "name": "Satisfiability Checking and Symbolic Computation",
