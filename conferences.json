@@ -6810,7 +6810,7 @@
         "start": "2027-04-14",
         "end": "2027-04-15",
         "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages full, 16 pages tool, 6 pages short, all excluding references",
-        "remarks": "co-located with <a href=\"\" target=\"_blank\">ETAPS</a>".
+        "remarks": "co-located with <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
         "url": "https://spin-web.github.io/SPIN2027/",
         "notification": [
             {
