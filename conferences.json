@@ -6876,22 +6876,40 @@
     "final_version": [],
     "early_registration": []
   },
-  {
-    "acronym": "SPIN",
-    "name": "International Symposium on Model Checking Software",
-    "city": "",
-    "country": "",
-    "timezone": "",
-    "deadlines": [],
-    "start": "",
-    "end": "",
-    "submission_requirements": "",
-    "remarks": "",
-    "url": "",
-    "notification": [],
-    "final_version": [],
-    "early_registration": []
-  },
+    {
+        "acronym": "SPIN",
+        "name": "International Symposium on Model Checking Software",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "timezone": "Europe/Copenhagen",
+        "deadlines": [
+            {
+                "label": "abstract submission",
+                "date": "2027-01-21"
+            },
+            {
+                "label": "paper submission",
+                "date": "2027-01-28"
+            },
+            {
+                "label": "artifact submission",
+                "date": "2027-02-04"
+            }
+        ],
+        "start": "2027-04-14",
+        "end": "2027-04-15",
+        "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages full, 16 pages tool, 6 pages short, all excluding references; co-located with <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "remarks": "co-located with <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+        "url": "https://spin-web.github.io/SPIN2027/",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-03-05"
+            }
+        ],
+        "final_version": [],
+        "early_registration": []
+    },
   {
     "acronym": "SPIRE",
     "name": "String Processing and Information Retrieval",
