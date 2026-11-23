@@ -911,8 +911,18 @@
         "date": "2027-04-23"
       }
     ],
-    "final_version": [],
-    "early_registration": []
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-18"
+      }
+    ],
+    "early_registration": [
+      {
+        "label": "early registration",
+        "date": "2027-05-18"
+      }
+    ]
   },
   {
     "acronym": "CCA",
@@ -3064,6 +3074,37 @@
     "early_registration": []
   },
   {
+    "acronym": "FOGA",
+    "name": "Foundations of Genetic Algorithms",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "timezone": "Europe/Lisbon",
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2027-05-03"
+      }
+    ],
+    "start": "2027-09-01",
+    "end": "2027-09-03",
+    "submission_requirements": "",
+    "remarks": "",
+    "url": "https://foga2027.dei.uc.pt/",
+    "notification": [
+      {
+        "label": "notification",
+        "date": "2027-06-28"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-07-19"
+      }
+    ],
+    "early_registration": []
+  },
+  {
     "acronym": "FoIKS",
     "name": "Foundations of Information and Knowledge Systems",
     "city": "",
@@ -3520,18 +3561,18 @@
     "timezone": "Europe/Warsaw",
     "deadlines": [
       {
-        "label": "submission deadline",
+        "label": "Track B round 1 submission",
         "date": "2026-09-15"
       }
     ],
     "start": "2027-07-05",
     "end": "2027-07-09",
     "submission_requirements": "<b>valid only for Track B:</b> <a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, no page limit; two submission cycles",
-    "remarks": "",
+    "remarks": "Round 2 for Track B (the only round for Track A): deadline TBA",
     "url": "https://icalp.uj.edu.pl/",
     "notification": [
       {
-        "label": "notification",
+        "label": "Track B round 1 notification",
         "date": "2026-12-08"
       }
     ],
@@ -3638,7 +3679,7 @@
     ],
     "start": "2027-07-05",
     "end": "2027-07-08",
-      "submission_requirements": "<a href=\"https://template-selector.ieee.org/\" target=\"_blank\">IEEE</a>, 11 pages including references and appendices; <b>double-blind</b>",
+    "submission_requirements": "<a href=\"https://template-selector.ieee.org/\" target=\"_blank\">IEEE</a>, 11 pages including references and appendices; <b>double-blind</b>",
     "remarks": "",
     "url": "https://icdcs2027.icdcs.org/",
     "notification": [
@@ -3858,15 +3899,24 @@
   {
     "acronym": "ICML",
     "name": "International Conference on Machine Learning",
-    "city": "",
-    "country": "",
-    "timezone": "",
-    "deadlines": [],
-    "start": "",
-    "end": "",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "timezone": "America/Sao_Paulo",
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2027-01-14"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2027-01-22"
+      }
+    ],
+    "start": "2027-07-31",
+    "end": "2027-08-06",
     "submission_requirements": "",
-    "remarks": "",
-    "url": "https://icml.cc/Conferences/FutureMeetings",
+    "remarks": "Main conference 2–4 August 2027",
+    "url": "https://icml.cc/Conferences/2027/Dates",
     "notification": [],
     "final_version": [],
     "early_registration": []
@@ -4062,7 +4112,12 @@
         "date": "2027-04-21"
       }
     ],
-    "final_version": [],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-07"
+      }
+    ],
     "early_registration": []
   },
   {
@@ -4457,7 +4512,12 @@
       }
     ],
     "final_version": [],
-    "early_registration": []
+    "early_registration": [
+      {
+        "label": "early registration",
+        "date": "2026-12-02"
+      }
+    ]
   },
   {
     "acronym": "ITP",
@@ -4465,14 +4525,33 @@
     "city": "Glasgow, Scotland",
     "country": "UK",
     "timezone": "Europe/London",
-    "deadlines": [],
-    "start": "",
-    "end": "",
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2027-02-08"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2027-02-15"
+      }
+    ],
+    "start": "2027-08-03",
+    "end": "2027-08-06",
     "submission_requirements": "",
     "remarks": "",
     "url": "https://itp-conference-2027.github.io/",
-    "notification": [],
-    "final_version": [],
+    "notification": [
+      {
+        "label": "notification",
+        "date": "2027-04-26"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-25"
+      }
+    ],
     "early_registration": []
   },
   {
@@ -4570,8 +4649,18 @@
         "date": "2027-04-12"
       }
     ],
-    "final_version": [],
-    "early_registration": []
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-04-22"
+      }
+    ],
+    "early_registration": [
+      {
+        "label": "early registration",
+        "date": "2027-05-05"
+      }
+    ]
   },
   {
     "acronym": "JAF",
@@ -4836,7 +4925,7 @@
     ],
     "start": "2027-06-21",
     "end": "2027-06-24",
-    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 22 pages excluding references",
+    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 22 pages excluding references; <b>single-blind</b>; the submitted version must be posted publicly on arXiv within one week of the full-paper deadline",
     "remarks": "workshops 19–20 June 2027",
     "url": "https://lics.siglog.org/lics27/",
     "notification": [
@@ -6217,41 +6306,41 @@
       }
     ]
   },
-    {
-        "acronym": "SAT",
-        "name": "Theory and Applications of Satisfiability Testing",
-        "city": "Barcelona",
-        "country": "Spain",
-        "timezone": "Europe/Madrid",
-        "deadlines": [
-            {
-                "label": "abstract submission",
-                "date": "2027-02-15"
-            },
-            {
-                "label": "full-paper submission",
-                "date": "2027-02-22"
-            }
-        ],
-        "start": "2027-07-05",
-        "end": "2027-07-09",
-        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 15 pages long, 8 pages short, 8 pages tool, all excluding references",
-        "remarks": "",
-        "url": "https://satisfiability.org/SAT27/",
-        "notification": [
-            {
-                "label": "notification",
-                "date": "2027-04-20"
-            }
-        ],
-        "final_version": [
-            {
-                "label": "final version",
-                "date": "2027-04-28"
-            }
-        ],
-        "early_registration": []
-    },
+  {
+    "acronym": "SAT",
+    "name": "Theory and Applications of Satisfiability Testing",
+    "city": "Barcelona",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "deadlines": [
+      {
+        "label": "abstract submission",
+        "date": "2027-02-15"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2027-02-22"
+      }
+    ],
+    "start": "2027-07-05",
+    "end": "2027-07-09",
+    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, 15 pages long, 8 pages short, 8 pages tool, all excluding references",
+    "remarks": "",
+    "url": "https://satisfiability.org/SAT27/",
+    "notification": [
+      {
+        "label": "notification",
+        "date": "2027-04-20"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-04-28"
+      }
+    ],
+    "early_registration": []
+  },
   {
     "acronym": "SC2",
     "name": "Satisfiability Checking and Symbolic Computation",
