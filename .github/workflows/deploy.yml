@@ -6,22 +6,17 @@ on:
       - main
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
+    name: Prepare and upload website
     runs-on: ubuntu-latest
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: read
 
     steps:
       - name: Checkout
@@ -48,6 +43,47 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: .
+
+  deploy:
+    name: Publish website
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Wait for the uploaded website
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          endpoint="repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts?name=github-pages"
+          for attempt in {1..13}; do
+            count=$(gh api "$endpoint" --jq '[.artifacts[] | select(.expired == false)] | length')
+            echo "Check $attempt for run $GITHUB_RUN_ID found $count unexpired github-pages artifact(s)."
+
+            if [[ "$count" == "1" ]]; then
+              exit 0
+            fi
+
+            if [[ "$count" != "0" ]]; then
+              echo "::error::Expected one github-pages artifact for run $GITHUB_RUN_ID, found $count."
+              exit 1
+            fi
+
+            if [[ "$attempt" != "13" ]]; then
+              sleep 5
+            fi
+          done
+
+          echo "::error::No github-pages artifact became visible for run $GITHUB_RUN_ID after one minute."
+          exit 1
 
       - name: Deploy to GitHub Pages
         id: deployment
