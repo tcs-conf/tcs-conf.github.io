@@ -122,8 +122,18 @@
     "submission_requirements": "<a href=\"https://www.siam.org/media/pjyhr3du/siamproceedingsmacros_022425.zip\">SIAM</a>, 12 pages excluding references",
     "remarks": "",
     "url": "https://www.siam.org/conferences-events/siam-conferences/acda27/",
-    "notification": [],
-    "final_version": [],
+    "notification": [
+      {
+        "label": "notification",
+        "date": "2026-11-02"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2026-11-23"
+      }
+    ],
     "early_registration": [
       {
         "label": "early registration",
@@ -946,14 +956,29 @@
     "city": "Seattle, Washington",
     "country": "USA",
     "timezone": "America/Los_Angeles",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "full-paper submission",
+        "date": "2027-02-05"
+      }
+    ],
     "start": "2027-07-19",
     "end": "2027-07-22",
-    "submission_requirements": "",
-    "remarks": "",
+    "submission_requirements": "<b>non-anonymous</b>; single-column, at least 11 pt, one-inch margins; no page limit, but the first 10 pages should present the merits and key ideas; additional material is read at the committee’s discretion",
+    "remarks": "<a href=\"https://computationalcomplexity.org/Archive/2027/cfp.html\" target=\"_blank\">Call for papers</a>: paper submission closes at 23:59 AoE. Submissions are posted publicly; an AI-use statement is required, and each author must attest to having read, understood, and checked the paper. A 25–30 minute talk video is due within one week of the paper deadline.",
     "url": "https://computationalcomplexity.org/conferences.html",
-    "notification": [],
-    "final_version": [],
+    "notification": [
+      {
+        "label": "notification",
+        "date": "2027-04-30"
+      }
+    ],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-30"
+      }
+    ],
     "early_registration": []
   },
   {
@@ -2322,7 +2347,7 @@
     ],
     "start": "2027-04-10",
     "end": "2027-04-15",
-    "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 25 pages regular, 15 pages experience and fresh perspectives; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+    "submission_requirements": "Research papers: no page limit at submission (LNCS, PACMPL, or TOPLAS); camera-ready in LNCS, up to 25 pages excluding bibliography. Experience reports and fresh perspectives: LNCS, up to 15 pages excluding bibliography at both stages.",
     "remarks": "part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
     "url": "https://etaps.org/2027/conferences/esop/",
     "notification": [
@@ -2700,7 +2725,7 @@
     "start": "2027-03-31",
     "end": "2027-04-02",
     "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>; <b>double-blind</b>; page limits vary by constituent conference",
-    "remarks": "",
+    "remarks": "Separate <a href=\"https://www.evostar.org/2027/important-dates/\" target=\"_blank\">late-breaking abstracts</a> deadline: 21 March 2027.",
     "url": "https://www.evostar.org/2027/",
     "notification": [
       {
@@ -2715,6 +2740,10 @@
       }
     ],
     "early_registration": [
+      {
+        "label": "mandatory registration per accepted paper",
+        "date": "2027-02-03"
+      },
       {
         "label": "early registration",
         "date": "2027-02-24"
@@ -3221,7 +3250,7 @@
     "start": "2027-04-10",
     "end": "2027-04-15",
     "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 18 pages regular; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
-    "remarks": "",
+    "remarks": "Camera-ready deadline is AoE.",
     "url": "https://etaps.org/2027/conferences/fossacs/",
     "notification": [
       {
@@ -3229,7 +3258,12 @@
         "date": "2026-12-22"
       }
     ],
-    "final_version": [],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-01-25"
+      }
+    ],
     "early_registration": []
   },
   {
@@ -3568,7 +3602,7 @@
     "start": "2027-07-05",
     "end": "2027-07-09",
     "submission_requirements": "<b>valid only for Track B:</b> <a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, no page limit; two submission cycles",
-    "remarks": "Round 2 for Track B (the only round for Track A): deadline TBA",
+    "remarks": "Round 2 for Track B (the only round for Track A): deadline TBA. The 8 December notification is for Track B round 1.",
     "url": "https://icalp.uj.edu.pl/",
     "notification": [
       {
@@ -4068,7 +4102,7 @@
     ],
     "start": "2027-04-10",
     "end": "2027-04-15",
-    "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages + 2 pages references long, 8 pages + 1 page references short; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
+    "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 16 pages + 2 pages references long, 8 pages + 2 pages references short; part of <a href=\"https://etaps.org/2027/\" target=\"_blank\">ETAPS</a>",
     "remarks": "",
     "url": "https://etaps.org/2027/conferences/ifs/",
     "notification": [
@@ -4658,7 +4692,7 @@
     "early_registration": [
       {
         "label": "early registration",
-        "date": "2027-05-05"
+        "date": "2027-04-26"
       }
     ]
   },
@@ -6477,11 +6511,20 @@
     "city": "Karlsruhe",
     "country": "Germany",
     "timezone": "Europe/Berlin",
-    "deadlines": [],
+    "deadlines": [
+      {
+        "label": "abstract registration",
+        "date": "2027-02-05"
+      },
+      {
+        "label": "full-paper submission",
+        "date": "2027-02-12"
+      }
+    ],
     "start": "2027-07-21",
     "end": "2027-07-23",
-    "submission_requirements": "",
-    "remarks": "",
+    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 12 pages excluding front matter and bibliography; up to 5 additional pages of supplementary appendix",
+    "remarks": "Submission dates from the <a href=\"https://easychair.org/cfp/sea2027\" target=\"_blank\">organizers’ call for papers</a>; no cutoff time or time zone specified.",
     "url": "https://sea2027.iti.kit.edu/",
     "notification": [],
     "final_version": [],
@@ -6689,7 +6732,7 @@
     "timezone": "Asia/Kolkata",
     "deadlines": [
       {
-        "label": "abstract submission",
+        "label": "registration and conflicts",
         "date": "2026-11-25"
       },
       {
@@ -6700,7 +6743,7 @@
     "start": "2027-06-21",
     "end": "2027-06-25",
     "submission_requirements": "<a href=\"https://computational-geometry.org/documents/socg-lipics-v2021.cls\" target=\"_blank\">SoCG</a>, <b>double-blind</b>, 500 lines excluding title and references",
-    "remarks": "",
+    "remarks": "<a href=\"https://cgweek27.computational-geometry.org/contribute/\" target=\"_blank\">Registration (including conflicts) and full-paper submission</a> close at 23:59 AoE on their respective dates.",
     "url": "https://computational-geometry.org/cg-week/socg/",
     "notification": [
       {
@@ -6782,7 +6825,7 @@
     "start": "2027-02-02",
     "end": "2027-02-05",
     "submission_requirements": "<a href=\"llncs2e.zip\">LNCS</a>, 12 pages excluding references",
-    "remarks": "",
+    "remarks": "Separate <a href=\"https://sofsem2027.conf.uoi.gr/index.php?id=call-for-posters\" target=\"_blank\">poster track (23:59 AoE)</a>: submission 1 December 2026, notification 8 December, camera-ready 14 December.",
     "url": "https://sofsem2027.conf.uoi.gr/",
     "notification": [
       {
@@ -6816,7 +6859,7 @@
       }
     ],
     "start": "2027-01-25",
-    "end": "2027-01-26",
+    "end": "2027-01-27",
     "submission_requirements": "",
     "remarks": "co-located with <a href=\"https://www.siam.org/conferences-events/siam-conferences/soda27/\" target=\"_blank\">SODA</a>",
     "url": "https://www.siam.org/conferences-events/siam-conferences/sosa27/",
@@ -7036,7 +7079,7 @@
     ],
     "start": "2027-06-06",
     "end": "2027-06-11",
-    "submission_requirements": "no page limit but only first 12 pages read",
+    "submission_requirements": "No page limit; the abstract, table of contents, and first 12 pages should present the core contribution. Reviewers may read beyond those pages at their discretion.",
     "remarks": "",
     "url": "https://acm-stoc.org/stoc2027/",
     "notification": [
@@ -7045,7 +7088,12 @@
         "date": "2027-02-01"
       }
     ],
-    "final_version": [],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-04-01"
+      }
+    ],
     "early_registration": []
   },
   {
@@ -7665,7 +7713,7 @@
     "start": "2027-06-15",
     "end": "2027-06-18",
     "submission_requirements": "<a href=\"https://www.uni-bamberg.de/fileadmin/algok/wg2027/socg-lipics-v2021.cls\" target=\"_blank\">own format</a> with <a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 500 lines",
-    "remarks": "",
+    "remarks": "Camera-ready deadline is 23:59 AoE.",
     "url": "https://www.uni-bamberg.de/en/wg2027/",
     "notification": [
       {
@@ -7673,7 +7721,12 @@
         "date": "2027-04-09"
       }
     ],
-    "final_version": [],
+    "final_version": [
+      {
+        "label": "final version",
+        "date": "2027-05-10"
+      }
+    ],
     "early_registration": []
   },
   {
