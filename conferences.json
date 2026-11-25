@@ -950,37 +950,37 @@
     "final_version": [],
     "early_registration": []
   },
-  {
-    "acronym": "CCC",
-    "name": "Computational Complexity Conference",
-    "city": "Seattle, Washington",
-    "country": "USA",
-    "timezone": "America/Los_Angeles",
-    "deadlines": [
-      {
-        "label": "full-paper submission",
-        "date": "2027-02-05"
-      }
-    ],
-    "start": "2027-07-19",
-    "end": "2027-07-22",
-    "submission_requirements": "<b>non-anonymous</b>; single-column, at least 11 pt, one-inch margins; no page limit, but the first 10 pages should present the merits and key ideas; additional material is read at the committee’s discretion",
-    "remarks": "<a href=\"https://computationalcomplexity.org/Archive/2027/cfp.html\" target=\"_blank\">Call for papers</a>: paper submission closes at 23:59 AoE. Submissions are posted publicly; an AI-use statement is required, and each author must attest to having read, understood, and checked the paper. A 25–30 minute talk video is due within one week of the paper deadline.",
-    "url": "https://computationalcomplexity.org/conferences.html",
-    "notification": [
-      {
-        "label": "notification",
-        "date": "2027-04-30"
-      }
-    ],
-    "final_version": [
-      {
-        "label": "final version",
-        "date": "2027-05-30"
-      }
-    ],
-    "early_registration": []
-  },
+    {
+        "acronym": "CCC",
+        "name": "Computational Complexity Conference",
+        "city": "Seattle",
+        "country": " Washington, USA",
+        "timezone": "America/Los_Angeles",
+        "deadlines": [
+            {
+                "label": "full-paper submission",
+                "date": "2027-02-05"
+            }
+        ],
+        "start": "2027-07-19",
+        "end": "2027-07-22",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, no page limit, but the first 10 pages read;  AI-use statement is required; 25–30 minute talk video is due within one week of the paper deadline",
+        "remarks": "",
+        "url": "https://computationalcomplexity.org/Archive/2027/cfp.html",
+        "notification": [
+            {
+                "label": "notification",
+                "date": "2027-04-30"
+            }
+        ],
+        "final_version": [
+            {
+                "label": "final version",
+                "date": "2027-05-30"
+            }
+        ],
+        "early_registration": []
+    },
   {
     "acronym": "CCCG",
     "name": "Canadian Conference on Computational Geometry",
@@ -1846,7 +1846,7 @@
     ],
     "start": "2027-06-29",
     "end": "2027-07-01",
-    "submission_requirements": "12 pages excluding references research/benchmarking; 6 pages including references short/vision/position",
+      "submission_requirements": "<a href=\"https://www.acm.org/publications/proceedings-template\" target=\"_blank\"></a>, 12 pages excluding references research/benchmarking; 6 pages including references short/vision/position",
     "remarks": "",
     "url": "https://2027.debs.org/",
     "notification": [
@@ -1897,9 +1897,9 @@
     ],
     "start": "2027-06-29",
     "end": "2027-07-01",
-    "submission_requirements": "own template, 15 pages excluding references; <b>double-blind</b>",
+    "submission_requirements": "<a href=\"https://www.zlaire.net/deon2027/assets/templates/DEON2027-LaTeX-formatting.zip\">own template</a>, 15 pages excluding references; <b>double-blind</b>",
     "remarks": "",
-    "url": "https://deonconferences.org/",
+    "url": "https://www.zlaire.net/deon2027/",
     "notification": [
       {
         "label": "notification",
@@ -2016,7 +2016,7 @@
     ],
     "start": "2027-07-08",
     "end": "2027-07-11",
-    "submission_requirements": "<a href=\"https://dl-2027.github.io/assets/CEURART-DL27.zip\">own format</a>, single-blind by default (anonymous review possible in justified cases), 11 pages regular, 4 pages extended abstracts, both excluding references",
+    "submission_requirements": "<a href=\"https://dl-2027.github.io/assets/CEURART-DL27.zip\">own format</a>, 11 pages regular, 4 pages extended abstracts, both excluding references",
     "remarks": "",
     "url": "https://dl-2027.github.io/",
     "notification": [
@@ -3794,7 +3794,7 @@
     ],
     "start": "2027-09-26",
     "end": "2027-10-01",
-    "submission_requirements": "ACM Small, 25 pages full/Functional Pearl, 12 pages Experience Report, excluding bibliography; <b>double-blind</b>",
+      "submission_requirements": "<a href=\"https://www.acm.org/publications/authors/submissions\" target=\"_blank\">ACM Small</a>, <b>double-blind</b>, 25 pages full/Functional Pearl, 12 pages Experience Report, excluding references;",
     "remarks": "",
     "url": "https://icfp27.sigplan.org/",
     "notification": [
@@ -6523,8 +6523,8 @@
     ],
     "start": "2027-07-21",
     "end": "2027-07-23",
-    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 12 pages excluding front matter and bibliography; up to 5 additional pages of supplementary appendix",
-    "remarks": "Submission dates from the <a href=\"https://easychair.org/cfp/sea2027\" target=\"_blank\">organizers’ call for papers</a>; no cutoff time or time zone specified.",
+    "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 12 pages + 5 pages appendix excluding references",
+    "remarks": "",
     "url": "https://sea2027.iti.kit.edu/",
     "notification": [],
     "final_version": [],
