@@ -953,8 +953,8 @@
     {
         "acronym": "CCC",
         "name": "Computational Complexity Conference",
-        "city": "Seattle",
-        "country": " Washington, USA",
+        "city": "Seattle, Washington",
+        "country": " USA",
         "timezone": "America/Los_Angeles",
         "deadlines": [
             {
