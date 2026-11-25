@@ -964,7 +964,7 @@
         ],
         "start": "2027-07-19",
         "end": "2027-07-22",
-        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, no page limit, but the first 10 pages read;  AI-use statement is required; 25–30 minute talk video is due within one week of the paper deadline",
+        "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, no page limit, but only first 10 pages read;  AI-use statement is required; 25–30 minute talk video is due within one week of the paper deadline",
         "remarks": "",
         "url": "https://computationalcomplexity.org/Archive/2027/cfp.html",
         "notification": [
