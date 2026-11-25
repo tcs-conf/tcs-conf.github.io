@@ -4556,8 +4556,8 @@
   {
     "acronym": "ITP",
     "name": "Interactive Theorem Proving",
-    "city": "Glasgow, Scotland",
-    "country": "UK",
+    "city": "Glasgow",
+      "country": "Scotland, United Kingdom",
     "timezone": "Europe/London",
     "deadlines": [
       {
@@ -4571,7 +4571,7 @@
     ],
     "start": "2027-08-03",
     "end": "2027-08-06",
-    "submission_requirements": "",
+      "submission_requirements": "<a href=\"https://submission.dagstuhl.de/series/details/5#author\" target=\"_blank\">LIPIcs</a>, <b>double-blind</b>, 16 pages regular, 6 pages short, both excluding references",
     "remarks": "",
     "url": "https://itp-conference-2027.github.io/",
     "notification": [
