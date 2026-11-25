@@ -4556,8 +4556,8 @@
   {
     "acronym": "ITP",
     "name": "Interactive Theorem Proving",
-    "city": "Glasgow",
-      "country": "Scotland, United Kingdom",
+      "city": "Glasgow, Scotland",
+      "country": "United Kingdom",
     "timezone": "Europe/London",
     "deadlines": [
       {
