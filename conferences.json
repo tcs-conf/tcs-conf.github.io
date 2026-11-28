@@ -1659,7 +1659,12 @@
         "date": "2026-11-12"
       }
     ],
-    "early_registration": []
+      "early_registration": [
+          {
+              "label": "early registration",
+              "date": "2027-01-04"
+          }
+      ]
   },
   {
     "acronym": "CSR",
@@ -3912,7 +3917,12 @@
         "date": "2026-11-11"
       }
     ],
-    "early_registration": []
+      "early_registration": [
+          {
+              "label": "early registration",
+              "date": "2026-12-15"
+          }
+      ]
   },
   {
     "acronym": "ICLP",
